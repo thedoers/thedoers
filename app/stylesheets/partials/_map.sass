@@ -1,0 +1,45 @@
+#map
+	clear: both
+	border-bottom: 1px $blue dashed
+	+padding-trailer(1)
+	#slides
+		min-height: 190px
+		margin-bottom: 1px
+		ul
+			@include no-bullets
+			@extend .noindent
+			li
+				display: none
+				position: absolute
+				@extend .borded
+				img
+					
+			
+	#steps
+		margin-top: 10px
+		min-height: rhythm(2)
+		+trailer(1)
+		#arrow_left
+			@extend .pointer
+			@include assign-sprite-background($assets)
+			@include replace-with-sprite($assets,"arrow_left-mobile")
+		#arrow_right
+			@extend .pointer
+			@include assign-sprite-background($assets)
+			@include replace-with-sprite($assets,"arrow_right-mobile")
+		#text
+			+clearfix
+			margin-top: 1px
+			ul
+				@extend .noindent
+				li
+					
+					font-family: "miso"
+					font-weight: 400
+					white-space: normal
+					padding: 0px
+					
+					
+							
+
+						
