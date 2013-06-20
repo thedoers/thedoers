@@ -29,23 +29,23 @@ gem 'padrino-contrib'
 
 
 # Test requirements
-group :development, :test do
-	gem 'rspec', :group => "test"
-	gem 'rack-test', :require => "rack/test", :group => "test"
-	gem 'guard-rspec'
-	gem 'guard-spork'
-	gem 'spork'
-	gem 'colored'
-	gem 'deadweight', :require => 'deadweight/hijack/rails'
-end
+# group :development, :test do
+# 	gem 'rspec', :group => "test"
+# 	gem 'rack-test', :require => "rack/test", :group => "test"
+# 	gem 'guard-rspec'
+# 	gem 'guard-spork'
+# 	gem 'spork'
+# 	gem 'colored'
+# 	gem 'deadweight', :require => 'deadweight/hijack/rails'
+# end
 
-group :test do
-	gem 'capybara'
-	gem 'rb-fsevent'
-	gem 'terminal-notifier-guard'
-	gem 'rspec-padrino'
-	gem 'capybara-webkit'
-end
+# group :test do
+# 	gem 'capybara'
+# 	gem 'rb-fsevent'
+# 	gem 'terminal-notifier-guard'
+# 	gem 'rspec-padrino'
+# 	gem 'capybara-webkit'
+# end
 
 
 
