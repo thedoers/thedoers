@@ -1,0 +1,285 @@
+@import h5bp
+
++h5bp-normalize
+@import compass
+@import susy
+@import partials/fonts
+@import partials/grid
+@import partials/custom_mixins
+
++h5bp-normalize
++establish-baseline
+
+$legacy-support-for-ie: true
+
+$assets-layout:smart
+$assets: sprite-map("assets/*.png")
+
+
+$yellow: #F5FD48
+$blue: #2C43B5
+$pink: #FC8686
+$purple: #8591FD
+
+
+$rose: #FF4874
+$light-yellow: #fffed9
+$black: #000
+$acqua: #81FFD0
+
+
+
+.focused
+	background-color: #FC8686 !important
+	label
+		+text-shadow(rgba(209,101,101,1) 3px 3px 0, rgba(209,101,101,1) 3px 3px 0, rgba(209,101,101,1) 3px 3px 0)
+	textarea, input[type="text"], input[type="email"], input[type="url"]
+		@include box-shadow (#FFC0C0 0 1px 0)
+		border: 1px solid #E25959 !important
+		background: #EF7878 !important
+	
+		
+textarea, input[type="text"], input[type="email"], input[type="url"]
+	$image: image-url("textures/form_bg.png")
+	background: $image repeat left top !important
+	border: 1px solid #5D6AC6 !important
+	width: 87% !important
+	margin: 0 !important
+	@include box-shadow (#BBBBFF 0 1px 0)
+	padding-left: 20px !important
+	padding-right: 20px !important
+	display: inline !important
+input[type="file"]
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif !important
+	font-size: px-to-em(16px,16px) !important
+	line-height: px-to-em(20px,16px) !important
+	color: #4b5093 !important
+	font-weight: 400 !important
+	background-image: url('../../images/form_btn_pink.png')
+	background-repeat: no-repeat !important
+	border: none !important
+	height: 27px !important
+	background-color: transparent !important
+	padding-left: 20px !important
+
+
+textarea
+	min-width: 87% !important
+	max-width: 87% !important
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif !important
+	color: $yellow !important
+	font-weight: 400 !important
+	font-size: px-to-em(18px,16px) !important
+	line-height: px-to-em(22px,18px) !important
+	letter-spacing: px-to-em(1px) !important
+	padding: 20px !important
+input[type="text"], input[type="email"], input[type="url"]
+	height: 60px
+	color: $yellow !important
+	font-size: px-to-em(22px,16px) !important
+	line-height: px-to-em(31px,22px) !important
+	letter-spacing: px-to-em(1px)
+label, input[type="text"], , input[type="email"], input[type="url"]
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif !important
+	font-weight: 600 !important
+label
+	width: 96% !important
+	font-size: px-to-em(22px,16px) !important
+	line-height: px-to-em(31px,22px) !important
+	color: black !important
+	text-transform: uppercase
+	+text-shadow(rgba(97,113,224,1) 3px 3px 0, rgba(97,113,224,1) 3px 3px 0, rgba(97,113,224,1) 3px 3px 0)	
+label.desc
+	margin-bottom: 2px !important
+form li.buttons input
+	background-image: url('../../images/form_btn_blue.png')
+	border: none !important
+	width: 126px !important
+	height: 50px !important
+	background-color: transparent !important
+	background-repeat: no-repeat !important
+	color: $yellow !important
+	font-family: "veramono" !important
+	font-weight: 400 !important
+	font-size: 17px !important
+	line-height: 20px !important
+	margin: 0 !important
+	padding: 0 !important
+	vertical-align: normal !important
+form#form1
+	ul
+		margin-top: 30px
+	li#foli178
+		display: none
+	p.instruct
+		border: none !important
+		position: relative
+		left: 0
+		margin: 0
+		margin-top: 10px
+		font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif !important
+		font-size: px-to-em(14px,13px) !important
+		line-height: px-to-em(15px,14px) !important
+		background-color: $yellow
+		padding: 0 15px 2px 5px
+		display: inline
+		+float-left
+		width: auto
+		max-width: 91%
+		opacity: 0.9
+		small
+			color: $blue
+	// .choose-file
+	// 	input[type="file"]
+	// 		display: none
+	// 	span
+	// 		vertical-align: middle
+	// 		+assign-sprite-background($assets)
+	// 		+sprite($assets, "choose_file", true)
+	// 		cursor: pointer
+	// 		display: inline-block
+	label.Field387 span, label.Field388 span, label.Field389 span, label.Field390 span, label.Field391 span, label.Field392 span
+		display: inline-block !important
+	label.Field500_0 span, label.Field500_1 span, label.Field500_2 span, label.Field500_3 span, label.Field502_0 span, label.Field502_1 span
+		display: inline-block !important
+	.check-box
+		margin-bottom: 10px
+		input[type="checkbox"]
+			display: none
+		input[type="checkbox"] ~ label span
+			margin-right: 5px
+			vertical-align: middle
+			+assign-sprite-background($assets)
+			+sprite($assets, "checkbox_false", true)
+			width: 23px !important
+			height: 23px !important
+			cursor: pointer
+			display: inline-block
+		#Field387:checked ~ label.Field387 span, #Field388:checked ~ label.Field388 span, #Field389:checked ~ label.Field389 span, #Field390:checked ~ label.Field390 span, #Field391:checked ~ label.Field391 span, #Field392:checked ~ label.Field392 span
+			+assign-sprite-background($assets)
+			+sprite($assets, "checkbox_true", true)
+	.radio-btn
+		margin-bottom: 10px
+		input[type="radio"]
+			display: none
+		input[type="radio"] ~ label span
+			margin-right: 5px
+			vertical-align: middle
+			+assign-sprite-background($assets)
+			+sprite($assets, "radio_false", true)
+			width: 23px !important
+			height: 23px !important
+			cursor: pointer
+			display: inline-block
+		#Field500_0:checked ~ label.Field500_0 span, #Field500_1:checked ~ label.Field500_1 span, #Field500_2:checked ~ label.Field500_2 span, #Field500_3:checked ~ label.Field500_3 span, #Field502_0:checked ~ label.Field502_0 span, #Field502_1:checked ~ label.Field502_1 span
+			+assign-sprite-background($assets)
+			+sprite($assets, "radio_true", true)
+	.focused
+		.check-box
+			input[type="checkbox"] ~ label span
+				+assign-sprite-background($assets)
+				+sprite($assets, "checkbox_false_focused", true)
+			#Field387:checked ~ label.Field387 span, #Field388:checked ~ label.Field388 span, #Field389:checked ~ label.Field389 span, #Field390:checked ~ label.Field390 span, #Field391:checked ~ label.Field391 span, #Field392:checked ~ label.Field392 span, #Field502_0:checked ~ label.Field502_0 span, #Field502_1:checked ~ label.Field502_1 span
+				+assign-sprite-background($assets)
+				+sprite($assets, "checkbox_true_focused", true)
+		.radio-btn
+			input[type="radio"] ~ label span
+				+assign-sprite-background($assets)
+				+sprite($assets, "radio_false_focused", true)
+			#Field500_0:checked ~ label.Field500_0 span, #Field500_1:checked ~ label.Field500_1 span, #Field500_2:checked ~ label.Field500_2 span, #Field500_3:checked ~ label.Field500_3 span, #Field502_0:checked ~ label.Field502_0 span, #Field502_1:checked ~ label.Field502_1 span
+				+assign-sprite-background($assets)
+				+sprite($assets, "radio_true_focused", true)
+			
+	section
+		div
+			padding: 0 !important
+			margin: 0 !important
+			font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif !important
+			font-size: px-to-em(16px,16px) !important
+			line-height: px-to-em(20px,16px) !important
+			color: #4b5093
+			font-weight: 400
+		a
+			color: #4b5093
+			text-decoration: underline
+			&:hover
+				color: $yellow
+		h3
+			font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif !important
+			font-weight: 600 !important
+			font-size: px-to-em(38px,16px) !important
+			line-height: px-to-em(35px,38px) !important
+			color: black !important
+			text-transform: uppercase
+			+text-shadow(rgba(97,113,224,1) 3px 3px 0, rgba(97,113,224,1) 3px 3px 0, rgba(97,113,224,1) 3px 3px 0)
+			border: none
+			padding: 0
+			margin: 0
+			margin-bottom: 10px
+		hr.spacer
+			width: 100%
+			border: none !important
+			margin: 30px 0
+			height: 1px
+			$image: image-url("textures/hr_dotted.png")
+			background: $image repeat left top
+	span, div
+		width: 100% !important
+		label
+			text-transform: lowercase !important
+			font-size: px-to-em(20px) !important
+			line-height: px-to-em(22px) !important
+			opacity: 0.4
+		.note
+			font-size: px-to-em(16px,16px) !important
+			line-height: px-to-em(20px,16px) !important
+			color: #4b5093
+			font-weight: 400 !important
+			text-transform: none !important
+			text-shadow: none
+	span.symbol
+		font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif !important
+		font-size: px-to-em(20px) !important
+		line-height: px-to-em(22px) !important
+		opacity: 0.4
+		color: black
+		font-weight: 600
+		position: relative
+		+float-left
+		width: auto !important
+		display: inline !important
+		margin: 0
+		margin-bottom: 3px
+		top: 3px
+	span.symbol ~ span label
+		width: auto !important
+		position: absolute
+		top: -30px
+		left: 22px
+	span.symbol ~ span 
+		position: relative
+		
+
+	li
+		margin: 0
+		padding: 10px 0
+		padding-left: 2%
+		padding-right: 2%
+		margin-bottom: 35px
+		width: 100%
+	fieldset
+		label
+			opacity: 1
+		legend
+			font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif !important
+			font-weight: 600 !important
+			font-size: px-to-em(22px,16px) !important
+			line-height: px-to-em(31px,22px) !important
+			color: black !important
+			text-transform: uppercase
+			+text-shadow(rgba(97,113,224,1) 3px 3px 0, rgba(97,113,224,1) 3px 3px 0, rgba(97,113,224,1) 3px 3px 0)
+			margin-bottom: 20px
+	.focused
+		legend.desc
+			+text-shadow(rgba(209,101,101,1) 3px 3px 0, rgba(209,101,101,1) 3px 3px 0, rgba(209,101,101,1) 3px 3px 0)
+
