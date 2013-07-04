@@ -1,0 +1,1 @@
+{"ts":1372866125130,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"#\\ -s puma\n# encoding: utf-8\n\n# This file can be used to start Padrino,\n# just execute it from the command line.\n\n\nrequire File.expand_path(\"../config/boot.rb\", __FILE__)\n\nrun Padrino.application\n"]],"start1":0,"start2":0,"length1":0,"length2":196}]],"length":196}
