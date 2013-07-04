@@ -1,7 +1,7 @@
 @import "compass/css3/hyphenation"
 
 section.page
-	// +susy-grid-background
+	+susy-grid-background
 	+container($total-columns, $break)
 	overflow: hidden
 
@@ -717,6 +717,8 @@ section.page
 				margin-top: 225px
 			.container-right
 				+span-columns(7,7)
+				ul
+					padding-left: 0
 				p.submit-description
 					margin: 0
 					margin-top: 20px
