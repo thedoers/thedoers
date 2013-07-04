@@ -23,6 +23,8 @@ GEM
       multi_json (~> 1.0)
     favicon_maker (0.2.1)
       mini_magick (~> 3.5)
+    ffi (1.9.0)
+    ffi (1.9.0-x86-mingw32)
     fssm (0.2.10)
     haml (4.0.3)
       tilt
@@ -106,6 +108,8 @@ GEM
       rack (>= 1.0)
     rake (10.0.4)
     rb-fsevent (0.9.3)
+    rb-inotify (0.9.0)
+      ffi (>= 0.5.0)
     sass (3.2.9)
     sinatra (1.3.6)
       rack (~> 1.4)
@@ -165,4 +169,5 @@ DEPENDENCIES
   middleman-smusher
   mini_magick
   oily_png
+  rb-inotify
   susy

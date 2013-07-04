@@ -1,0 +1,3 @@
+{"ts":1372954198212,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1372954067351,"patch":[[{"diffs":[[1,"Modernizr.load([\n    //first test need for polyfill\n    {\n        test: window.matchMedia,\n        nope: \"/javascripts/vendor/media.match.min.js\"\n    },\n\n    //and then load enquire\n    \"/javascripts/site.js\"\n]);"]],"start1":0,"start2":0,"length1":0,"length2":212}]],"length":212,"saved":false}
+{"ts":1372958173391,"patch":[[{"diffs":[[0,"ire\n    "],[1,"//"],[0,"\"/javasc"]],"start1":178,"start2":178,"length1":16,"length2":18}]],"length":214,"saved":false}

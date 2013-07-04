@@ -13,6 +13,8 @@ gem 'oily_png'
 #gem 'coffee-filter' # Coffeescript filter for HAML
 gem 'mini_magick'
 
+gem 'rb-inotify'
+
 # gem 'rspec'
 # gem 'cucumber'
 # # gem 'angry-pickle'
@@ -37,3 +39,4 @@ gem 'mini_magick'
 # gem 'awesome_print'
 # gem 'better_errors'
 # gem 'binding_of_caller'
+
