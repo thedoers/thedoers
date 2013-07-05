@@ -50,7 +50,7 @@ configure :build do
   # # Use relative URLs
   activate :relative_assets
 
-  activate :smusher
+  #activate :smusher
   
   # Or use a different image path
   # set :http_path, "/Content/images/"
