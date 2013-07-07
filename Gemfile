@@ -13,7 +13,7 @@ gem 'oily_png'
 #gem 'coffee-filter' # Coffeescript filter for HAML
 gem 'mini_magick'
 
-#gem 'rb-inotify'
+gem 'rb-inotify'
 
 # gem 'rspec'
 # gem 'cucumber'
