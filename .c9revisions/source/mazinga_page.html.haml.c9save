@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 {"ts":1373124063349,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"\n.mazinga-main\n%section.page\n\t.mazinga-bg-visible\n\t.mazinga-footer-visible\n\t%a.mazinga-footer-lettering-visible{href: '/qa'}\n\n\t\n\t\n\n"]],"start1":0,"start2":0,"length1":0,"length2":131}]],"length":131}
 {"contributors":[],"silentsave":false,"ts":1373123971449,"patch":[[{"diffs":[[0,"/qa'}\n\n\t"],[-1,"\n\t"],[0,"\n\n"]],"start1":119,"start2":119,"length1":12,"length2":10}]],"length":129,"saved":false}
 {"ts":1373124665908,"patch":[[{"diffs":[[0,"qa'}"],[-1,"\n\n\t\n\n"]],"start1":120,"start2":120,"length1":9,"length2":4}]],"length":124,"saved":false}
+=======
+{"ts":1373043058790,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"\n.mazinga-main\n%section.page\n\t.mazinga-bg-visible\n\t.mazinga-footer-visible\n\t%a.mazinga-footer-lettering-visible{href: '/qa'}\n\n\t\n\t\n\n"]],"start1":0,"start2":0,"length1":0,"length2":131}]],"length":131}
+>>>>>>> cfe846d93703f9ca7567eeb31043e89333d4107e

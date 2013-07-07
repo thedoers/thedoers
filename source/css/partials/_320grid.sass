@@ -1,6 +1,7 @@
 @import "compass/css3/hyphenation"
 
 section.page
+	// +susy-grid-background
 	+container($total-columns, $break)
 	overflow: hidden
 
@@ -122,52 +123,52 @@ ul.menu-container
 						.slash
 							font-size: px-to-em(6px,12px)
 						
-	li.container-hover:hover
-		position: relative
-		.white-line
-			position: relative
-			padding: 15px 3px 5px 5px
-			float: right
-			margin-top: -15px
-			margin-right: -3px
-			margin-bottom: -5px
-			overflow: hidden
-			.hover-corner-left
-				position: absolute
-				top: 2px
-				left: 2px
-				+assign-sprite-background($assets)
-				+sprite($assets, "hover_corner_left", true)
-			.hover-center
-				display: inline-block
-				position: absolute
-				top: 2px
-				left: 16px
-				$image: image-url("textures/hover_center.png")
-				background: $image repeat-x left top
-				height: 37px
-				width: 100%
-			.hover-corner-right, .hover-corner-right-first, .hover-corner-right-last
-				z-index: 3
-				position: absolute
-				top: 2px
-				right: 0
-			.hover-corner-right
-				+assign-sprite-background($assets)
-				+sprite($assets, "hover_corner_right", true)
-			.hover-corner-right-first
-				+assign-sprite-background($assets)
-				+sprite($assets, "hover_corner_right_first", true)
-			.hover-corner-right-last
-				+assign-sprite-background($assets)
-				+sprite($assets, "hover_corner_right_last", true)
-		.fulminetti
-			+assign-sprite-background($assets)
-			+sprite($assets, "fulminetti", true)
-			position: absolute
-			z-index: 9
-			right: -17px
-			top: 0
+	// li.container-hover:hover
+	// 	position: relative
+	// 	.white-line
+	// 		position: relative
+	// 		padding: 15px 3px 5px 5px
+	// 		float: right
+	// 		margin-top: -15px
+	// 		margin-right: -3px
+	// 		margin-bottom: -5px
+	// 		overflow: hidden
+	// 		.hover-corner-left
+	// 			position: absolute
+	// 			top: 2px
+	// 			left: 2px
+	// 			+assign-sprite-background($assets)
+	// 			+sprite($assets, "hover_corner_left", true)
+	// 		.hover-center
+	// 			display: inline-block
+	// 			position: absolute
+	// 			top: 2px
+	// 			left: 16px
+	// 			$image: image-url("textures/hover_center.png")
+	// 			background: $image repeat-x left top
+	// 			height: 37px
+	// 			width: 100%
+	// 		.hover-corner-right, .hover-corner-right-first, .hover-corner-right-last
+	// 			z-index: 3
+	// 			position: absolute
+	// 			top: 2px
+	// 			right: 0
+	// 		.hover-corner-right
+	// 			+assign-sprite-background($assets)
+	// 			+sprite($assets, "hover_corner_right", true)
+	// 		.hover-corner-right-first
+	// 			+assign-sprite-background($assets)
+	// 			+sprite($assets, "hover_corner_right_first", true)
+	// 		.hover-corner-right-last
+	// 			+assign-sprite-background($assets)
+	// 			+sprite($assets, "hover_corner_right_last", true)
+	// 	.fulminetti
+	// 		+assign-sprite-background($assets)
+	// 		+sprite($assets, "fulminetti", true)
+	// 		position: absolute
+	// 		z-index: 9
+	// 		right: -17px
+	// 		top: 0
 	li.container-hover:active
 		.white-line
 			.hover-corner-left, .hover-center, .hover-corner-right, .hover-corner-right-first, .hover-corner-right-last
