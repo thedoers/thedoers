@@ -5,7 +5,7 @@
 		position: fixed
 		top: 0
 		left: 0
-		z-index: 10
+		z-index: 20
 		&:active
 			top: 3px
 			left: 3px
@@ -42,12 +42,11 @@
 		hr.wave, hr.dotted
 			display: none
 		.mission
-			@include clearfix
 			margin-bottom: 100px
 			+span-columns(9,15)
 			+pre(3,15)
 			margin-top: 0
-			margin-bottom: 100px
+			margin-bottom: 70px
 					
 					
 	#bg-submission
@@ -323,7 +322,7 @@
 				
 				
 		.container-submission, .container-hiring
-			p
+			p.testi
 				font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
 				font-size: px-to-em(14px,16px)
 				line-height: px-to-em(18px,14px)
@@ -350,11 +349,11 @@
 				
 				
 		.container-submission
-			p
+			p.testi
 				+span-columns(4,9)
 				margin: 35px 0 0 20px
 		.container-hiring
-			p
+			p.testi
 				position: relative
 				float: left
 				width: 180px
@@ -366,7 +365,8 @@
 			+pre(3,15)
 			list-style-type: none
 			padding: 0
-			margin-bottom: 100px
+			margin-bottom: 200px
+			margin-top: 100px
 			li
 				position: relative
 				float: left
