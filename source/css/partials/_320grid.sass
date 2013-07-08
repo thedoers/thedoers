@@ -1,9 +1,26 @@
 @import "compass/css3/hyphenation"
-
+@import "compass/layout/stretching"
 section.page
 	// +susy-grid-background
 	+container($total-columns, $break)
 	overflow: hidden
+
+//LETTERE
+
+.A
+	+assign-sprite-background($assets)
+	+sprite($assets, "capolettera_A", true)
+	margin-right: 2px
+.W
+	+assign-sprite-background($assets)
+	+sprite($assets, "capolettera_W", true)
+	margin-right: 2px
+.T
+	+assign-sprite-background($assets)
+	+sprite($assets, "capolettera_T", true)
+	margin-left: -3px
+	margin-right: -3px
+
 
 body
 	-webkit-font-smoothing: antialiased
@@ -182,26 +199,33 @@ ul.menu-container
 	
 	
 .bottone-container-hover
+	display: block
+	+clearfix
+	text-decoration: none
+	margin-bottom: -5px
 	position: relative
 	float: right
 	margin-right: 5px
-	//margin-right: 0
 	margin-top: -5px
 	padding-top: 14px
-	@include clearfix
+	a
+		+stretch(0,0,0,0)
+		z-index: 10
+		+hide-text
 	.white-line
 		.bottone_container
 			position: relative
 			display: inline-block
-			@include clearfix
+			+clearfix
 			height: 50px
 			.bottone
 				position: relative
 				left: 11px
 				padding: 0
 				display: block
-				a
+				p
 					@include float-left
+					margin: 0
 					display: block
 					position: relative
 					top: 0
@@ -212,7 +236,6 @@ ul.menu-container
 					font-size: px-to-em(17px,16px)
 					line-height: px-to-em(20px,17px)
 					letter-spacing: px-to-em(2px)
-					text-decoration: none
 					background: $blue
 					padding: 11px 20px
 					.first-letter
@@ -245,9 +268,8 @@ ul.menu-container
 					top: -9px
 					left: -11px
 
+	
 .bottone-container-hover:hover
-	margin-right: 2px
-	margin-bottom: -5px
 	.white-line
 		position: relative
 		padding: 5px 3px 5px 5px
@@ -340,7 +362,7 @@ section.page
 		@include clearfix
 		position: relative
 		margin-bottom: 10px
-		p 
+		p.testi
 			font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
 			font-size: px-to-em(14px,16px)
 			line-height: px-to-em(18px,14px)
@@ -354,15 +376,7 @@ section.page
 				margin-top: -33px
 				margin-bottom: -3px
 				color: transparent
-			.A
-				+assign-sprite-background($assets)
-				+sprite($assets, "capolettera_A", true)
-				margin-right: 2px
-			.T
-				+assign-sprite-background($assets)
-				+sprite($assets, "capolettera_T", true)
-				margin-left: -3px
-				margin-right: -3px
+			
 				
 				
 	p.description

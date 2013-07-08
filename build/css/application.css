@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}audio,canvas,video{display:inline-block;*display:inline;*zoom:1}audio:not([controls]){display:none;height:0}[hidden]{display:none}html{font-size:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}html,button,input,select,textarea{font-family:sans-serif}body{margin:0}a:focus{outline:thin dotted}a:active,a:hover{outline:0}h1{font-size:2em;margin:0.67em 0}h2{font-size:1.5em;margin:0.83em 0}h3{font-size:1.17em;margin:1em 0}h4{font-size:1em;margin:1.33em 0}h5{font-size:0.83em;margin:1.67em 0}h6{font-size:0.67em;margin:2.33em 0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:bold}blockquote{margin:1em 40px}dfn{font-style:italic}hr{-moz-box-sizing:content-box;box-sizing:content-box;height:0}mark{background:#ff0;color:#000}p,pre{margin:1em 0}code,kbd,pre,samp{font-family:monospace, serif;_font-family:'courier new', monospace;font-size:1em}pre{white-space:pre;white-space:pre-wrap;word-wrap:break-word}q{quotes:none}q:before,q:after{content:'';content:none}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-0.5em}sub{bottom:-0.25em}dl,menu,ol,ul{margin:1em 0}dd{margin:0 0 0 40px}menu,ol,ul{padding:0 0 0 40px}nav ul,nav ol{list-style:none;list-style-image:none}img{border:0;-ms-interpolation-mode:bicubic}svg:not(:root){overflow:hidden}figure{margin:0}form{margin:0}fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:0.35em 0.625em 0.75em}legend{border:0;padding:0;white-space:normal;*margin-left:-7px}button,input,select,textarea{font-size:100%;margin:0;vertical-align:baseline;*vertical-align:middle}button,input{line-height:normal}button,select{text-transform:none}button,html input[type="button"],input[type="reset"],input[type="submit"]{-webkit-appearance:button;cursor:pointer;*overflow:visible}button[disabled],html input[disabled]{cursor:default}input[type="checkbox"],input[type="radio"]{box-sizing:border-box;padding:0;*height:13px;*width:13px}input[type="search"]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit-search-decoration{-webkit-appearance:none}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}textarea{overflow:auto;vertical-align:top}table{border-collapse:collapse;border-spacing:0}* html{font-size:100%}html{font-size:16px;line-height:1.5em}@font-face{font-family:"veramono";src:url("/fonts/veramono/veramono-bold-webfont.eot");src:url("/fonts/veramono/veramono-bold-webfont.eot?#iefix") format("eot"),url("/fonts/veramono/veramono-bold-webfont.woff") format("woff"),url("/fonts/veramono/veramono-bold-webfont.ttf") format("truetype");font-weight:600;font-style:normal}@font-face{font-family:"veramono";src:url("/fonts/veramono/veramono-bold-italic-webfont.eot");src:url("/fonts/veramono/veramono-bold-italic-webfont.eot?#iefix") format("eot"),url("/fonts/veramono/veramono-bold-italic-webfont.woff") format("woff"),url("/fonts/veramono/veramono-bold-italic-webfont.ttf") format("truetype");font-weight:600;font-style:italic}@font-face{font-family:"veramono";src:url("/fonts/veramono/veramono-italic-webfont.eot");src:url("/fonts/veramono/veramono-italic-webfont.eot?#iefix") format("eot"),url("/fonts/veramono/veramono-italic-webfont.woff") format("woff"),url("/fonts/veramono/veramono-italic-webfont.ttf") format("truetype");font-weight:400;font-style:italic}@font-face{font-family:"veramono";src:url("/fonts/veramono/veramono-webfont.eot");src:url("/fonts/veramono/veramono-webfont.eot?#iefix") format("eot"),url("/fonts/veramono/veramono-webfont.woff") format("woff"),url("/fonts/veramono/veramono-webfont.ttf") format("truetype");font-weight:400;font-style:normal}section.page{*zoom:1;max-width:25em;_width:25em;padding-left:0.625em;padding-right:0.625em;margin-left:auto;margin-right:auto;overflow:hidden}section.page:after{content:"";display:table;clear:both}@media (min-width: 55em){section.page{max-width:55em}}body{-webkit-font-smoothing:antialiased;background:url("/images/textures/square.png?1373019962") repeat left top}a.logo-doers{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -1575px;height:60px;width:305px;position:absolute;top:-25px;left:-93px;z-index:10}a.logo-doers:hover{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -1378px;height:64px;width:309px}a.logo-doers:active{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -1772px;height:60px;width:305px;top:-22px;left:-90px}a.logo-doers-qa{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -1521px;height:54px;width:240px;position:absolute;top:0;left:0;z-index:3}a.logo-doers-qa:hover,a.logo-doers-qa.logo_short_estrusione_hover,a.logo-doers-qa.logo_short_estrusione-hover{background-position:0 -1442px}a.logo-doers-qa:active,a.logo-doers-qa.logo_short_estrusione_active,a.logo-doers-qa.logo_short_estrusione-active{background-position:0 -1911px}a.logo-doers-qa:hover{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -1442px;height:79px;width:333px;top:-25px;left:-93px}a.logo-doers-qa:active{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -1911px;height:79px;width:333px;top:-19px;left:-87px}.top-spacer{margin-top:20px !important}.bottom-spacer{margin-bottom:20px !important}ul.menu-container{z-index:13;position:fixed;right:10px;top:0;max-width:180px;text-align:right;margin:20px 0;padding:0;list-style-type:none}ul.menu-container li.container-hover .white-line .bottone_container{margin-top:-10px;position:relative;display:inline-block;overflow:hidden;*zoom:1;height:31px}ul.menu-container li.container-hover .white-line .bottone_container .bottone{position:relative;left:11px;padding:0;display:block}ul.menu-container li.container-hover .white-line .bottone_container .bottone .corner_left{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -3191px;height:9px;width:11px;position:relative;display:inline;float:left;top:-9px;left:-11px}ul.menu-container li.container-hover .white-line .bottone_container .bottone .block_center{position:relative;background:#2c43b5;display:inline;float:left;display:block;height:9px;width:100%}ul.menu-container li.container-hover .white-line .bottone_container .bottone .corner_right{z-index:2;position:absolute;top:0;right:11px;display:inline;float:right;background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -2984px;height:31px;width:11px}ul.menu-container li.container-hover .white-line .bottone_container .bottone a{display:inline;float:left;display:block;position:relative;top:0;left:-11px;font-family:"veramono";font-weight:400;color:#2c43b5;font-size:0.75em;line-height:1.16667em;letter-spacing:0.125em;text-decoration:none;background:#f5fd48;padding:4px 8px 2px 14px}ul.menu-container li.container-hover .white-line .bottone_container .bottone a .first-letter,ul.menu-container li.container-hover .white-line .bottone_container .bottone a .slash{color:#fc8686}ul.menu-container li.container-hover .white-line .bottone_container .bottone a .first-letter{font-weight:600;font-style:italic}ul.menu-container li.container-hover .white-line .bottone_container .bottone a .slash{font-size:0.5em}ul.menu-container li.container-hover:hover{position:relative}ul.menu-container li.container-hover:hover .white-line{position:relative;padding:15px 3px 5px 5px;float:right;margin-top:-15px;margin-right:-3px;margin-bottom:-5px;overflow:hidden}ul.menu-container li.container-hover:hover .white-line .hover-corner-left{position:absolute;top:2px;left:2px;background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -3089px;height:37px;width:14px}ul.menu-container li.container-hover:hover .white-line .hover-center{display:inline-block;position:absolute;top:2px;left:16px;background:url("/images/textures/hover_center.png?1373019962") repeat-x left top;height:37px;width:100%}ul.menu-container li.container-hover:hover .white-line .hover-corner-right,ul.menu-container li.container-hover:hover .white-line .hover-corner-right-first,ul.menu-container li.container-hover:hover .white-line .hover-corner-right-last{z-index:3;position:absolute;top:2px;right:0}ul.menu-container li.container-hover:hover .white-line .hover-corner-right{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -3015px;height:37px;width:14px}ul.menu-container li.container-hover:hover .white-line .hover-corner-right-first{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -2841px;height:37px;width:14px}ul.menu-container li.container-hover:hover .white-line .hover-corner-right-last{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -3052px;height:37px;width:14px}ul.menu-container li.container-hover:hover .fulminetti{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -3255px;height:7px;width:23px;position:absolute;z-index:9;right:-17px;top:0}ul.menu-container li.container-hover:active .white-line .hover-corner-left,ul.menu-container li.container-hover:active .white-line .hover-center,ul.menu-container li.container-hover:active .white-line .hover-corner-right,ul.menu-container li.container-hover:active .white-line .hover-corner-right-first,ul.menu-container li.container-hover:active .white-line .hover-corner-right-last{display:none}ul.menu-container li.container-hover:active .white-line .bottone_container .bottone{top:9px;left:22px}ul.menu-container li.container-hover:active .fulminetti{display:none}.bottone-container-hover{position:relative;float:right;margin-right:5px;margin-top:-5px;padding-top:14px;overflow:hidden;*zoom:1}.bottone-container-hover .white-line .bottone_container{position:relative;display:inline-block;overflow:hidden;*zoom:1;height:50px}.bottone-container-hover .white-line .bottone_container .bottone{position:relative;left:11px;padding:0;display:block}.bottone-container-hover .white-line .bottone_container .bottone a{display:inline;float:left;display:block;position:relative;top:0;left:-11px;font-family:"veramono";font-weight:400;color:#f5fd48;font-size:1.0625em;line-height:1.17647em;letter-spacing:0.125em;text-decoration:none;background:#2c43b5;padding:11px 20px}.bottone-container-hover .white-line .bottone_container .bottone a .first-letter{font-weight:600;font-style:italic;color:#fc8686}.bottone-container-hover .white-line .bottone_container .bottone a .small{font-size:0.70588em;line-height:1.17647em}.bottone-container-hover .white-line .bottone_container .bottone .corner_right{z-index:2;position:absolute;top:0;right:11px;display:inline;float:right;background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -2934px;height:50px;width:11px}.bottone-container-hover .white-line .bottone_container .bottone .block_center{position:relative;background:#f5fd48;display:inline;float:left;display:block;height:9px;width:100%}.bottone-container-hover .white-line .bottone_container .bottone .corner_left{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -3200px;height:9px;width:11px;position:relative;display:inline;float:left;top:-9px;left:-11px}.bottone-container-hover:hover{margin-right:2px;margin-bottom:-5px}.bottone-container-hover:hover .white-line{position:relative;padding:5px 3px 5px 5px;float:right;margin-top:-5px;overflow:hidden}.bottone-container-hover:hover .white-line .hover-corner-left{position:absolute;top:2px;left:2px;background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -3126px;height:56px;width:14px}.bottone-container-hover:hover .white-line .hover-center{display:inline-block;position:absolute;top:2px;left:16px;background:url("/images/textures/blue_hover_center.png?1373019962") repeat-x left top;height:56px;width:100%}.bottone-container-hover:hover .white-line .hover-corner-right{z-index:3;position:absolute;top:2px;right:0;background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -2878px;height:56px;width:14px}.bottone-container-hover:hover .fulminetti{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -3255px;height:7px;width:23px;position:absolute;z-index:9;top:0;left:25px}.bottone-container-hover:active .white-line .hover-corner-left,.bottone-container-hover:active .white-line .hover-center,.bottone-container-hover:active .white-line .hover-corner-right{display:none}.bottone-container-hover:active .fulminetti{display:none}.bottone-container-hover:active .bottone{left:22px !important;top:9px}section.page hr.dotted,section.page hr.wave{width:100%;border:none !important;margin:0}section.page hr.dotted{height:1px;background:url("/images/textures/hr_dotted.png?1373019962") repeat left top}section.page hr.wave{height:4px;background:url("/images/textures/hr_wave.png?1373019962") repeat left top;margin-bottom:20px}section.page .mission{overflow:hidden;*zoom:1;margin-bottom:35px;width:100%;float:left;margin-right:5%;display:inline;margin-top:70px}section.page .mission p{z-index:12;position:relative;margin-top:72px;margin-bottom:0;font-family:"Gill Sans", "Gill Sans MT", Calibri, sans-serif;font-size:2.1875em;line-height:1.4em;color:#f5fd48;font-weight:600}section.page .mission p span.capo_lettera{float:left;position:relative;margin-top:-63px;margin-bottom:-30px;color:transparent}section.page .mission p .E_big{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -2191px;height:101px;width:91px;margin-right:3px}section.page .container-submission,section.page .container-hiring{width:100%;float:left;margin-right:5%;display:inline;overflow:hidden;*zoom:1;position:relative;margin-bottom:10px}section.page .container-submission p,section.page .container-hiring p{font-family:"Gill Sans", "Gill Sans MT", Calibri, sans-serif;font-size:0.875em;line-height:1.28571em;color:#f5fd48;font-weight:400;margin-top:35px;margin-bottom:10px}section.page .container-submission p span.capo_lettera,section.page .container-hiring p span.capo_lettera{float:left;position:relative;margin-top:-33px;margin-bottom:-3px;color:transparent}section.page .container-submission p .A,section.page .container-hiring p .A{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -2360px;height:52px;width:47px;margin-right:2px}section.page .container-submission p .T,section.page .container-hiring p .T{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -2562px;height:52px;width:45px;margin-left:-3px;margin-right:-3px}section.page p.description{margin-top:20px;width:100%;float:left;margin-right:5%;display:inline;font-family:"Gill Sans", "Gill Sans MT", Calibri, sans-serif;font-size:1.375em;line-height:1.40909em;color:#f5fd48;font-weight:600}section.page ul.old-site{position:relative;width:100%;float:left;margin-right:5%;display:inline;list-style-type:none;padding:0;margin-bottom:50px}section.page ul.old-site li{position:relative;float:left;margin:0;margin-bottom:15px;clear:both}section.page ul.old-site li:last-child{margin-right:0}section.page ul.old-site li .icon{float:left;position:absolute}section.page ul.old-site li .process{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -2706px;height:45px;width:51px}section.page ul.old-site li .blog{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -2796px;height:45px;width:51px}section.page ul.old-site li .projects{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -2751px;height:45px;width:37px;left:6px}section.page ul.old-site li .container{overflow:hidden;*zoom:1;padding-right:8px;position:relative;float:left;margin-left:70px;margin-top:9px}section.page ul.old-site li .container .shadow-right{height:20px;width:8px;background:#2c43b5;float:right;position:absolute;right:0;top:8px;opacity:0.4}section.page ul.old-site li .container .shadow-bottom{height:8px;width:100%;background:#2c43b5;position:relative;top:-4px;left:8px;opacity:0.4}section.page ul.old-site li .container a{display:inline-block;font-family:"Gill Sans", "Gill Sans MT", Calibri, sans-serif;font-size:1.9375em;color:#fc8686;font-weight:600;text-transform:uppercase;background:black;text-decoration:none;padding:2px 10px 2px 2px;position:relative;z-index:2}section.page ul.old-site li:hover a{color:white !important}section.page ul.old-site li:active a{top:4px;left:4px}section.page ul.question-answer{position:relative;z-index:4;list-style-type:none;padding:0;margin-bottom:50px;margin-top:100px}section.page ul.question-answer li.container{overflow:hidden;*zoom:1;margin:0;margin-bottom:10px;margin-top:10px;position:relative}section.page ul.question-answer li.container .questionmark{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -1635px;height:137px;width:73px;position:absolute;top:13px}section.page ul.question-answer li.container p.question,section.page ul.question-answer li.container p.answer{font-family:"Gill Sans", "Gill Sans MT", Calibri, sans-serif;font-size:0.875em;line-height:1.28571em;color:#f5fd48;padding:32px 0 15px 0;position:relative;z-index:12px;width:70%;float:left;margin-right:5%;display:inline;margin-left:30%;margin-top:0;margin-bottom:0}section.page ul.question-answer li.container p.question{font-weight:600;position:relative;margin-top:10px}section.page ul.question-answer li.container p.question span.capo_lettera{float:left;position:relative;margin-top:-33px;margin-bottom:-3px;color:transparent}section.page ul.question-answer li.container p.question .W{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -2139px;height:52px;width:56px;margin-right:-2px}section.page ul.question-answer li.container p.question .H{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -2510px;height:52px;width:45px;margin-right:2px}section.page ul.question-answer li.container p.answer{text-indent:22px;font-weight:400;padding-top:0;margin-bottom:10px}section.page ul.question-answer li.container p a{color:#2c43b5}section.page ul.question-answer li.container p a:hover{opacity:0.7}section.page ul.question-answer li.container p a:active{color:#fc8686 !important;opacity:1}section.page ul.question-answer li.container p a:visited{color:#f5fd48;opacity:1}section.page{overflow:visible}section.page h1.submission{margin-top:175px;position:relative}section.page h1.submission .arrow_reverse,section.page h1.submission .arrow{width:141px;height:41px;position:absolute;z-index:4;top:-32px;left:0}section.page h1.submission .arrow_reverse{background:url("/images/textures/arrows_reverse.png?1373019962") repeat left top}section.page h1.submission .arrow{background:url("/images/textures/arrows.png?1373019962") repeat left top}section.page h1.submission .wave_line{background:none}section.page h1.submission .container{width:100%;float:left;margin-right:5%;display:inline;margin-bottom:60px}section.page h1.submission .container span{font-family:"Gill Sans", "Gill Sans MT", Calibri, sans-serif;font-size:45px;line-height:38px;color:#fc8686;font-weight:600;text-transform:uppercase;text-decoration:none;padding:2px 10px 2px 2px;position:relative;z-index:2;display:inline-block;background:black;margin:0;margin-bottom:1px;padding:0;padding-right:20px;padding-left:3px}section.page h1.submission .container span .shadow-right{height:27px;width:11px;background:#2c43b5;float:right;position:absolute;right:-11px;top:11px;opacity:0.4}section.page h1.submission .container span .shadow-bottom{height:11px;width:100%;background:#2c43b5;position:absolute;top:38px;left:11px;opacity:0.4}section.page ul.submission{width:100%;float:left;margin-right:5%;display:inline;list-style-type:none;padding:0;margin:0;margin-bottom:0}section.page ul.submission a{margin:0;font-family:"Gill Sans", "Gill Sans MT", Calibri, sans-serif;font-size:22px;line-height:31px;color:#f5fd48;font-weight:600;color:#2c43b5;position:relative;display:inline-block}section.page ul.submission a:hover{opacity:0.7}section.page ul.submission a:active{color:#fc8686 !important;opacity:1}section.page ul.submission a:visited{color:#f5fd48;opacity:1}section.page ul.submission hr.short-spacer{width:25%;float:left;margin-right:5%;display:inline;border:none !important;margin:0;margin-top:30px;height:1px;background:url("/images/textures/hr_dotted.png?1373019962") repeat left top}section.page ul.submission p.keywords{width:100%;float:left;margin-right:5%;display:inline;color:#f5fd48;font-family:"Gill Sans", "Gill Sans MT", Calibri, sans-serif;font-size:1em;line-height:1.25em;font-weight:400}section.page ul.submission p.keywords span{padding:0 4px}section.page ul.submission li{margin-bottom:50px;position:relative;overflow:hidden;*zoom:1}section.page ul.submission li .container-left{width:70%;float:left;margin-right:5%;display:inline;margin-top:10px;margin-bottom:15px}section.page ul.submission li .container-left .icon{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;position:absolute;top:20px;left:-20px}section.page ul.submission li .container-left .identity{background-position:0 -570px;height:190px;width:197px}section.page ul.submission li .container-left .agile{background-position:0 -1030px;height:190px;width:197px}section.page ul.submission li .container-left .graphics-ui{background-position:0 0;height:190px;width:197px}section.page ul.submission li .container-left .user-experience{background-position:0 -840px;height:190px;width:197px}section.page ul.submission li .container-left .business{background-position:0 -380px;height:190px;width:197px}section.page ul.submission li .container-left .community-building{background-position:0 -190px;height:190px;width:197px}section.page ul.submission li .container-left h3{position:relative;margin:0;margin-bottom:1px}section.page ul.submission li .container-left h3 span{font-family:"Gill Sans", "Gill Sans MT", Calibri, sans-serif;font-size:16px;line-height:19px;color:black;font-weight:600;background:#fc8686;padding:0 10px 2px 2px;display:inline-block;position:relative}section.page ul.submission li .container-left h3 span .shadow-right{height:13px;width:8px;background:#2c43b5;float:right;position:absolute;right:-8px;top:8px;opacity:0.4}section.page ul.submission li .container-left h3 span .shadow-bottom{height:8px;width:100%;background:#2c43b5;position:absolute;top:21px;left:8px;opacity:0.4}section.page ul.submission li .container-left h2.single-title{margin-top:23px}section.page ul.submission li .container-left h2{position:relative;margin:0}section.page ul.submission li .container-left h2 .container span{font-family:"Gill Sans", "Gill Sans MT", Calibri, sans-serif;font-size:31px;line-height:28px;color:#fc8686;font-weight:600;text-transform:uppercase;text-decoration:none;padding:2px 10px 2px 2px;position:relative;z-index:2;display:inline-block;background:black;margin:0;margin-bottom:1px;padding:0 10px 0 2px}section.page ul.submission li .container-left h2 .container span .shadow-right{height:20px;width:8px;background:#2c43b5;float:right;position:absolute;right:-8px;top:8px;opacity:0.4}section.page ul.submission li .container-left h2 .container span .shadow-bottom{height:8px;width:100%;background:#2c43b5;position:absolute;top:28px;left:8px;opacity:0.4}section.page ul.submission li .what_we_do{margin-top:225px}section.page ul.submission li .container-right{width:100%;float:left;margin-right:5%;display:inline}section.page ul.submission li .container-right ul{padding-left:0}section.page ul.submission li .container-right p.submit-description{margin:0;margin-top:20px;font-family:"Gill Sans", "Gill Sans MT", Calibri, sans-serif;font-size:1.375em;line-height:1.40909em;color:#f5fd48;font-weight:600}section.page ul.submission li .container-right p.submit-description:first-child{margin-top:10px}section.page ul.submission li .container-right p.submit-description a{color:#2c43b5}section.page ul.submission li .container-right p.submit-description a:hover{opacity:0.7}section.page ul.submission li .container-right p.submit-description a:active{color:#fc8686 !important;opacity:1}section.page ul.submission li .container-right p.submit-description a:visited{color:#f5fd48;opacity:1}section.page ul.submission li .container-right ul.community-building{font-family:"Gill Sans", "Gill Sans MT", Calibri, sans-serif;font-weight:600;color:#f5fd48;font-size:1.375em;line-height:1.40909em;margin-top:40px;margin-bottom:0;padding-left:26px;list-style-type:none}section.page ul.submission li .container-right ul.community-building li{margin:0;margin-bottom:20px;position:relative;overflow:visible !important}section.page ul.submission li .container-right ul.community-building li span.bullet-list{position:absolute;top:0;left:-25px}section.page ul.submission li .container-right ul.community-building li a{color:#2c43b5}section.page ul.submission li .container-right ul.community-building li a:hover{opacity:0.7}section.page ul.submission li .container-right ul.community-building li a:active{color:#fc8686;opacity:1}section.page ul.submission li .container-right ul.community-building li a:visited{color:#f5fd48;opacity:1}section.page{position:relative}section.page p.hiring,section.page p.hiring-last{width:100%;float:left;margin-right:5%;display:inline;margin:0;margin-bottom:20px;font-family:"Gill Sans", "Gill Sans MT", Calibri, sans-serif;font-size:1.375em;line-height:1.40909em;color:#f5fd48;font-weight:600;position:relative}section.page p.hiring-last,section.page p.main-p{margin-bottom:50px}section.page p.thanks{font-size:8.75em;line-height:0.71429em;text-transform:uppercase;margin-bottom:40px;-ms-word-break:break-all;word-break:break-all;word-break:break-word;-webkit-hyphens:auto;-moz-hyphens:auto;hyphens:auto}section.page .stupid-rabbit{position:absolute;border:8px solid #fc8686;outline:4px solid #8591fd}section.page .stupid-rabbit img{margin:0;margin-bottom:-7px}section.page .rabbit-1{top:85px;left:330px;z-index:5}section.page .rabbit-2{top:388px;left:455px;z-index:5}section.page .rabbit-3{top:680px;left:141px;z-index:5}section.page .rabbit-4{top:628px;left:262px}section.page .mazinga-footer,section.page .mazinga-footer-lettering{background:none}section.footer{*zoom:1;max-width:25em;_width:25em;padding-left:0.625em;padding-right:0.625em;margin-left:auto;margin-right:auto}section.footer:after{content:"";display:table;clear:both}@media (min-width: 55em){section.footer{max-width:55em}}section.footer #bg-footer{position:relative;width:100%;float:left;margin-right:5%;display:inline}section.footer #bg-footer .freakin_icon{background-image:url("../../images/fav_animata_114x114.gif");width:114px;height:114px;position:relative;margin:0 auto;margin-bottom:20px}section.footer #bg-footer .bottom{bottom:0;left:0}section.footer #bg-footer .middle{bottom:16px;left:16px;display:none}section.footer #bg-footer .top{bottom:32px;left:0;display:none}section.footer #bg-footer p.contacts{margin:0;margin-bottom:12px;position:relative;font-family:"veramono";font-weight:400;color:#2c43b5;font-size:0.75em;line-height:1.16667em;letter-spacing:0.125em}section.footer #bg-footer p.contacts .first-letter{color:#f5fd48;font-style:italic;font-weight:600}section.footer #bg-footer p.contacts .slash{font-size:0.5em;color:#f5fd48}.mazinga-main{position:absolute;width:100%;height:100%;background:url("/images/textures/mazinga-bg.png?1373019962") repeat left top}section.page .mazinga-bg-visible{background:#8591fd;position:absolute;bottom:0;right:0;width:50px;height:200px}section.page .mazinga-footer-visible{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -760px;height:80px;width:79px;position:fixed;right:0;bottom:0}section.page a.mazinga-footer-lettering-visible{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -2023px;height:116px;width:44px;position:fixed;right:9px;bottom:6px}section.page a.mazinga-footer-lettering-visible:hover{opacity:0.7}@media (min-width: 55em){ul.menu-container{right:40px}a.logo-doers{position:fixed;top:0;left:0;z-index:10}a.logo-doers:active{top:3px;left:3px}a.logo-doers-qa{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -1220px;height:79px;width:333px;position:fixed;top:0;left:0;z-index:3}a.logo-doers-qa:hover,a.logo-doers-qa.logo_estrusione_hover,a.logo-doers-qa.logo_estrusione-hover{background-position:0 -1299px}a.logo-doers-qa:active,a.logo-doers-qa.logo_estrusione_active,a.logo-doers-qa.logo_estrusione-active{background-position:0 -1832px}a.logo-doers-qa:hover{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -1299px;height:79px;width:333px;top:0;left:0}a.logo-doers-qa:active{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -1832px;height:79px;width:333px;top:6px;left:6px}.mazinga-main{position:absolute;width:100%;height:100%;background:url("/images/textures/mazinga-bg.png?1373019962") repeat left top}form#form1 ul{margin-top:0}section.page hr.wave,section.page hr.dotted{display:none}section.page .mission{overflow:hidden;margin-bottom:100px;width:59.09091%;float:left;margin-right:2.27273%;margin-left:20.45455%;margin-top:0;margin-bottom:100px}#bg-submission{background:url("/images/textures/stripes.png?1373019962") repeat left top;height:230px;width:100%;position:absolute}#bg-questions{background:url("/images/textures/questionmark.png?1373019962") repeat left top;height:410px;width:100%;position:fixed;top:100px}section.page p.hiring,section.page p.hiring-last{width:86.36364%;float:left;margin-right:2.27273%}section.page p.hiring-last{margin-bottom:150px}section.page .container-submission,section.page .container-hiring{position:relative;background:#8591fd;margin-top:20px;margin-bottom:0;height:165px}section.page .container-submission .bottone-container-hover,section.page .container-hiring .bottone-container-hover{margin-top:23px}section.page .container-submission{width:59.09091%;float:left;margin-right:2.27273%}section.page .container-hiring{width:38.63636%;float:right;margin-right:0}section.page p.description{margin-top:100px;margin-bottom:0;width:59.09091%;float:left;margin-right:2.27273%;margin-left:20.45455%;font-family:"Gill Sans", "Gill Sans MT", Calibri, sans-serif;font-size:1.375em;line-height:1.40909em;color:#f5fd48;font-weight:600}section.page ul.question-answer{position:relative;z-index:4;list-style-type:none;padding:0;margin-top:300px;margin-bottom:100px;background:url("/images/textures/purple_transparent.png?1373019962") repeat left top}section.page ul.question-answer li.container{overflow:hidden;margin:0;margin-bottom:25px;width:100%;background:#8591fd;padding-top:5px;padding-bottom:0}section.page ul.question-answer li.container .questionmark{display:none}section.page ul.question-answer li.container p.question,section.page ul.question-answer li.container p.answer{font-family:"Gill Sans", "Gill Sans MT", Calibri, sans-serif;font-size:0.875em;line-height:1.28571em;color:#f5fd48;padding:32px 0 10px 0;position:relative;z-index:12px;margin-left:0%}section.page ul.question-answer li.container p.question{width:25%;float:left;margin-right:2.27273%;font-weight:600;position:relative;margin-left:6.81818%;margin-top:0}section.page ul.question-answer li.container p.answer{text-indent:22px;width:52.27273%;float:right;margin-right:0;margin-right:6.81818%;font-weight:400;padding-left:10px;padding-right:10px;margin-bottom:0}section.page{overflow:visible}section.page h1.submission{margin-top:150px;position:relative}section.page h1.submission .arrow_reverse,section.page h1.submission .arrow{width:238px;height:41px;position:absolute;z-index:4;top:-30px;left:-15px}section.page h1.submission .wave_line{height:4px;position:absolute;z-index:3;background:url("/images/textures/hr_wave.png?1373019962") repeat left top}section.page h1.submission .right{top:15px;left:305px;width:400px}section.page h1.submission .left{top:15px;left:-200px;width:250px}section.page h1.submission .container{width:52.27273%;float:left;margin-right:2.27273%;margin-bottom:60px}section.page h1.submission .container span{font-family:"Gill Sans", "Gill Sans MT", Calibri, sans-serif;font-size:50px;line-height:45px;color:#fc8686;font-weight:600;text-transform:uppercase;text-decoration:none;padding:2px 10px 2px 2px;position:relative;z-index:2;display:inline-block;background:black;margin:0;margin-bottom:1px;padding:0;padding-right:20px;padding-left:3px}section.page h1.submission .container span .shadow-right{height:34px;width:11px;background:#2c43b5;float:right;position:absolute;right:-11px;top:11px;opacity:0.4}section.page h1.submission .container span .shadow-bottom{height:11px;width:100%;background:#2c43b5;position:absolute;top:45px;left:11px;opacity:0.4}section.page ul.submission{width:86.36364%;float:left;margin-right:2.27273%;list-style-type:none;padding:0;margin:0;margin-bottom:100px}section.page ul.submission hr.short-spacer{width:21.73913%;float:left;margin-right:4.34783%}section.page ul.submission p.keywords{width:100%;float:left;margin-right:4.34783%}section.page ul.submission li{margin-bottom:62px;overflow:hidden}section.page ul.submission li .container-left{width:36.84211%;float:left;margin-right:2.63158%;margin-top:0;margin-bottom:0}section.page ul.submission li .container-left .icon{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;position:relative;margin-top:40px;top:0;left:0}section.page ul.submission li .container-left h3{position:relative;margin:0;margin-bottom:1px}section.page ul.submission li .container-left h3 span{font-family:"Gill Sans", "Gill Sans MT", Calibri, sans-serif;font-size:16px;line-height:19px;color:black;font-weight:600;background:#fc8686;padding:0 10px 2px 2px;display:inline-block;position:relative}section.page ul.submission li .container-left h3 span .shadow-right{height:13px;width:8px;background:#2c43b5;float:right;position:absolute;right:-8px;top:8px;opacity:0.4}section.page ul.submission li .container-left h3 span .shadow-bottom{height:8px;width:100%;background:#2c43b5;position:absolute;top:21px;left:8px;opacity:0.4}section.page ul.submission li .container-left h2{position:relative;margin:0}section.page ul.submission li .container-left h2 .container span{font-family:"Gill Sans", "Gill Sans MT", Calibri, sans-serif;font-size:31px;line-height:28px;color:#fc8686;font-weight:600;text-transform:uppercase;text-decoration:none;padding:2px 10px 2px 2px;position:relative;z-index:2;display:inline-block;background:black;margin:0;margin-bottom:1px;padding:0 10px 0 2px}section.page ul.submission li .container-left h2 .container span .shadow-right{height:20px;width:8px;background:#2c43b5;float:right;position:absolute;right:-8px;top:8px;opacity:0.4}section.page ul.submission li .container-left h2 .container span .shadow-bottom{height:8px;width:100%;background:#2c43b5;position:absolute;top:28px;left:8px;opacity:0.4}section.page ul.submission li .container-right{width:60.52632%;float:right;margin-right:0}section.page ul.submission li .container-right p.submit-description{margin:0;margin-top:20px;font-family:"Gill Sans", "Gill Sans MT", Calibri, sans-serif;font-size:1.375em;line-height:1.40909em;color:#f5fd48;font-weight:600}section.page ul.submission li .container-right p.submit-description:first-child{margin-top:20px}section.page ul.submission li .container-right p.submit-description a{color:#2c43b5}section.page ul.submission li .container-right p.submit-description a:hover{opacity:0.7}section.page ul.submission li .container-right p.submit-description a:active{color:#fc8686 !important;opacity:1}section.page ul.submission li .container-right p.submit-description a:visited{color:#f5fd48;opacity:1}section.page .container-submission p,section.page .container-hiring p{font-family:"Gill Sans", "Gill Sans MT", Calibri, sans-serif;font-size:0.875em;line-height:1.28571em;color:#f5fd48;font-weight:400}section.page .container-submission p span.capo_lettera,section.page .container-hiring p span.capo_lettera{float:left;position:relative;margin-top:-33px;margin-bottom:-3px;color:transparent}section.page .container-submission p .A,section.page .container-hiring p .A{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -2360px;height:52px;width:47px;margin-right:2px}section.page .container-submission p .T,section.page .container-hiring p .T{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -2562px;height:52px;width:45px;margin-left:-3px;margin-right:-3px}section.page .container-submission p{width:42.30769%;float:left;margin-right:3.84615%;margin:35px 0 0 20px}section.page .container-hiring p{position:relative;float:left;width:180px;margin:35px 0 0 20px}section.page ul.old-site{position:relative;width:59.09091%;float:left;margin-right:2.27273%;margin-left:20.45455%;list-style-type:none;padding:0;margin-bottom:100px}section.page ul.old-site li{position:relative;float:left;margin-right:15px;clear:none;margin-bottom:0}section.page ul.old-site li:last-child{margin-right:0}section.page ul.old-site li .icon{margin-bottom:10px;float:none;position:relative}section.page ul.old-site li .process{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -2706px;height:45px;width:51px}section.page ul.old-site li .blog{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -2796px;height:45px;width:51px}section.page ul.old-site li .projects{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -2751px;height:45px;width:37px;left:0}section.page ul.old-site li .container{overflow:hidden;padding-right:8px;position:relative;float:none;margin-left:0;margin-top:0}section.page ul.old-site li .container .shadow-right{height:20px;width:8px;background:#2c43b5;float:right;position:absolute;right:0;top:8px;opacity:0.4}section.page ul.old-site li .container .shadow-bottom{height:8px;width:100%;background:#2c43b5;position:relative;top:-4px;left:8px;opacity:0.4}section.page ul.old-site li .container a{display:inline-block;font-family:"Gill Sans", "Gill Sans MT", Calibri, sans-serif;font-size:1.9375em;color:#fc8686;font-weight:600;text-transform:uppercase;background:black;text-decoration:none;padding:2px 10px 2px 2px;position:relative;z-index:2}section.page ul.old-site li:hover a{color:white !important}section.page ul.old-site li:active a{top:4px;left:4px}section.page .mazinga-bg{background:#8591fd;position:absolute;bottom:0;right:0;width:50px;height:200px}section.page .mazinga-footer{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -760px;height:80px;width:79px;position:fixed;right:0;bottom:0}section.page a.mazinga-footer-lettering{background-image:url("/images/assets-sa1ee436749.png?1373019962");background-repeat:no-repeat;display:block;background-position:0 -2023px;height:116px;width:44px;position:fixed;right:9px;bottom:6px}section.page a.mazinga-footer-lettering:hover{opacity:0.7}section.footer{position:absolute;width:100%;left:-10px}section.footer #bg-footer{height:16px;width:100%;position:absolute}section.footer #bg-footer .freakin_icon{background-image:url("../../images/fav_animata_16x16.gif");width:16px;height:16px;position:absolute;margin-bottom:0}section.footer #bg-footer .bottom{bottom:0;left:0}section.footer #bg-footer .middle{bottom:16px;left:16px;display:block}section.footer #bg-footer .top{bottom:32px;left:0;display:block}section.footer #bg-footer p.contacts{margin:0;position:absolute;left:43px;bottom:12px;font-family:"veramono";font-weight:400;color:#2c43b5;font-size:0.75em;line-height:1.16667em;letter-spacing:0.125em}section.footer #bg-footer p.contacts .first-letter{color:#f5fd48;font-style:italic;font-weight:600}section.footer #bg-footer p.contacts .slash{font-size:0.5em;color:#f5fd48}}*:focus{outline-style:none;outline-width:0px}
-=======
-/* line 33, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 33, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 article,
 aside,
 details,
@@ -16,7 +13,7 @@ section,
 summary {
   display: block; }
 
-/* line 40, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 40, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 audio,
 canvas,
 video {
@@ -24,22 +21,22 @@ video {
   *display: inline;
   *zoom: 1; }
 
-/* line 48, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 48, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 audio:not([controls]) {
   display: none;
   height: 0; }
 
-/* line 55, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 55, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 [hidden] {
   display: none; }
 
-/* line 69, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 69, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 html {
   font-size: 100%;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%; }
 
-/* line 82, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 82, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 html,
 button,
 input,
@@ -47,83 +44,83 @@ select,
 textarea {
   font-family: sans-serif; }
 
-/* line 88, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 88, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 body {
   margin: 0; }
 
-/* line 103, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 103, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 a:focus {
   outline: thin dotted; }
 
-/* line 109, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 109, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 a:active,
 a:hover {
   outline: 0; }
 
-/* line 122, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 122, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 h1 {
   font-size: 2em;
   margin: 0.67em 0; }
 
-/* line 127, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 127, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 h2 {
   font-size: 1.5em;
   margin: 0.83em 0; }
 
-/* line 132, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 132, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 h3 {
   font-size: 1.17em;
   margin: 1em 0; }
 
-/* line 137, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 137, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 h4 {
   font-size: 1em;
   margin: 1.33em 0; }
 
-/* line 142, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 142, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 h5 {
   font-size: 0.83em;
   margin: 1.67em 0; }
 
-/* line 147, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 147, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 h6 {
   font-size: 0.67em;
   margin: 2.33em 0; }
 
-/* line 153, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 153, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 abbr[title] {
   border-bottom: 1px dotted; }
 
-/* line 159, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 159, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 b,
 strong {
   font-weight: bold; }
 
-/* line 163, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 163, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 blockquote {
   margin: 1em 40px; }
 
-/* line 168, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 168, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 dfn {
   font-style: italic; }
 
-/* line 174, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 174, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 hr {
   -moz-box-sizing: content-box;
   box-sizing: content-box;
   height: 0; }
 
-/* line 181, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 181, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 mark {
   background: #ff0;
   color: #000; }
 
-/* line 188, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 188, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 p,
 pre {
   margin: 1em 0; }
 
-/* line 196, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 196, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 code,
 kbd,
 pre,
@@ -132,27 +129,27 @@ samp {
   _font-family: 'courier new', monospace;
   font-size: 1em; }
 
-/* line 203, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 203, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 pre {
   white-space: pre;
   white-space: pre-wrap;
   word-wrap: break-word; }
 
-/* line 210, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 210, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 q {
   quotes: none; }
 
-/* line 216, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 216, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 q:before,
 q:after {
   content: '';
   content: none; }
 
-/* line 222, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 222, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 small {
   font-size: 80%; }
 
-/* line 228, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 228, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 sub,
 sup {
   font-size: 75%;
@@ -160,68 +157,68 @@ sup {
   position: relative;
   vertical-align: baseline; }
 
-/* line 235, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 235, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 sup {
   top: -0.5em; }
 
-/* line 239, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 239, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 sub {
   bottom: -0.25em; }
 
-/* line 253, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 253, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 dl,
 menu,
 ol,
 ul {
   margin: 1em 0; }
 
-/* line 257, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 257, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 dd {
   margin: 0 0 0 40px; }
 
-/* line 264, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 264, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 menu,
 ol,
 ul {
   padding: 0 0 0 40px; }
 
-/* line 270, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 270, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 nav ul,
 nav ol {
   list-style: none;
   list-style-image: none; }
 
-/* line 283, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 283, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 img {
   border: 0;
   -ms-interpolation-mode: bicubic; }
 
-/* line 289, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 289, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 svg:not(:root) {
   overflow: hidden; }
 
-/* line 300, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 300, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 figure {
   margin: 0; }
 
-/* line 311, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 311, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 form {
   margin: 0; }
 
-/* line 316, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 316, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 fieldset {
   border: 1px solid #c0c0c0;
   margin: 0 2px;
   padding: 0.35em 0.625em 0.75em; }
 
-/* line 325, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 325, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 legend {
   border: 0;
   padding: 0;
   white-space: normal;
   *margin-left: -7px; }
 
-/* line 339, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 339, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 button,
 input,
 select,
@@ -231,17 +228,17 @@ textarea {
   vertical-align: baseline;
   *vertical-align: middle; }
 
-/* line 349, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 349, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 button,
 input {
   line-height: normal; }
 
-/* line 358, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 358, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 button,
 select {
   text-transform: none; }
 
-/* line 372, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 372, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 button,
 html input[type="button"],
 input[type="reset"],
@@ -250,12 +247,12 @@ input[type="submit"] {
   cursor: pointer;
   *overflow: visible; }
 
-/* line 380, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 380, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 button[disabled],
 html input[disabled] {
   cursor: default; }
 
-/* line 389, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 389, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 input[type="checkbox"],
 input[type="radio"] {
   box-sizing: border-box;
@@ -263,39 +260,39 @@ input[type="radio"] {
   *height: 13px;
   *width: 13px; }
 
-/* line 399, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 399, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 input[type="search"] {
   -webkit-appearance: textfield;
   -moz-box-sizing: content-box;
   -webkit-box-sizing: content-box;
   box-sizing: content-box; }
 
-/* line 409, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 409, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 input[type="search"]::-webkit-search-cancel-button,
 input[type="search"]::-webkit-search-decoration {
   -webkit-appearance: none; }
 
-/* line 415, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 415, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 button::-moz-focus-inner,
 input::-moz-focus-inner {
   border: 0;
   padding: 0; }
 
-/* line 422, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 422, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 textarea {
   overflow: auto;
   vertical-align: top; }
 
-/* line 434, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
+/* line 434, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-h5bp-0.1.1/stylesheets/h5bp/_normalize.scss */
 table {
   border-collapse: collapse;
   border-spacing: 0; }
 
-/* line 61, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/_vertical_rhythm.scss */
+/* line 61, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/_vertical_rhythm.scss */
 * html {
   font-size: 100%; }
 
-/* line 64, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/_vertical_rhythm.scss */
+/* line 64, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/_vertical_rhythm.scss */
 html {
   font-size: 16px;
   line-height: 1.5em; }
@@ -328,7 +325,7 @@ html {
   font-weight: 400;
   font-style: normal; }
 
-/* line 3, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+/* line 3, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
 section.page {
   *zoom: 1;
   max-width: 25em;
@@ -338,24 +335,55 @@ section.page {
   margin-left: auto;
   margin-right: auto;
   overflow: hidden; }
-  /* line 38, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/general/_clearfix.scss */
+  /* line 38, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/general/_clearfix.scss */
   section.page:after {
     content: "";
     display: table;
     clear: both; }
   @media (min-width: 55em) {
-    /* line 3, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+    /* line 3, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.page {
       max-width: 55em; } }
 
-/* line 8, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+/* line 10, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
+.A {
+  background-image: url("/images/assets-sa1ee436749.png?1373211074");
+  background-repeat: no-repeat;
+  display: block;
+  background-position: 0 -2360px;
+  height: 52px;
+  width: 47px;
+  margin-right: 2px; }
+
+/* line 14, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
+.W {
+  background-image: url("/images/assets-sa1ee436749.png?1373211074");
+  background-repeat: no-repeat;
+  display: block;
+  background-position: 0 -2139px;
+  height: 52px;
+  width: 56px;
+  margin-right: 2px; }
+
+/* line 18, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
+.T {
+  background-image: url("/images/assets-sa1ee436749.png?1373211074");
+  background-repeat: no-repeat;
+  display: block;
+  background-position: 0 -2562px;
+  height: 52px;
+  width: 45px;
+  margin-left: -3px;
+  margin-right: -3px; }
+
+/* line 25, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
 body {
   -webkit-font-smoothing: antialiased;
-  background: url("/images/textures/square.png?1373022380") repeat left top; }
+  background: url("/images/textures/square.png?1373211074") repeat left top; }
 
-/* line 12, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+/* line 29, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
 a.logo-doers {
-  background-image: url("/images/assets-sa1ee436749.png?1373025805");
+  background-image: url("/images/assets-sa1ee436749.png?1373211074");
   background-repeat: no-repeat;
   display: block;
   background-position: 0 -1575px;
@@ -365,17 +393,17 @@ a.logo-doers {
   top: -25px;
   left: -93px;
   z-index: 10; }
-  /* line 19, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+  /* line 36, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
   a.logo-doers:hover {
-    background-image: url("/images/assets-sa1ee436749.png?1373025805");
+    background-image: url("/images/assets-sa1ee436749.png?1373211074");
     background-repeat: no-repeat;
     display: block;
     background-position: 0 -1378px;
     height: 64px;
     width: 309px; }
-  /* line 22, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+  /* line 39, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
   a.logo-doers:active {
-    background-image: url("/images/assets-sa1ee436749.png?1373025805");
+    background-image: url("/images/assets-sa1ee436749.png?1373211074");
     background-repeat: no-repeat;
     display: block;
     background-position: 0 -1772px;
@@ -384,9 +412,9 @@ a.logo-doers {
     top: -22px;
     left: -90px; }
 
-/* line 27, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+/* line 44, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
 a.logo-doers-qa {
-  background-image: url("/images/assets-sa1ee436749.png?1373025805");
+  background-image: url("/images/assets-sa1ee436749.png?1373211074");
   background-repeat: no-repeat;
   display: block;
   background-position: 0 -1521px;
@@ -396,15 +424,15 @@ a.logo-doers-qa {
   top: 0;
   left: 0;
   z-index: 3; }
-  /* line 43, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+  /* line 43, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
   a.logo-doers-qa:hover, a.logo-doers-qa.logo_short_estrusione_hover, a.logo-doers-qa.logo_short_estrusione-hover {
     background-position: 0 -1442px; }
-  /* line 43, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+  /* line 43, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
   a.logo-doers-qa:active, a.logo-doers-qa.logo_short_estrusione_active, a.logo-doers-qa.logo_short_estrusione-active {
     background-position: 0 -1911px; }
-  /* line 34, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+  /* line 51, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
   a.logo-doers-qa:hover {
-    background-image: url("/images/assets-sa1ee436749.png?1373025805");
+    background-image: url("/images/assets-sa1ee436749.png?1373211074");
     background-repeat: no-repeat;
     display: block;
     background-position: 0 -1442px;
@@ -412,9 +440,9 @@ a.logo-doers-qa {
     width: 333px;
     top: -25px;
     left: -93px; }
-  /* line 39, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+  /* line 56, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
   a.logo-doers-qa:active {
-    background-image: url("/images/assets-sa1ee436749.png?1373025805");
+    background-image: url("/images/assets-sa1ee436749.png?1373211074");
     background-repeat: no-repeat;
     display: block;
     background-position: 0 -1911px;
@@ -423,15 +451,15 @@ a.logo-doers-qa {
     top: -19px;
     left: -87px; }
 
-/* line 44, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+/* line 61, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
 .top-spacer {
   margin-top: 20px !important; }
 
-/* line 46, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+/* line 63, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
 .bottom-spacer {
   margin-bottom: 20px !important; }
 
-/* line 54, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+/* line 71, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
 ul.menu-container {
   z-index: 13;
   position: fixed;
@@ -442,7 +470,7 @@ ul.menu-container {
   margin: 20px 0;
   padding: 0;
   list-style-type: none; }
-  /* line 69, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+  /* line 86, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
   ul.menu-container li.container-hover .white-line .bottone_container {
     margin-top: -10px;
     position: relative;
@@ -450,15 +478,15 @@ ul.menu-container {
     overflow: hidden;
     *zoom: 1;
     height: 31px; }
-    /* line 76, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+    /* line 93, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     ul.menu-container li.container-hover .white-line .bottone_container .bottone {
       position: relative;
       left: 11px;
       padding: 0;
       display: block; }
-      /* line 81, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+      /* line 98, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
       ul.menu-container li.container-hover .white-line .bottone_container .bottone .corner_left {
-        background-image: url("/images/assets-sa1ee436749.png?1373025805");
+        background-image: url("/images/assets-sa1ee436749.png?1373211074");
         background-repeat: no-repeat;
         display: block;
         background-position: 0 -3191px;
@@ -469,7 +497,7 @@ ul.menu-container {
         float: left;
         top: -9px;
         left: -11px; }
-      /* line 88, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+      /* line 105, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
       ul.menu-container li.container-hover .white-line .bottone_container .bottone .block_center {
         position: relative;
         background: #2c43b5;
@@ -478,7 +506,7 @@ ul.menu-container {
         display: block;
         height: 9px;
         width: 100%; }
-      /* line 95, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+      /* line 112, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
       ul.menu-container li.container-hover .white-line .bottone_container .bottone .corner_right {
         z-index: 2;
         position: absolute;
@@ -486,13 +514,13 @@ ul.menu-container {
         right: 11px;
         display: inline;
         float: right;
-        background-image: url("/images/assets-sa1ee436749.png?1373025805");
+        background-image: url("/images/assets-sa1ee436749.png?1373211074");
         background-repeat: no-repeat;
         display: block;
         background-position: 0 -2984px;
         height: 31px;
         width: 11px; }
-      /* line 103, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+      /* line 120, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
       ul.menu-container li.container-hover .white-line .bottone_container .bottone a {
         display: inline;
         float: left;
@@ -509,127 +537,68 @@ ul.menu-container {
         text-decoration: none;
         background: #f5fd48;
         padding: 4px 8px 2px 14px; }
-        /* line 118, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+        /* line 135, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
         ul.menu-container li.container-hover .white-line .bottone_container .bottone a .first-letter, ul.menu-container li.container-hover .white-line .bottone_container .bottone a .slash {
           color: #fc8686; }
-        /* line 120, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+        /* line 137, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
         ul.menu-container li.container-hover .white-line .bottone_container .bottone a .first-letter {
           font-weight: 600;
           font-style: italic; }
-        /* line 123, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+        /* line 140, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
         ul.menu-container li.container-hover .white-line .bottone_container .bottone a .slash {
           font-size: 0.5em; }
-  /* line 126, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
-  ul.menu-container li.container-hover:hover {
-    position: relative; }
-    /* line 128, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
-    ul.menu-container li.container-hover:hover .white-line {
-      position: relative;
-      padding: 15px 3px 5px 5px;
-      float: right;
-      margin-top: -15px;
-      margin-right: -3px;
-      margin-bottom: -5px;
-      overflow: hidden; }
-      /* line 136, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
-      ul.menu-container li.container-hover:hover .white-line .hover-corner-left {
-        position: absolute;
-        top: 2px;
-        left: 2px;
-        background-image: url("/images/assets-sa1ee436749.png?1373025805");
-        background-repeat: no-repeat;
-        display: block;
-        background-position: 0 -3089px;
-        height: 37px;
-        width: 14px; }
-      /* line 142, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
-      ul.menu-container li.container-hover:hover .white-line .hover-center {
-        display: inline-block;
-        position: absolute;
-        top: 2px;
-        left: 16px;
-        background: url("/images/textures/hover_center.png?1373022380") repeat-x left top;
-        height: 37px;
-        width: 100%; }
-      /* line 151, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
-      ul.menu-container li.container-hover:hover .white-line .hover-corner-right, ul.menu-container li.container-hover:hover .white-line .hover-corner-right-first, ul.menu-container li.container-hover:hover .white-line .hover-corner-right-last {
-        z-index: 3;
-        position: absolute;
-        top: 2px;
-        right: 0; }
-      /* line 156, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
-      ul.menu-container li.container-hover:hover .white-line .hover-corner-right {
-        background-image: url("/images/assets-sa1ee436749.png?1373025805");
-        background-repeat: no-repeat;
-        display: block;
-        background-position: 0 -3015px;
-        height: 37px;
-        width: 14px; }
-      /* line 159, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
-      ul.menu-container li.container-hover:hover .white-line .hover-corner-right-first {
-        background-image: url("/images/assets-sa1ee436749.png?1373025805");
-        background-repeat: no-repeat;
-        display: block;
-        background-position: 0 -2841px;
-        height: 37px;
-        width: 14px; }
-      /* line 162, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
-      ul.menu-container li.container-hover:hover .white-line .hover-corner-right-last {
-        background-image: url("/images/assets-sa1ee436749.png?1373025805");
-        background-repeat: no-repeat;
-        display: block;
-        background-position: 0 -3052px;
-        height: 37px;
-        width: 14px; }
-    /* line 165, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
-    ul.menu-container li.container-hover:hover .fulminetti {
-      background-image: url("/images/assets-sa1ee436749.png?1373025805");
-      background-repeat: no-repeat;
-      display: block;
-      background-position: 0 -3255px;
-      height: 7px;
-      width: 23px;
-      position: absolute;
-      z-index: 9;
-      right: -17px;
-      top: 0; }
-  /* line 174, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+  /* line 191, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
   ul.menu-container li.container-hover:active .white-line .hover-corner-left, ul.menu-container li.container-hover:active .white-line .hover-center, ul.menu-container li.container-hover:active .white-line .hover-corner-right, ul.menu-container li.container-hover:active .white-line .hover-corner-right-first, ul.menu-container li.container-hover:active .white-line .hover-corner-right-last {
     display: none; }
-  /* line 177, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+  /* line 194, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
   ul.menu-container li.container-hover:active .white-line .bottone_container .bottone {
     top: 9px;
     left: 22px; }
-  /* line 180, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+  /* line 197, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
   ul.menu-container li.container-hover:active .fulminetti {
     display: none; }
 
-/* line 184, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+/* line 201, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
 .bottone-container-hover {
+  display: block;
+  overflow: hidden;
+  *zoom: 1;
+  text-decoration: none;
+  margin-bottom: -5px;
   position: relative;
   float: right;
   margin-right: 5px;
   margin-top: -5px;
-  padding-top: 14px;
-  overflow: hidden;
-  *zoom: 1; }
-  /* line 193, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+  padding-top: 14px; }
+  /* line 211, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
+  .bottone-container-hover a {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+    text-indent: -119988px;
+    overflow: hidden;
+    text-align: left; }
+  /* line 216, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
   .bottone-container-hover .white-line .bottone_container {
     position: relative;
     display: inline-block;
     overflow: hidden;
     *zoom: 1;
     height: 50px; }
-    /* line 198, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+    /* line 221, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     .bottone-container-hover .white-line .bottone_container .bottone {
       position: relative;
       left: 11px;
       padding: 0;
       display: block; }
-      /* line 203, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
-      .bottone-container-hover .white-line .bottone_container .bottone a {
+      /* line 226, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
+      .bottone-container-hover .white-line .bottone_container .bottone p {
         display: inline;
         float: left;
+        margin: 0;
         display: block;
         position: relative;
         top: 0;
@@ -640,19 +609,18 @@ ul.menu-container {
         font-size: 1.0625em;
         line-height: 1.17647em;
         letter-spacing: 0.125em;
-        text-decoration: none;
         background: #2c43b5;
         padding: 11px 20px; }
-        /* line 218, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
-        .bottone-container-hover .white-line .bottone_container .bottone a .first-letter {
+        /* line 241, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
+        .bottone-container-hover .white-line .bottone_container .bottone p .first-letter {
           font-weight: 600;
           font-style: italic;
           color: #fc8686; }
-        /* line 222, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
-        .bottone-container-hover .white-line .bottone_container .bottone a .small {
+        /* line 245, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
+        .bottone-container-hover .white-line .bottone_container .bottone p .small {
           font-size: 0.70588em;
           line-height: 1.17647em; }
-      /* line 225, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+      /* line 248, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
       .bottone-container-hover .white-line .bottone_container .bottone .corner_right {
         z-index: 2;
         position: absolute;
@@ -660,13 +628,13 @@ ul.menu-container {
         right: 11px;
         display: inline;
         float: right;
-        background-image: url("/images/assets-sa1ee436749.png?1373025805");
+        background-image: url("/images/assets-sa1ee436749.png?1373211074");
         background-repeat: no-repeat;
         display: block;
         background-position: 0 -2934px;
         height: 50px;
         width: 11px; }
-      /* line 233, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+      /* line 256, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
       .bottone-container-hover .white-line .bottone_container .bottone .block_center {
         position: relative;
         background: #f5fd48;
@@ -675,9 +643,9 @@ ul.menu-container {
         display: block;
         height: 9px;
         width: 100%; }
-      /* line 240, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+      /* line 263, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
       .bottone-container-hover .white-line .bottone_container .bottone .corner_left {
-        background-image: url("/images/assets-sa1ee436749.png?1373025805");
+        background-image: url("/images/assets-sa1ee436749.png?1373211074");
         background-repeat: no-repeat;
         display: block;
         background-position: 0 -3200px;
@@ -689,88 +657,84 @@ ul.menu-container {
         top: -9px;
         left: -11px; }
 
-/* line 248, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
-.bottone-container-hover:hover {
-  margin-right: 2px;
-  margin-bottom: -5px; }
-  /* line 251, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
-  .bottone-container-hover:hover .white-line {
-    position: relative;
-    padding: 5px 3px 5px 5px;
-    float: right;
-    margin-top: -5px;
-    overflow: hidden; }
-    /* line 257, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
-    .bottone-container-hover:hover .white-line .hover-corner-left {
-      position: absolute;
-      top: 2px;
-      left: 2px;
-      background-image: url("/images/assets-sa1ee436749.png?1373025805");
-      background-repeat: no-repeat;
-      display: block;
-      background-position: 0 -3126px;
-      height: 56px;
-      width: 14px; }
-    /* line 263, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
-    .bottone-container-hover:hover .white-line .hover-center {
-      display: inline-block;
-      position: absolute;
-      top: 2px;
-      left: 16px;
-      background: url("/images/textures/blue_hover_center.png?1373022380") repeat-x left top;
-      height: 56px;
-      width: 100%; }
-    /* line 272, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
-    .bottone-container-hover:hover .white-line .hover-corner-right {
-      z-index: 3;
-      position: absolute;
-      top: 2px;
-      right: 0;
-      background-image: url("/images/assets-sa1ee436749.png?1373025805");
-      background-repeat: no-repeat;
-      display: block;
-      background-position: 0 -2878px;
-      height: 56px;
-      width: 14px; }
-  /* line 279, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
-  .bottone-container-hover:hover .fulminetti {
-    background-image: url("/images/assets-sa1ee436749.png?1373025805");
+/* line 273, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
+.bottone-container-hover:hover .white-line {
+  position: relative;
+  padding: 5px 3px 5px 5px;
+  float: right;
+  margin-top: -5px;
+  overflow: hidden; }
+  /* line 279, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
+  .bottone-container-hover:hover .white-line .hover-corner-left {
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    background-image: url("/images/assets-sa1ee436749.png?1373211074");
     background-repeat: no-repeat;
     display: block;
-    background-position: 0 -3255px;
-    height: 7px;
-    width: 23px;
+    background-position: 0 -3126px;
+    height: 56px;
+    width: 14px; }
+  /* line 285, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
+  .bottone-container-hover:hover .white-line .hover-center {
+    display: inline-block;
     position: absolute;
-    z-index: 9;
-    top: 0;
-    left: 25px; }
+    top: 2px;
+    left: 16px;
+    background: url("/images/textures/blue_hover_center.png?1373211074") repeat-x left top;
+    height: 56px;
+    width: 100%; }
+  /* line 294, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
+  .bottone-container-hover:hover .white-line .hover-corner-right {
+    z-index: 3;
+    position: absolute;
+    top: 2px;
+    right: 0;
+    background-image: url("/images/assets-sa1ee436749.png?1373211074");
+    background-repeat: no-repeat;
+    display: block;
+    background-position: 0 -2878px;
+    height: 56px;
+    width: 14px; }
+/* line 301, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
+.bottone-container-hover:hover .fulminetti {
+  background-image: url("/images/assets-sa1ee436749.png?1373211074");
+  background-repeat: no-repeat;
+  display: block;
+  background-position: 0 -3255px;
+  height: 7px;
+  width: 23px;
+  position: absolute;
+  z-index: 9;
+  top: 0;
+  left: 25px; }
 
-/* line 289, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+/* line 311, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
 .bottone-container-hover:active .white-line .hover-corner-left, .bottone-container-hover:active .white-line .hover-center, .bottone-container-hover:active .white-line .hover-corner-right {
   display: none; }
-/* line 291, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+/* line 313, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
 .bottone-container-hover:active .fulminetti {
   display: none; }
-/* line 293, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+/* line 315, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
 .bottone-container-hover:active .bottone {
   left: 22px !important;
   top: 9px; }
 
-/* line 298, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+/* line 320, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
 section.page hr.dotted, section.page hr.wave {
   width: 100%;
   border: none !important;
   margin: 0; }
-/* line 302, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+/* line 324, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
 section.page hr.dotted {
   height: 1px;
-  background: url("/images/textures/hr_dotted.png?1373022380") repeat left top; }
-/* line 306, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+  background: url("/images/textures/hr_dotted.png?1373211074") repeat left top; }
+/* line 328, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
 section.page hr.wave {
   height: 4px;
-  background: url("/images/textures/hr_wave.png?1373022380") repeat left top;
+  background: url("/images/textures/hr_wave.png?1373211074") repeat left top;
   margin-bottom: 20px; }
-/* line 311, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+/* line 333, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
 section.page .mission {
   overflow: hidden;
   *zoom: 1;
@@ -780,7 +744,7 @@ section.page .mission {
   margin-right: 5%;
   display: inline;
   margin-top: 70px; }
-  /* line 316, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+  /* line 338, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
   section.page .mission p {
     z-index: 12;
     position: relative;
@@ -791,23 +755,23 @@ section.page .mission {
     line-height: 1.4em;
     color: #f5fd48;
     font-weight: 600; }
-    /* line 326, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+    /* line 348, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.page .mission p span.capo_lettera {
       float: left;
       position: relative;
       margin-top: -63px;
       margin-bottom: -30px;
       color: transparent; }
-    /* line 332, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+    /* line 354, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.page .mission p .E_big {
-      background-image: url("/images/assets-sa1ee436749.png?1373025805");
+      background-image: url("/images/assets-sa1ee436749.png?1373211074");
       background-repeat: no-repeat;
       display: block;
       background-position: 0 -2191px;
       height: 101px;
       width: 91px;
       margin-right: 3px; }
-/* line 338, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+/* line 360, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
 section.page .container-submission, section.page .container-hiring {
   width: 100%;
   float: left;
@@ -817,8 +781,8 @@ section.page .container-submission, section.page .container-hiring {
   *zoom: 1;
   position: relative;
   margin-bottom: 10px; }
-  /* line 343, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
-  section.page .container-submission p, section.page .container-hiring p {
+  /* line 365, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
+  section.page .container-submission p.testi, section.page .container-hiring p.testi {
     font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
     font-size: 0.875em;
     line-height: 1.28571em;
@@ -826,33 +790,14 @@ section.page .container-submission, section.page .container-hiring {
     font-weight: 400;
     margin-top: 35px;
     margin-bottom: 10px; }
-    /* line 351, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
-    section.page .container-submission p span.capo_lettera, section.page .container-hiring p span.capo_lettera {
+    /* line 373, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
+    section.page .container-submission p.testi span.capo_lettera, section.page .container-hiring p.testi span.capo_lettera {
       float: left;
       position: relative;
       margin-top: -33px;
       margin-bottom: -3px;
       color: transparent; }
-    /* line 357, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
-    section.page .container-submission p .A, section.page .container-hiring p .A {
-      background-image: url("/images/assets-sa1ee436749.png?1373025805");
-      background-repeat: no-repeat;
-      display: block;
-      background-position: 0 -2360px;
-      height: 52px;
-      width: 47px;
-      margin-right: 2px; }
-    /* line 361, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
-    section.page .container-submission p .T, section.page .container-hiring p .T {
-      background-image: url("/images/assets-sa1ee436749.png?1373025805");
-      background-repeat: no-repeat;
-      display: block;
-      background-position: 0 -2562px;
-      height: 52px;
-      width: 45px;
-      margin-left: -3px;
-      margin-right: -3px; }
-/* line 368, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+/* line 382, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
 section.page p.description {
   margin-top: 20px;
   width: 100%;
@@ -864,7 +809,7 @@ section.page p.description {
   line-height: 1.40909em;
   color: #f5fd48;
   font-weight: 600; }
-/* line 377, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+/* line 391, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
 section.page ul.old-site {
   position: relative;
   width: 100%;
@@ -874,46 +819,46 @@ section.page ul.old-site {
   list-style-type: none;
   padding: 0;
   margin-bottom: 50px; }
-  /* line 383, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+  /* line 397, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
   section.page ul.old-site li {
     position: relative;
     float: left;
     margin: 0;
     margin-bottom: 15px;
     clear: both; }
-    /* line 390, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+    /* line 404, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.page ul.old-site li:last-child {
       margin-right: 0; }
-    /* line 392, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+    /* line 406, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.page ul.old-site li .icon {
       float: left;
       position: absolute; }
-    /* line 396, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+    /* line 410, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.page ul.old-site li .process {
-      background-image: url("/images/assets-sa1ee436749.png?1373025805");
+      background-image: url("/images/assets-sa1ee436749.png?1373211074");
       background-repeat: no-repeat;
       display: block;
       background-position: 0 -2706px;
       height: 45px;
       width: 51px; }
-    /* line 399, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+    /* line 413, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.page ul.old-site li .blog {
-      background-image: url("/images/assets-sa1ee436749.png?1373025805");
+      background-image: url("/images/assets-sa1ee436749.png?1373211074");
       background-repeat: no-repeat;
       display: block;
       background-position: 0 -2796px;
       height: 45px;
       width: 51px; }
-    /* line 402, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+    /* line 416, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.page ul.old-site li .projects {
-      background-image: url("/images/assets-sa1ee436749.png?1373025805");
+      background-image: url("/images/assets-sa1ee436749.png?1373211074");
       background-repeat: no-repeat;
       display: block;
       background-position: 0 -2751px;
       height: 45px;
       width: 37px;
       left: 6px; }
-    /* line 406, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+    /* line 420, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.page ul.old-site li .container {
       overflow: hidden;
       *zoom: 1;
@@ -922,7 +867,7 @@ section.page ul.old-site {
       float: left;
       margin-left: 70px;
       margin-top: 9px; }
-      /* line 413, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+      /* line 427, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
       section.page ul.old-site li .container .shadow-right {
         height: 20px;
         width: 8px;
@@ -932,7 +877,7 @@ section.page ul.old-site {
         right: 0;
         top: 8px;
         opacity: 0.4; }
-      /* line 422, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+      /* line 436, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
       section.page ul.old-site li .container .shadow-bottom {
         height: 8px;
         width: 100%;
@@ -941,7 +886,7 @@ section.page ul.old-site {
         top: -4px;
         left: 8px;
         opacity: 0.4; }
-      /* line 430, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+      /* line 444, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
       section.page ul.old-site li .container a {
         display: inline-block;
         font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
@@ -954,15 +899,15 @@ section.page ul.old-site {
         padding: 2px 10px 2px 2px;
         position: relative;
         z-index: 2; }
-/* line 444, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+/* line 458, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
 section.page ul.old-site li:hover a {
   color: white !important; }
-/* line 448, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+/* line 462, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
 section.page ul.old-site li:active a {
   top: 4px;
   left: 4px; }
 
-/* line 454, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+/* line 468, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
 section.page ul.question-answer {
   position: relative;
   z-index: 4;
@@ -970,7 +915,7 @@ section.page ul.question-answer {
   padding: 0;
   margin-bottom: 50px;
   margin-top: 100px; }
-  /* line 461, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+  /* line 475, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
   section.page ul.question-answer li.container {
     overflow: hidden;
     *zoom: 1;
@@ -978,9 +923,9 @@ section.page ul.question-answer {
     margin-bottom: 10px;
     margin-top: 10px;
     position: relative; }
-    /* line 467, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+    /* line 481, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.page ul.question-answer li.container .questionmark {
-      background-image: url("/images/assets-sa1ee436749.png?1373025805");
+      background-image: url("/images/assets-sa1ee436749.png?1373211074");
       background-repeat: no-repeat;
       display: block;
       background-position: 0 -1635px;
@@ -988,7 +933,7 @@ section.page ul.question-answer {
       width: 73px;
       position: absolute;
       top: 13px; }
-    /* line 472, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+    /* line 486, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.page ul.question-answer li.container p.question, section.page ul.question-answer li.container p.answer {
       font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
       font-size: 0.875em;
@@ -1004,65 +949,65 @@ section.page ul.question-answer {
       margin-left: 30%;
       margin-top: 0;
       margin-bottom: 0; }
-    /* line 485, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+    /* line 499, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.page ul.question-answer li.container p.question {
       font-weight: 600;
       position: relative;
       margin-top: 10px; }
-      /* line 489, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+      /* line 503, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
       section.page ul.question-answer li.container p.question span.capo_lettera {
         float: left;
         position: relative;
         margin-top: -33px;
         margin-bottom: -3px;
         color: transparent; }
-      /* line 495, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+      /* line 509, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
       section.page ul.question-answer li.container p.question .W {
-        background-image: url("/images/assets-sa1ee436749.png?1373025805");
+        background-image: url("/images/assets-sa1ee436749.png?1373211074");
         background-repeat: no-repeat;
         display: block;
         background-position: 0 -2139px;
         height: 52px;
         width: 56px;
         margin-right: -2px; }
-      /* line 499, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+      /* line 513, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
       section.page ul.question-answer li.container p.question .H {
-        background-image: url("/images/assets-sa1ee436749.png?1373025805");
+        background-image: url("/images/assets-sa1ee436749.png?1373211074");
         background-repeat: no-repeat;
         display: block;
         background-position: 0 -2510px;
         height: 52px;
         width: 45px;
         margin-right: 2px; }
-    /* line 503, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+    /* line 517, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.page ul.question-answer li.container p.answer {
       text-indent: 22px;
       font-weight: 400;
       padding-top: 0;
       margin-bottom: 10px; }
-    /* line 509, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+    /* line 523, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.page ul.question-answer li.container p a {
       color: #2c43b5; }
-      /* line 511, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+      /* line 525, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
       section.page ul.question-answer li.container p a:hover {
         opacity: 0.7; }
-      /* line 513, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+      /* line 527, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
       section.page ul.question-answer li.container p a:active {
         color: #fc8686 !important;
         opacity: 1; }
-      /* line 516, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+      /* line 530, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
       section.page ul.question-answer li.container p a:visited {
         color: #f5fd48;
         opacity: 1; }
 
-/* line 521, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+/* line 535, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
 section.page {
   overflow: visible; }
-  /* line 523, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+  /* line 537, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
   section.page h1.submission {
     margin-top: 175px;
     position: relative; }
-    /* line 526, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+    /* line 540, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.page h1.submission .arrow_reverse, section.page h1.submission .arrow {
       width: 141px;
       height: 41px;
@@ -1070,23 +1015,23 @@ section.page {
       z-index: 4;
       top: -32px;
       left: 0; }
-    /* line 533, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+    /* line 547, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.page h1.submission .arrow_reverse {
-      background: url("/images/textures/arrows_reverse.png?1373022380") repeat left top; }
-    /* line 536, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+      background: url("/images/textures/arrows_reverse.png?1373211074") repeat left top; }
+    /* line 550, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.page h1.submission .arrow {
-      background: url("/images/textures/arrows.png?1373022380") repeat left top; }
-    /* line 539, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+      background: url("/images/textures/arrows.png?1373211074") repeat left top; }
+    /* line 553, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.page h1.submission .wave_line {
       background: none; }
-    /* line 541, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+    /* line 555, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.page h1.submission .container {
       width: 100%;
       float: left;
       margin-right: 5%;
       display: inline;
       margin-bottom: 60px; }
-      /* line 544, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+      /* line 558, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
       section.page h1.submission .container span {
         font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
         font-size: 45px;
@@ -1105,7 +1050,7 @@ section.page {
         padding: 0;
         padding-right: 20px;
         padding-left: 3px; }
-        /* line 562, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+        /* line 576, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
         section.page h1.submission .container span .shadow-right {
           height: 27px;
           width: 11px;
@@ -1115,7 +1060,7 @@ section.page {
           right: -11px;
           top: 11px;
           opacity: 0.4; }
-        /* line 571, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+        /* line 585, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
         section.page h1.submission .container span .shadow-bottom {
           height: 11px;
           width: 100%;
@@ -1124,7 +1069,7 @@ section.page {
           top: 38px;
           left: 11px;
           opacity: 0.4; }
-  /* line 579, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+  /* line 593, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
   section.page ul.submission {
     width: 100%;
     float: left;
@@ -1134,7 +1079,7 @@ section.page {
     padding: 0;
     margin: 0;
     margin-bottom: 0; }
-    /* line 585, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+    /* line 599, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.page ul.submission a {
       margin: 0;
       font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
@@ -1145,18 +1090,18 @@ section.page {
       color: #2c43b5;
       position: relative;
       display: inline-block; }
-      /* line 595, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+      /* line 609, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
       section.page ul.submission a:hover {
         opacity: 0.7; }
-      /* line 597, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+      /* line 611, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
       section.page ul.submission a:active {
         color: #fc8686 !important;
         opacity: 1; }
-      /* line 600, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+      /* line 614, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
       section.page ul.submission a:visited {
         color: #f5fd48;
         opacity: 1; }
-    /* line 603, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+    /* line 617, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.page ul.submission hr.short-spacer {
       width: 25%;
       float: left;
@@ -1166,8 +1111,8 @@ section.page {
       margin: 0;
       margin-top: 30px;
       height: 1px;
-      background: url("/images/textures/hr_dotted.png?1373022380") repeat left top; }
-    /* line 611, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+      background: url("/images/textures/hr_dotted.png?1373211074") repeat left top; }
+    /* line 625, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.page ul.submission p.keywords {
       width: 100%;
       float: left;
@@ -1178,16 +1123,16 @@ section.page {
       font-size: 1em;
       line-height: 1.25em;
       font-weight: 400; }
-      /* line 618, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+      /* line 632, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
       section.page ul.submission p.keywords span {
         padding: 0 4px; }
-    /* line 620, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+    /* line 634, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.page ul.submission li {
       margin-bottom: 50px;
       position: relative;
       overflow: hidden;
       *zoom: 1; }
-      /* line 624, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+      /* line 638, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
       section.page ul.submission li .container-left {
         width: 70%;
         float: left;
@@ -1195,50 +1140,50 @@ section.page {
         display: inline;
         margin-top: 10px;
         margin-bottom: 15px; }
-        /* line 628, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+        /* line 642, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
         section.page ul.submission li .container-left .icon {
-          background-image: url("/images/assets-sa1ee436749.png?1373025805");
+          background-image: url("/images/assets-sa1ee436749.png?1373211074");
           background-repeat: no-repeat;
           display: block;
           position: absolute;
           top: 20px;
           left: -20px; }
-        /* line 633, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+        /* line 647, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
         section.page ul.submission li .container-left .identity {
           background-position: 0 -570px;
           height: 190px;
           width: 197px; }
-        /* line 635, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+        /* line 649, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
         section.page ul.submission li .container-left .agile {
           background-position: 0 -1030px;
           height: 190px;
           width: 197px; }
-        /* line 637, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+        /* line 651, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
         section.page ul.submission li .container-left .graphics-ui {
           background-position: 0 0;
           height: 190px;
           width: 197px; }
-        /* line 639, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+        /* line 653, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
         section.page ul.submission li .container-left .user-experience {
           background-position: 0 -840px;
           height: 190px;
           width: 197px; }
-        /* line 641, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+        /* line 655, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
         section.page ul.submission li .container-left .business {
           background-position: 0 -380px;
           height: 190px;
           width: 197px; }
-        /* line 643, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+        /* line 657, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
         section.page ul.submission li .container-left .community-building {
           background-position: 0 -190px;
           height: 190px;
           width: 197px; }
-        /* line 646, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+        /* line 660, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
         section.page ul.submission li .container-left h3 {
           position: relative;
           margin: 0;
           margin-bottom: 1px; }
-          /* line 650, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+          /* line 664, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
           section.page ul.submission li .container-left h3 span {
             font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
             font-size: 16px;
@@ -1249,7 +1194,7 @@ section.page {
             padding: 0 10px 2px 2px;
             display: inline-block;
             position: relative; }
-            /* line 660, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+            /* line 674, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
             section.page ul.submission li .container-left h3 span .shadow-right {
               height: 13px;
               width: 8px;
@@ -1259,7 +1204,7 @@ section.page {
               right: -8px;
               top: 8px;
               opacity: 0.4; }
-            /* line 669, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+            /* line 683, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
             section.page ul.submission li .container-left h3 span .shadow-bottom {
               height: 8px;
               width: 100%;
@@ -1268,14 +1213,14 @@ section.page {
               top: 21px;
               left: 8px;
               opacity: 0.4; }
-        /* line 677, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+        /* line 691, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
         section.page ul.submission li .container-left h2.single-title {
           margin-top: 23px; }
-        /* line 679, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+        /* line 693, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
         section.page ul.submission li .container-left h2 {
           position: relative;
           margin: 0; }
-          /* line 683, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+          /* line 697, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
           section.page ul.submission li .container-left h2 .container span {
             font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
             font-size: 31px;
@@ -1292,7 +1237,7 @@ section.page {
             margin: 0;
             margin-bottom: 1px;
             padding: 0 10px 0 2px; }
-            /* line 699, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+            /* line 713, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
             section.page ul.submission li .container-left h2 .container span .shadow-right {
               height: 20px;
               width: 8px;
@@ -1302,7 +1247,7 @@ section.page {
               right: -8px;
               top: 8px;
               opacity: 0.4; }
-            /* line 708, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+            /* line 722, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
             section.page ul.submission li .container-left h2 .container span .shadow-bottom {
               height: 8px;
               width: 100%;
@@ -1311,19 +1256,19 @@ section.page {
               top: 28px;
               left: 8px;
               opacity: 0.4; }
-      /* line 716, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+      /* line 730, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
       section.page ul.submission li .what_we_do {
         margin-top: 225px; }
-      /* line 718, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+      /* line 732, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
       section.page ul.submission li .container-right {
         width: 100%;
         float: left;
         margin-right: 5%;
         display: inline; }
-        /* line 720, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+        /* line 734, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
         section.page ul.submission li .container-right ul {
           padding-left: 0; }
-        /* line 722, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+        /* line 736, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
         section.page ul.submission li .container-right p.submit-description {
           margin: 0;
           margin-top: 20px;
@@ -1332,24 +1277,24 @@ section.page {
           line-height: 1.40909em;
           color: #f5fd48;
           font-weight: 600; }
-          /* line 730, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+          /* line 744, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
           section.page ul.submission li .container-right p.submit-description:first-child {
             margin-top: 10px; }
-          /* line 732, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+          /* line 746, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
           section.page ul.submission li .container-right p.submit-description a {
             color: #2c43b5; }
-            /* line 734, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+            /* line 748, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
             section.page ul.submission li .container-right p.submit-description a:hover {
               opacity: 0.7; }
-            /* line 736, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+            /* line 750, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
             section.page ul.submission li .container-right p.submit-description a:active {
               color: #fc8686 !important;
               opacity: 1; }
-            /* line 739, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+            /* line 753, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
             section.page ul.submission li .container-right p.submit-description a:visited {
               color: #f5fd48;
               opacity: 1; }
-        /* line 742, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+        /* line 756, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
         section.page ul.submission li .container-right ul.community-building {
           font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
           font-weight: 600;
@@ -1360,36 +1305,36 @@ section.page {
           margin-bottom: 0;
           padding-left: 26px;
           list-style-type: none; }
-          /* line 752, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+          /* line 766, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
           section.page ul.submission li .container-right ul.community-building li {
             margin: 0;
             margin-bottom: 20px;
             position: relative;
             overflow: visible !important; }
-            /* line 757, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+            /* line 771, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
             section.page ul.submission li .container-right ul.community-building li span.bullet-list {
               position: absolute;
               top: 0;
               left: -25px; }
-            /* line 761, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+            /* line 775, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
             section.page ul.submission li .container-right ul.community-building li a {
               color: #2c43b5; }
-              /* line 763, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+              /* line 777, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
               section.page ul.submission li .container-right ul.community-building li a:hover {
                 opacity: 0.7; }
-              /* line 765, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+              /* line 779, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
               section.page ul.submission li .container-right ul.community-building li a:active {
                 color: #fc8686;
                 opacity: 1; }
-              /* line 768, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+              /* line 782, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
               section.page ul.submission li .container-right ul.community-building li a:visited {
                 color: #f5fd48;
                 opacity: 1; }
 
-/* line 774, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+/* line 788, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
 section.page {
   position: relative; }
-  /* line 776, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+  /* line 790, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
   section.page p.hiring, section.page p.hiring-last {
     width: 100%;
     float: left;
@@ -1403,10 +1348,10 @@ section.page {
     color: #f5fd48;
     font-weight: 600;
     position: relative; }
-  /* line 786, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+  /* line 800, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
   section.page p.hiring-last, section.page p.main-p {
     margin-bottom: 50px; }
-  /* line 788, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+  /* line 802, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
   section.page p.thanks {
     font-size: 8.75em;
     line-height: 0.71429em;
@@ -1418,40 +1363,40 @@ section.page {
     -webkit-hyphens: auto;
     -moz-hyphens: auto;
     hyphens: auto; }
-  /* line 794, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+  /* line 808, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
   section.page .stupid-rabbit {
     position: absolute;
     border: 8px solid #fc8686;
     outline: 4px solid #8591fd; }
-    /* line 798, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+    /* line 812, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.page .stupid-rabbit img {
       margin: 0;
       margin-bottom: -7px; }
-  /* line 802, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+  /* line 816, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
   section.page .rabbit-1 {
     top: 85px;
     left: 330px;
     z-index: 5; }
-  /* line 806, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+  /* line 820, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
   section.page .rabbit-2 {
     top: 388px;
     left: 455px;
     z-index: 5; }
-  /* line 810, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+  /* line 824, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
   section.page .rabbit-3 {
     top: 680px;
     left: 141px;
     z-index: 5; }
-  /* line 814, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+  /* line 828, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
   section.page .rabbit-4 {
     top: 628px;
     left: 262px; }
 
-/* line 823, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+/* line 837, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
 section.page .mazinga-footer, section.page .mazinga-footer-lettering {
   background: none; }
 
-/* line 826, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+/* line 840, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
 section.footer {
   *zoom: 1;
   max-width: 25em;
@@ -1460,23 +1405,23 @@ section.footer {
   padding-right: 0.625em;
   margin-left: auto;
   margin-right: auto; }
-  /* line 38, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/general/_clearfix.scss */
+  /* line 38, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/general/_clearfix.scss */
   section.footer:after {
     content: "";
     display: table;
     clear: both; }
   @media (min-width: 55em) {
-    /* line 826, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+    /* line 840, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.footer {
       max-width: 55em; } }
-  /* line 828, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+  /* line 842, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
   section.footer #bg-footer {
     position: relative;
     width: 100%;
     float: left;
     margin-right: 5%;
     display: inline; }
-    /* line 831, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+    /* line 845, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.footer #bg-footer .freakin_icon {
       background-image: url("../../images/fav_animata_114x114.gif");
       width: 114px;
@@ -1484,21 +1429,21 @@ section.footer {
       position: relative;
       margin: 0 auto;
       margin-bottom: 20px; }
-    /* line 838, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+    /* line 852, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.footer #bg-footer .bottom {
       bottom: 0;
       left: 0; }
-    /* line 841, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+    /* line 855, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.footer #bg-footer .middle {
       bottom: 16px;
       left: 16px;
       display: none; }
-    /* line 845, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+    /* line 859, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.footer #bg-footer .top {
       bottom: 32px;
       left: 0;
       display: none; }
-    /* line 849, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+    /* line 863, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.footer #bg-footer p.contacts {
       margin: 0;
       margin-bottom: 12px;
@@ -1509,24 +1454,24 @@ section.footer {
       font-size: 0.75em;
       line-height: 1.16667em;
       letter-spacing: 0.125em; }
-      /* line 859, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+      /* line 873, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
       section.footer #bg-footer p.contacts .first-letter {
         color: #f5fd48;
         font-style: italic;
         font-weight: 600; }
-      /* line 863, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+      /* line 877, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
       section.footer #bg-footer p.contacts .slash {
         font-size: 0.5em;
         color: #f5fd48; }
 
-/* line 868, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+/* line 882, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
 .mazinga-main {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: url("/images/textures/mazinga-bg.png?1373022380") repeat left top; }
+  background: url("/images/textures/mazinga-bg.png?1373211074") repeat left top; }
 
-/* line 875, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+/* line 889, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
 section.page .mazinga-bg-visible {
   background: #8591fd;
   position: absolute;
@@ -1534,9 +1479,9 @@ section.page .mazinga-bg-visible {
   right: 0;
   width: 50px;
   height: 200px; }
-/* line 882, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+/* line 896, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
 section.page .mazinga-footer-visible {
-  background-image: url("/images/assets-sa1ee436749.png?1373025805");
+  background-image: url("/images/assets-sa1ee436749.png?1373211074");
   background-repeat: no-repeat;
   display: block;
   background-position: 0 -760px;
@@ -1545,9 +1490,9 @@ section.page .mazinga-footer-visible {
   position: fixed;
   right: 0;
   bottom: 0; }
-/* line 888, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+/* line 902, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
 section.page a.mazinga-footer-lettering-visible {
-  background-image: url("/images/assets-sa1ee436749.png?1373025805");
+  background-image: url("/images/assets-sa1ee436749.png?1373211074");
   background-repeat: no-repeat;
   display: block;
   background-position: 0 -2023px;
@@ -1556,29 +1501,29 @@ section.page a.mazinga-footer-lettering-visible {
   position: fixed;
   right: 9px;
   bottom: 6px; }
-  /* line 894, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_320grid.sass */
+  /* line 908, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
   section.page a.mazinga-footer-lettering-visible:hover {
     opacity: 0.7; }
 
 @media (min-width: 55em) {
-  /* line 2, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+  /* line 2, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
   ul.menu-container {
     right: 40px; }
 
-  /* line 4, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+  /* line 4, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
   a.logo-doers {
     position: fixed;
     top: 0;
     left: 0;
     z-index: 10; }
-    /* line 9, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+    /* line 9, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
     a.logo-doers:active {
       top: 3px;
       left: 3px; }
 
-  /* line 12, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+  /* line 12, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
   a.logo-doers-qa {
-    background-image: url("/images/assets-sa1ee436749.png?1373025805");
+    background-image: url("/images/assets-sa1ee436749.png?1373211074");
     background-repeat: no-repeat;
     display: block;
     background-position: 0 -1220px;
@@ -1588,15 +1533,15 @@ section.page a.mazinga-footer-lettering-visible {
     top: 0;
     left: 0;
     z-index: 3; }
-    /* line 43, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+    /* line 43, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
     a.logo-doers-qa:hover, a.logo-doers-qa.logo_estrusione_hover, a.logo-doers-qa.logo_estrusione-hover {
       background-position: 0 -1299px; }
-    /* line 43, /Users/gabrielemarchi/.rvm/gems/ruby-1.9.3-p374/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+    /* line 43, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/lib/ruby/gems/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
     a.logo-doers-qa:active, a.logo-doers-qa.logo_estrusione_active, a.logo-doers-qa.logo_estrusione-active {
       background-position: 0 -1832px; }
-    /* line 19, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+    /* line 19, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
     a.logo-doers-qa:hover {
-      background-image: url("/images/assets-sa1ee436749.png?1373025805");
+      background-image: url("/images/assets-sa1ee436749.png?1373211074");
       background-repeat: no-repeat;
       display: block;
       background-position: 0 -1299px;
@@ -1604,9 +1549,9 @@ section.page a.mazinga-footer-lettering-visible {
       width: 333px;
       top: 0;
       left: 0; }
-    /* line 24, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+    /* line 24, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
     a.logo-doers-qa:active {
-      background-image: url("/images/assets-sa1ee436749.png?1373025805");
+      background-image: url("/images/assets-sa1ee436749.png?1373211074");
       background-repeat: no-repeat;
       display: block;
       background-position: 0 -1832px;
@@ -1615,21 +1560,21 @@ section.page a.mazinga-footer-lettering-visible {
       top: 6px;
       left: 6px; }
 
-  /* line 29, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+  /* line 29, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
   .mazinga-main {
     position: absolute;
     width: 100%;
     height: 100%;
-    background: url("/images/textures/mazinga-bg.png?1373022380") repeat left top; }
+    background: url("/images/textures/mazinga-bg.png?1373211074") repeat left top; }
 
-  /* line 37, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+  /* line 37, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
   form#form1 ul {
     margin-top: 0; }
 
-  /* line 42, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+  /* line 42, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
   section.page hr.wave, section.page hr.dotted {
     display: none; }
-  /* line 44, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+  /* line 44, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
   section.page .mission {
     overflow: hidden;
     margin-bottom: 100px;
@@ -1640,51 +1585,51 @@ section.page a.mazinga-footer-lettering-visible {
     margin-top: 0;
     margin-bottom: 100px; }
 
-  /* line 53, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+  /* line 53, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
   #bg-submission {
-    background: url("/images/textures/stripes.png?1373022380") repeat left top;
+    background: url("/images/textures/stripes.png?1373211074") repeat left top;
     height: 230px;
     width: 100%;
     position: absolute; }
 
-  /* line 59, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+  /* line 59, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
   #bg-questions {
-    background: url("/images/textures/questionmark.png?1373022380") repeat left top;
+    background: url("/images/textures/questionmark.png?1373211074") repeat left top;
     height: 410px;
     width: 100%;
     position: fixed;
     top: 100px; }
 
-  /* line 68, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+  /* line 68, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
   section.page p.hiring, section.page p.hiring-last {
     width: 86.36364%;
     float: left;
     margin-right: 2.27273%; }
-  /* line 70, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+  /* line 70, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
   section.page p.hiring-last {
     margin-bottom: 150px; }
 
-  /* line 75, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+  /* line 75, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
   section.page .container-submission, section.page .container-hiring {
     position: relative;
     background: #8591fd;
     margin-top: 20px;
     margin-bottom: 0;
     height: 165px; }
-    /* line 81, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+    /* line 81, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
     section.page .container-submission .bottone-container-hover, section.page .container-hiring .bottone-container-hover {
       margin-top: 23px; }
-  /* line 83, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+  /* line 83, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
   section.page .container-submission {
     width: 59.09091%;
     float: left;
     margin-right: 2.27273%; }
-  /* line 85, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+  /* line 85, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
   section.page .container-hiring {
     width: 38.63636%;
     float: right;
     margin-right: 0; }
-  /* line 87, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+  /* line 87, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
   section.page p.description {
     margin-top: 100px;
     margin-bottom: 0;
@@ -1698,7 +1643,7 @@ section.page a.mazinga-footer-lettering-visible {
     color: #f5fd48;
     font-weight: 600; }
 
-  /* line 98, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+  /* line 98, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
   section.page ul.question-answer {
     position: relative;
     z-index: 4;
@@ -1706,8 +1651,8 @@ section.page a.mazinga-footer-lettering-visible {
     padding: 0;
     margin-top: 300px;
     margin-bottom: 100px;
-    background: url("/images/textures/purple_transparent.png?1373022380") repeat left top; }
-    /* line 107, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+    background: url("/images/textures/purple_transparent.png?1373211074") repeat left top; }
+    /* line 107, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
     section.page ul.question-answer li.container {
       overflow: hidden;
       margin: 0;
@@ -1716,10 +1661,10 @@ section.page a.mazinga-footer-lettering-visible {
       background: #8591fd;
       padding-top: 5px;
       padding-bottom: 0; }
-      /* line 115, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+      /* line 115, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
       section.page ul.question-answer li.container .questionmark {
         display: none; }
-      /* line 117, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+      /* line 117, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
       section.page ul.question-answer li.container p.question, section.page ul.question-answer li.container p.answer {
         font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
         font-size: 0.875em;
@@ -1729,7 +1674,7 @@ section.page a.mazinga-footer-lettering-visible {
         position: relative;
         z-index: 12px;
         margin-left: 0%; }
-      /* line 127, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+      /* line 127, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
       section.page ul.question-answer li.container p.question {
         width: 25%;
         float: left;
@@ -1738,7 +1683,7 @@ section.page a.mazinga-footer-lettering-visible {
         position: relative;
         margin-left: 6.81818%;
         margin-top: 0; }
-      /* line 134, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+      /* line 134, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
       section.page ul.question-answer li.container p.answer {
         text-indent: 22px;
         width: 52.27273%;
@@ -1750,14 +1695,14 @@ section.page a.mazinga-footer-lettering-visible {
         padding-right: 10px;
         margin-bottom: 0; }
 
-  /* line 142, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+  /* line 142, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
   section.page {
     overflow: visible; }
-    /* line 144, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+    /* line 144, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
     section.page h1.submission {
       margin-top: 150px;
       position: relative; }
-      /* line 147, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+      /* line 147, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
       section.page h1.submission .arrow_reverse, section.page h1.submission .arrow {
         width: 238px;
         height: 41px;
@@ -1765,29 +1710,29 @@ section.page a.mazinga-footer-lettering-visible {
         z-index: 4;
         top: -30px;
         left: -15px; }
-      /* line 154, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+      /* line 154, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
       section.page h1.submission .wave_line {
         height: 4px;
         position: absolute;
         z-index: 3;
-        background: url("/images/textures/hr_wave.png?1373022380") repeat left top; }
-      /* line 160, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+        background: url("/images/textures/hr_wave.png?1373211074") repeat left top; }
+      /* line 160, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
       section.page h1.submission .right {
         top: 15px;
         left: 305px;
         width: 400px; }
-      /* line 164, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+      /* line 164, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
       section.page h1.submission .left {
         top: 15px;
         left: -200px;
         width: 250px; }
-      /* line 168, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+      /* line 168, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
       section.page h1.submission .container {
         width: 52.27273%;
         float: left;
         margin-right: 2.27273%;
         margin-bottom: 60px; }
-        /* line 171, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+        /* line 171, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
         section.page h1.submission .container span {
           font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
           font-size: 50px;
@@ -1806,7 +1751,7 @@ section.page a.mazinga-footer-lettering-visible {
           padding: 0;
           padding-right: 20px;
           padding-left: 3px; }
-          /* line 189, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+          /* line 189, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
           section.page h1.submission .container span .shadow-right {
             height: 34px;
             width: 11px;
@@ -1816,7 +1761,7 @@ section.page a.mazinga-footer-lettering-visible {
             right: -11px;
             top: 11px;
             opacity: 0.4; }
-          /* line 198, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+          /* line 198, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
           section.page h1.submission .container span .shadow-bottom {
             height: 11px;
             width: 100%;
@@ -1825,7 +1770,7 @@ section.page a.mazinga-footer-lettering-visible {
             top: 45px;
             left: 11px;
             opacity: 0.4; }
-    /* line 207, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+    /* line 207, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
     section.page ul.submission {
       width: 86.36364%;
       float: left;
@@ -1834,42 +1779,42 @@ section.page a.mazinga-footer-lettering-visible {
       padding: 0;
       margin: 0;
       margin-bottom: 100px; }
-      /* line 214, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+      /* line 214, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
       section.page ul.submission hr.short-spacer {
         width: 21.73913%;
         float: left;
         margin-right: 4.34783%; }
-      /* line 216, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+      /* line 216, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
       section.page ul.submission p.keywords {
         width: 100%;
         float: left;
         margin-right: 4.34783%; }
-      /* line 218, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+      /* line 218, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
       section.page ul.submission li {
         margin-bottom: 62px;
         overflow: hidden; }
-        /* line 221, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+        /* line 221, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
         section.page ul.submission li .container-left {
           width: 36.84211%;
           float: left;
           margin-right: 2.63158%;
           margin-top: 0;
           margin-bottom: 0; }
-          /* line 225, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+          /* line 225, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
           section.page ul.submission li .container-left .icon {
-            background-image: url("/images/assets-sa1ee436749.png?1373025805");
+            background-image: url("/images/assets-sa1ee436749.png?1373211074");
             background-repeat: no-repeat;
             display: block;
             position: relative;
             margin-top: 40px;
             top: 0;
             left: 0; }
-          /* line 231, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+          /* line 231, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
           section.page ul.submission li .container-left h3 {
             position: relative;
             margin: 0;
             margin-bottom: 1px; }
-            /* line 235, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+            /* line 235, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
             section.page ul.submission li .container-left h3 span {
               font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
               font-size: 16px;
@@ -1880,7 +1825,7 @@ section.page a.mazinga-footer-lettering-visible {
               padding: 0 10px 2px 2px;
               display: inline-block;
               position: relative; }
-              /* line 245, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+              /* line 245, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
               section.page ul.submission li .container-left h3 span .shadow-right {
                 height: 13px;
                 width: 8px;
@@ -1890,7 +1835,7 @@ section.page a.mazinga-footer-lettering-visible {
                 right: -8px;
                 top: 8px;
                 opacity: 0.4; }
-              /* line 254, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+              /* line 254, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
               section.page ul.submission li .container-left h3 span .shadow-bottom {
                 height: 8px;
                 width: 100%;
@@ -1899,11 +1844,11 @@ section.page a.mazinga-footer-lettering-visible {
                 top: 21px;
                 left: 8px;
                 opacity: 0.4; }
-          /* line 262, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+          /* line 262, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
           section.page ul.submission li .container-left h2 {
             position: relative;
             margin: 0; }
-            /* line 266, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+            /* line 266, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
             section.page ul.submission li .container-left h2 .container span {
               font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
               font-size: 31px;
@@ -1920,7 +1865,7 @@ section.page a.mazinga-footer-lettering-visible {
               margin: 0;
               margin-bottom: 1px;
               padding: 0 10px 0 2px; }
-              /* line 282, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+              /* line 282, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
               section.page ul.submission li .container-left h2 .container span .shadow-right {
                 height: 20px;
                 width: 8px;
@@ -1930,7 +1875,7 @@ section.page a.mazinga-footer-lettering-visible {
                 right: -8px;
                 top: 8px;
                 opacity: 0.4; }
-              /* line 291, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+              /* line 291, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
               section.page ul.submission li .container-left h2 .container span .shadow-bottom {
                 height: 8px;
                 width: 100%;
@@ -1939,12 +1884,12 @@ section.page a.mazinga-footer-lettering-visible {
                 top: 28px;
                 left: 8px;
                 opacity: 0.4; }
-        /* line 299, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+        /* line 299, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
         section.page ul.submission li .container-right {
           width: 60.52632%;
           float: right;
           margin-right: 0; }
-          /* line 301, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+          /* line 301, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
           section.page ul.submission li .container-right p.submit-description {
             margin: 0;
             margin-top: 20px;
@@ -1953,49 +1898,49 @@ section.page a.mazinga-footer-lettering-visible {
             line-height: 1.40909em;
             color: #f5fd48;
             font-weight: 600; }
-            /* line 309, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+            /* line 309, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
             section.page ul.submission li .container-right p.submit-description:first-child {
               margin-top: 20px; }
-            /* line 311, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+            /* line 311, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
             section.page ul.submission li .container-right p.submit-description a {
               color: #2c43b5; }
-              /* line 313, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+              /* line 313, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
               section.page ul.submission li .container-right p.submit-description a:hover {
                 opacity: 0.7; }
-              /* line 315, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+              /* line 315, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
               section.page ul.submission li .container-right p.submit-description a:active {
                 color: #fc8686 !important;
                 opacity: 1; }
-              /* line 318, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+              /* line 318, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
               section.page ul.submission li .container-right p.submit-description a:visited {
                 color: #f5fd48;
                 opacity: 1; }
-    /* line 326, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+    /* line 326, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
     section.page .container-submission p, section.page .container-hiring p {
       font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
       font-size: 0.875em;
       line-height: 1.28571em;
       color: #f5fd48;
       font-weight: 400; }
-      /* line 332, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+      /* line 332, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
       section.page .container-submission p span.capo_lettera, section.page .container-hiring p span.capo_lettera {
         float: left;
         position: relative;
         margin-top: -33px;
         margin-bottom: -3px;
         color: transparent; }
-      /* line 338, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+      /* line 338, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
       section.page .container-submission p .A, section.page .container-hiring p .A {
-        background-image: url("/images/assets-sa1ee436749.png?1373025805");
+        background-image: url("/images/assets-sa1ee436749.png?1373211074");
         background-repeat: no-repeat;
         display: block;
         background-position: 0 -2360px;
         height: 52px;
         width: 47px;
         margin-right: 2px; }
-      /* line 342, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+      /* line 342, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
       section.page .container-submission p .T, section.page .container-hiring p .T {
-        background-image: url("/images/assets-sa1ee436749.png?1373025805");
+        background-image: url("/images/assets-sa1ee436749.png?1373211074");
         background-repeat: no-repeat;
         display: block;
         background-position: 0 -2562px;
@@ -2003,19 +1948,19 @@ section.page a.mazinga-footer-lettering-visible {
         width: 45px;
         margin-left: -3px;
         margin-right: -3px; }
-    /* line 353, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+    /* line 353, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
     section.page .container-submission p {
       width: 42.30769%;
       float: left;
       margin-right: 3.84615%;
       margin: 35px 0 0 20px; }
-    /* line 357, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+    /* line 357, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
     section.page .container-hiring p {
       position: relative;
       float: left;
       width: 180px;
       margin: 35px 0 0 20px; }
-    /* line 363, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+    /* line 363, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
     section.page ul.old-site {
       position: relative;
       width: 59.09091%;
@@ -2025,47 +1970,47 @@ section.page a.mazinga-footer-lettering-visible {
       list-style-type: none;
       padding: 0;
       margin-bottom: 100px; }
-      /* line 370, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+      /* line 370, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
       section.page ul.old-site li {
         position: relative;
         float: left;
         margin-right: 15px;
         clear: none;
         margin-bottom: 0; }
-        /* line 376, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+        /* line 376, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
         section.page ul.old-site li:last-child {
           margin-right: 0; }
-        /* line 378, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+        /* line 378, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
         section.page ul.old-site li .icon {
           margin-bottom: 10px;
           float: none;
           position: relative; }
-        /* line 382, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+        /* line 382, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
         section.page ul.old-site li .process {
-          background-image: url("/images/assets-sa1ee436749.png?1373025805");
+          background-image: url("/images/assets-sa1ee436749.png?1373211074");
           background-repeat: no-repeat;
           display: block;
           background-position: 0 -2706px;
           height: 45px;
           width: 51px; }
-        /* line 385, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+        /* line 385, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
         section.page ul.old-site li .blog {
-          background-image: url("/images/assets-sa1ee436749.png?1373025805");
+          background-image: url("/images/assets-sa1ee436749.png?1373211074");
           background-repeat: no-repeat;
           display: block;
           background-position: 0 -2796px;
           height: 45px;
           width: 51px; }
-        /* line 388, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+        /* line 388, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
         section.page ul.old-site li .projects {
-          background-image: url("/images/assets-sa1ee436749.png?1373025805");
+          background-image: url("/images/assets-sa1ee436749.png?1373211074");
           background-repeat: no-repeat;
           display: block;
           background-position: 0 -2751px;
           height: 45px;
           width: 37px;
           left: 0; }
-        /* line 392, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+        /* line 392, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
         section.page ul.old-site li .container {
           overflow: hidden;
           padding-right: 8px;
@@ -2073,7 +2018,7 @@ section.page a.mazinga-footer-lettering-visible {
           float: none;
           margin-left: 0;
           margin-top: 0; }
-          /* line 399, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+          /* line 399, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
           section.page ul.old-site li .container .shadow-right {
             height: 20px;
             width: 8px;
@@ -2083,7 +2028,7 @@ section.page a.mazinga-footer-lettering-visible {
             right: 0;
             top: 8px;
             opacity: 0.4; }
-          /* line 408, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+          /* line 408, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
           section.page ul.old-site li .container .shadow-bottom {
             height: 8px;
             width: 100%;
@@ -2092,7 +2037,7 @@ section.page a.mazinga-footer-lettering-visible {
             top: -4px;
             left: 8px;
             opacity: 0.4; }
-          /* line 416, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+          /* line 416, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
           section.page ul.old-site li .container a {
             display: inline-block;
             font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
@@ -2105,15 +2050,15 @@ section.page a.mazinga-footer-lettering-visible {
             padding: 2px 10px 2px 2px;
             position: relative;
             z-index: 2; }
-    /* line 430, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+    /* line 430, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
     section.page ul.old-site li:hover a {
       color: white !important; }
-    /* line 434, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+    /* line 434, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
     section.page ul.old-site li:active a {
       top: 4px;
       left: 4px; }
 
-  /* line 440, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+  /* line 440, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
   section.page .mazinga-bg {
     background: #8591fd;
     position: absolute;
@@ -2121,9 +2066,9 @@ section.page a.mazinga-footer-lettering-visible {
     right: 0;
     width: 50px;
     height: 200px; }
-  /* line 447, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+  /* line 447, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
   section.page .mazinga-footer {
-    background-image: url("/images/assets-sa1ee436749.png?1373025805");
+    background-image: url("/images/assets-sa1ee436749.png?1373211074");
     background-repeat: no-repeat;
     display: block;
     background-position: 0 -760px;
@@ -2132,9 +2077,9 @@ section.page a.mazinga-footer-lettering-visible {
     position: fixed;
     right: 0;
     bottom: 0; }
-  /* line 453, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+  /* line 453, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
   section.page a.mazinga-footer-lettering {
-    background-image: url("/images/assets-sa1ee436749.png?1373025805");
+    background-image: url("/images/assets-sa1ee436749.png?1373211074");
     background-repeat: no-repeat;
     display: block;
     background-position: 0 -2023px;
@@ -2143,42 +2088,42 @@ section.page a.mazinga-footer-lettering-visible {
     position: fixed;
     right: 9px;
     bottom: 6px; }
-    /* line 459, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+    /* line 459, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
     section.page a.mazinga-footer-lettering:hover {
       opacity: 0.7; }
 
-  /* line 462, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+  /* line 462, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
   section.footer {
     position: absolute;
     width: 100%;
     left: -10px; }
-    /* line 466, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+    /* line 466, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
     section.footer #bg-footer {
       height: 16px;
       width: 100%;
       position: absolute; }
-      /* line 470, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+      /* line 470, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
       section.footer #bg-footer .freakin_icon {
         background-image: url("../../images/fav_animata_16x16.gif");
         width: 16px;
         height: 16px;
         position: absolute;
         margin-bottom: 0; }
-      /* line 476, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+      /* line 476, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
       section.footer #bg-footer .bottom {
         bottom: 0;
         left: 0; }
-      /* line 479, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+      /* line 479, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
       section.footer #bg-footer .middle {
         bottom: 16px;
         left: 16px;
         display: block; }
-      /* line 483, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+      /* line 483, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
       section.footer #bg-footer .top {
         bottom: 32px;
         left: 0;
         display: block; }
-      /* line 487, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+      /* line 487, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
       section.footer #bg-footer p.contacts {
         margin: 0;
         position: absolute;
@@ -2190,17 +2135,16 @@ section.page a.mazinga-footer-lettering-visible {
         font-size: 0.75em;
         line-height: 1.16667em;
         letter-spacing: 0.125em; }
-        /* line 498, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+        /* line 498, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
         section.footer #bg-footer p.contacts .first-letter {
           color: #f5fd48;
           font-style: italic;
           font-weight: 600; }
-        /* line 502, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/partials/_960grid.sass */
+        /* line 502, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
         section.footer #bg-footer p.contacts .slash {
           font-size: 0.5em;
           color: #f5fd48; } }
-/* line 41, /Users/gabrielemarchi/Documents/middleman/thedoers/source/css/application.css.sass */
+/* line 41, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/application.css.sass */
 *:focus {
   outline-style: none;
   outline-width: 0px; }
->>>>>>> cfe846d93703f9ca7567eeb31043e89333d4107e

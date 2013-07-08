@@ -2,9 +2,9 @@ Modernizr.load([
 	//first test need for polyfill
 	{
 		test: window.matchMedia,
-		nope: "/javascripts/vendor/media.match.min.js"
+		nope: "/js/vendor/media.match.min.js"
 	},
 
 	//and then load enquire
-	//"/javascripts/site.js"
+	"/js/site.js"
 ]);
