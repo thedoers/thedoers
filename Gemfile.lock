@@ -138,5 +138,4 @@ DEPENDENCIES
   middleman-smusher
   mini_magick
   oily_png
-  rb-inotify
   susy
