@@ -1,5 +1,6 @@
 @import "compass/css3/hyphenation"
 @import "compass/layout/stretching"
+
 section.page
 	// +susy-grid-background
 	+container($total-columns, $break)
@@ -909,11 +910,11 @@ section.page
 	p.hiring-last, p.main-p
 		margin-bottom: 50px
 	p.thanks
-		font-size: px-to-em(140px,16px)
-		line-height: px-to-em(100px,140px)
+		font-size: px-to-em(131px,16px)
+		line-height: px-to-em(93px,131px)
 		text-transform: uppercase
 		margin-bottom: 40px
-		+hyphenation
+		+word-break(break-all)
 	.stupid-rabbit
 		position: absolute
 		border: 8px solid $pink
@@ -921,22 +922,20 @@ section.page
 		img
 			margin: 0
 			margin-bottom: -7px
-		
+	.rabbit-1, .rabbit-2, .rabbit-3, .rabbit-4
+		z-index: 5
 	.rabbit-1
 		top: 85px
-		left: 330px
-		z-index: 5
+		left: 311px
 	.rabbit-2
-		top: 388px
-		left: 455px
-		z-index: 5
+		top: 375px
+		left: 240px
 	.rabbit-3
-		top: 680px
-		left: 141px
-		z-index: 5
+		top: 536px
+		left: -16px
 	.rabbit-4
-		top: 628px
-		left: 262px
+		top: 616px
+		left: 274px
 
 
 
