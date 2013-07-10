@@ -1,0 +1,1 @@
+{"ts":1373462110601,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"$base-font-size: 16px\n$base-line-height: 24px\n$total-columns: 7 \n$column-width: 2.5em\n$gutter-width: 1.25em\n$grid-padding: 0.625em\n$container-style: magic\n\n$break: 15"]],"start1":0,"start2":0,"length1":0,"length2":166}]],"length":166}
