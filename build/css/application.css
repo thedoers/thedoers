@@ -301,14 +301,14 @@ html {
   font-family: "veramono";
   src: url("/fonts/veramono/veramono-bold-webfont.eot");
   src: url("/fonts/veramono/veramono-bold-webfont.eot?#iefix") format('eot'), url("/fonts/veramono/veramono-bold-webfont.woff") format('woff'), url("/fonts/veramono/veramono-bold-webfont.ttf") format('truetype');
-  font-weight: 600;
+  font-weight: 700;
   font-style: normal; }
 
 @font-face {
   font-family: "veramono";
   src: url("/fonts/veramono/veramono-bold-italic-webfont.eot");
   src: url("/fonts/veramono/veramono-bold-italic-webfont.eot?#iefix") format('eot'), url("/fonts/veramono/veramono-bold-italic-webfont.woff") format('woff'), url("/fonts/veramono/veramono-bold-italic-webfont.ttf") format('truetype');
-  font-weight: 600;
+  font-weight: 700;
   font-style: italic; }
 
 @font-face {
@@ -830,7 +830,7 @@ ul.menu-container {
             color: #fc8686; }
           /* line 238, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
           ul.menu-container li.container-hover .white-line .bottone_container .bottone p .first-letter {
-            font-weight: 600;
+            font-weight: 700;
             font-style: italic; }
           /* line 241, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
           ul.menu-container li.container-hover .white-line .bottone_container .bottone p .slash {
@@ -972,7 +972,7 @@ ul.menu-container {
         padding: 11px 20px; }
         /* line 343, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
         .bottone-container-hover .white-line .bottone_container .bottone p .first-letter {
-          font-weight: 600;
+          font-weight: 700;
           font-style: italic;
           color: #fc8686; }
         /* line 347, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
@@ -1116,7 +1116,7 @@ section.page .mission {
     font-size: 2.1875em;
     line-height: 1.4em;
     color: #f5fd48;
-    font-weight: 600; }
+    font-weight: 700; }
     /* line 452, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.page .mission p span.capo_lettera {
       float: left;
@@ -1180,7 +1180,7 @@ section.page p.description {
   font-size: 1.375em;
   line-height: 1.40909em;
   color: #f5fd48;
-  font-weight: 600; }
+  font-weight: 700; }
 /* line 500, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
 section.page ul.old-site {
   position: relative;
@@ -1265,7 +1265,7 @@ section.page ul.old-site {
         font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
         font-size: 1.9375em;
         color: #fc8686;
-        font-weight: 600;
+        font-weight: 700;
         text-transform: uppercase;
         background: black;
         text-decoration: none;
@@ -1324,7 +1324,7 @@ section.page ul.question-answer {
       margin-bottom: 0; }
     /* line 609, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
     section.page ul.question-answer li.container p.question {
-      font-weight: 600;
+      font-weight: 700;
       position: relative;
       margin-top: 10px; }
       /* line 613, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
@@ -1410,7 +1410,7 @@ section.page {
         font-size: 45px;
         line-height: 38px;
         color: #fc8686;
-        font-weight: 600;
+        font-weight: 700;
         text-transform: uppercase;
         text-decoration: none;
         padding: 2px 10px 2px 2px;
@@ -1459,7 +1459,7 @@ section.page {
       font-size: 22px;
       line-height: 31px;
       color: #f5fd48;
-      font-weight: 600;
+      font-weight: 700;
       color: #2c43b5;
       position: relative;
       display: inline-block; }
@@ -1562,7 +1562,7 @@ section.page {
             font-size: 16px;
             line-height: 19px;
             color: black;
-            font-weight: 600;
+            font-weight: 700;
             background: #fc8686;
             padding: 0 10px 2px 2px;
             display: inline-block;
@@ -1599,7 +1599,7 @@ section.page {
             font-size: 31px;
             line-height: 28px;
             color: #fc8686;
-            font-weight: 600;
+            font-weight: 700;
             text-transform: uppercase;
             text-decoration: none;
             padding: 2px 10px 2px 2px;
@@ -1649,7 +1649,7 @@ section.page {
           font-size: 1.375em;
           line-height: 1.40909em;
           color: #f5fd48;
-          font-weight: 600; }
+          font-weight: 700; }
           /* line 854, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
           section.page ul.submission li .container-right p.submit-description:first-child {
             margin-top: 10px; }
@@ -1670,7 +1670,7 @@ section.page {
         /* line 866, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
         section.page ul.submission li .container-right ul.community-building {
           font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
-          font-weight: 600;
+          font-weight: 700;
           color: #f5fd48;
           font-size: 1.375em;
           line-height: 1.40909em;
@@ -1719,7 +1719,7 @@ section.page {
     font-size: 1.375em;
     line-height: 1.40909em;
     color: #f5fd48;
-    font-weight: 600;
+    font-weight: 700;
     position: relative; }
   /* line 910, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
   section.page p.hiring-last, section.page p.main-p {
@@ -1828,7 +1828,7 @@ section.footer {
       section.footer #bg-footer p.contacts .first-letter {
         color: #f5fd48;
         font-style: italic;
-        font-weight: 600; }
+        font-weight: 700; }
       /* line 985, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_320grid.sass */
       section.footer #bg-footer p.contacts .slash {
         font-size: 0.5em;
@@ -2010,7 +2010,7 @@ section.page a.mazinga-footer-lettering-visible {
     font-size: 1.375em;
     line-height: 1.40909em;
     color: #f5fd48;
-    font-weight: 600; }
+    font-weight: 700; }
 
   /* line 97, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
   section.page ul.question-answer {
@@ -2048,7 +2048,7 @@ section.page a.mazinga-footer-lettering-visible {
         width: 25%;
         float: left;
         margin-right: 2.27273%;
-        font-weight: 600;
+        font-weight: 700;
         position: relative;
         margin-left: 6.81818%;
         margin-top: 0; }
@@ -2107,7 +2107,7 @@ section.page a.mazinga-footer-lettering-visible {
           font-size: 50px;
           line-height: 45px;
           color: #fc8686;
-          font-weight: 600;
+          font-weight: 700;
           text-transform: uppercase;
           text-decoration: none;
           padding: 2px 10px 2px 2px;
@@ -2189,7 +2189,7 @@ section.page a.mazinga-footer-lettering-visible {
               font-size: 16px;
               line-height: 19px;
               color: black;
-              font-weight: 600;
+              font-weight: 700;
               background: #fc8686;
               padding: 0 10px 2px 2px;
               display: inline-block;
@@ -2223,7 +2223,7 @@ section.page a.mazinga-footer-lettering-visible {
               font-size: 31px;
               line-height: 28px;
               color: #fc8686;
-              font-weight: 600;
+              font-weight: 700;
               text-transform: uppercase;
               text-decoration: none;
               padding: 2px 10px 2px 2px;
@@ -2266,7 +2266,7 @@ section.page a.mazinga-footer-lettering-visible {
             font-size: 1.375em;
             line-height: 1.40909em;
             color: #f5fd48;
-            font-weight: 600; }
+            font-weight: 700; }
             /* line 308, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
             section.page ul.submission li .container-right p.submit-description:first-child {
               margin-top: 20px; }
@@ -2413,7 +2413,7 @@ section.page a.mazinga-footer-lettering-visible {
             font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
             font-size: 1.9375em;
             color: #fc8686;
-            font-weight: 600;
+            font-weight: 700;
             text-transform: uppercase;
             background: black;
             text-decoration: none;
@@ -2509,7 +2509,7 @@ section.page a.mazinga-footer-lettering-visible {
         section.footer #bg-footer p.contacts .first-letter {
           color: #f5fd48;
           font-style: italic;
-          font-weight: 600; }
+          font-weight: 700; }
         /* line 502, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/partials/_960grid.sass */
         section.footer #bg-footer p.contacts .slash {
           font-size: 0.5em;

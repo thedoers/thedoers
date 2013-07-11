@@ -2,14 +2,14 @@
   font-family: "veramono";
   src: url("/fonts/veramono/veramono-bold-webfont.eot");
   src: url("/fonts/veramono/veramono-bold-webfont.eot?#iefix") format('eot'), url("/fonts/veramono/veramono-bold-webfont.woff") format('woff'), url("/fonts/veramono/veramono-bold-webfont.ttf") format('truetype');
-  font-weight: 600;
+  font-weight: 700;
   font-style: normal; }
 
 @font-face {
   font-family: "veramono";
   src: url("/fonts/veramono/veramono-bold-italic-webfont.eot");
   src: url("/fonts/veramono/veramono-bold-italic-webfont.eot?#iefix") format('eot'), url("/fonts/veramono/veramono-bold-italic-webfont.woff") format('woff'), url("/fonts/veramono/veramono-bold-italic-webfont.ttf") format('truetype');
-  font-weight: 600;
+  font-weight: 700;
   font-style: italic; }
 
 @font-face {
@@ -522,7 +522,7 @@ h1, h2, p, a {
 
 /* line 187, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/signatures.css.sass */
 h1.name {
-  font-weight: 600;
+  font-weight: 700;
   font-size: 15px;
   line-height: 18px;
   margin-bottom: 4px;
@@ -537,7 +537,7 @@ h2, p, a {
 h2 {
   text-transform: uppercase;
   margin-bottom: 12px;
-  font-weight: 600; }
+  font-weight: 700; }
 
 /* line 201, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/signatures.css.sass */
 a {
@@ -553,7 +553,7 @@ p.social {
   /* line 208, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/signatures.css.sass */
   p.social a {
     text-transform: uppercase;
-    font-weight: 600;
+    font-weight: 700;
     background: none; }
 
 /* line 213, /var/lib/stickshift/51d4412b4382eca9c20001be/app-root/data/546801/source/css/signatures.css.sass */
