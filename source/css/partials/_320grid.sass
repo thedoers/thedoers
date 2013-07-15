@@ -2,7 +2,7 @@
 @import "compass/layout/stretching"
 
 section.page
-	+susy-grid-background
+	// +susy-grid-background
 	+container($total-columns, $break)
 	overflow: hidden
 
@@ -157,7 +157,64 @@ a.logo-doers-qa
 	margin-bottom: 20px !important
 
 
-	
+#projects-wall
+	+span-columns(7,7)
+	position: relative
+	margin-top: 200px
+	.wall-container-photo
+		+span-columns(7,7)
+		position: relative
+		margin-bottom: 65px
+		.fulminetti
+			+assign-sprite-background($assets)
+			+sprite($assets, "fulminetti-verdi", true)
+			position: absolute
+			top: -19px
+			left: 12px
+		a.wall
+			+span-columns(4,7)
+			@include word-break(break-all)
+			@include hyphens
+			color: #2BFECF
+			font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
+			font-weight: 700
+			text-transform: uppercase
+			font-size: px-to-em(32px,16px)
+			line-height: px-to-em(28px,32px)
+			text-decoration: none
+			position: absolute
+			top: -10px
+			left: 10px
+			z-index: 12
+			&:hover
+				color: $yellow
+				color: #C7FFEF
+				span.subtitle
+					color: #2BFECF
+				~ img
+					opacity: 0.4
+			span.underline
+				text-decoration: underline
+			span.subtitle
+				font-size: px-to-em(12px,32px)
+				line-height: px-to-em(12px,12px)
+				display: block
+				padding-top: 7px
+				text-decoration: none !important
+				padding-left: 2px
+			span.date
+				font-size: px-to-em(53px,32px)
+				line-height: px-to-em(32px,53px)
+				padding-top: 45px
+				display: block
+				span.slash
+					font-size: px-to-em(12px,53px)
+				span.year
+					display: block
+
+		img
+			max-width: 100%
+
 		
 		
 		
@@ -541,6 +598,7 @@ section.page
 
 
 	.bottom-spacer-projects
+		height: 1px
 		margin-bottom: 100px
 		clear: both
 	.project-info
@@ -590,6 +648,8 @@ section.page
 				word-break: break-all
 			ul.press, ul.funding
 				+no-bullets
+				@include word-break(break-all)
+				@include hyphens
 				margin: 0
 				padding: 0
 				margin-top: 13px
@@ -646,10 +706,12 @@ section.page
 					text-transform: none
 					letter-spacing: px-to-em(1px)
 					display: inline
+					margin-left: 0
 					span.slash
 						background: transparent !important
 						font-size: 8px
 						display: inline
+						margin-left: 0
 	.description-image
 		+span-columns(7,7)
 		background-color: #2BFECF

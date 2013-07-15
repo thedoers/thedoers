@@ -38,7 +38,7 @@
 			margin-top: 0
 
 	section.page
-		+susy-grid-background
+		// +susy-grid-background
 		hr.wave, hr.dotted
 			display: none
 		.mission
@@ -47,6 +47,15 @@
 			+pre(3,15)
 			margin-top: 0
 			margin-bottom: 70px
+
+	#projects-wall
+		+span-columns(15,15)
+		position: relative
+		.wall-container-photo
+			position: relative
+			+float-left
+			margin-right: 20px
+			
 					
 					
 	#bg-submission

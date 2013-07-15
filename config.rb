@@ -16,6 +16,7 @@ page "/submission_page.html", :layout => :html5
 page "/what_we_do.html", :layout => :html5
 page "/submission_page_success.html", :layout => :html5
 page "/project_page.html", :layout => :html5
+page "/projects_wall.html", :layout => :html5
 
 
 
