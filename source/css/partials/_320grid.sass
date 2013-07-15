@@ -2,7 +2,7 @@
 @import "compass/layout/stretching"
 
 section.page
-	// +susy-grid-background
+	+susy-grid-background
 	+container($total-columns, $break)
 	overflow: hidden
 
@@ -464,6 +464,436 @@ section.page
 				+replace-with-sprite($assets, "W_capolettera_big")
 				margin-right: -7px
 				margin-left: -7px
+
+	h1.main-black-pink-title
+		+span-columns(7,7)
+		margin-top: 185px
+		position: relative
+		margin-bottom: 0
+		.arrow_reverse, .arrow
+			width: 141px
+			height: 41px
+			position: absolute
+			z-index: 4
+			top: -32px
+			left: 0
+		.arrow_reverse
+			$image: image-url("textures/arrows_reverse.png")
+			background: $image repeat left top
+		.arrow
+			$image: image-url("textures/arrows.png")
+			background: $image repeat left top
+		.wave_line
+			background: none
+		.container
+			+span-columns(7,7)
+			margin-bottom: 20px
+			margin-left: 9px
+			span
+				font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
+				font-size: 45px
+				line-height: 38px
+				color: $pink
+				font-weight: 600
+				text-transform: uppercase
+				text-decoration: none
+				padding: 2px 10px 2px 2px
+				position: relative
+				z-index: 2
+				display: inline-block
+				background: black
+				margin: 0
+				margin-bottom: 1px
+				margin-left: -9px
+				padding: 0
+				padding-right: 13px
+				padding-left: 3px
+				.shadow-right
+					height: 27px
+					width: 11px
+					background: $blue
+					float: right
+					position: absolute
+					right: -11px
+					top: 11px
+					opacity: 0.4
+				.shadow-bottom
+					height: 11px
+					width: 100%
+					background: $blue
+					position: absolute
+					top: 38px
+					left: 11px
+					opacity: 0.4
+
+
+
+	.project-container-photo
+		+span-columns(7,7)
+		position: relative
+		.img-medium, .img-large
+			+span-columns(7,7)
+		img
+			max-width: 100%
+			position: relative
+			margin-bottom: 6px
+			+float-right
+
+
+	.bottom-spacer-projects
+		margin-bottom: 100px
+		clear: both
+	.project-info
+		+span-columns(7,7)
+		.container-single-info
+			+span-columns(7,7)
+			color: #2BFECF
+			font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
+			font-weight: 700
+			text-transform: uppercase
+			margin-bottom: 30px
+			h4
+				margin: 0
+				margin-bottom: 1px 
+				font-size: px-to-em(16px,16px)
+				line-height: px-to-em(16px,16px)
+			hr
+				width: 100%
+				margin: 0
+				margin-bottom: 5px
+				border: none
+				height: 1px
+				background-color: #2BFECF
+			p.date
+				margin: 0
+				margin-top: 15px
+				font-size: px-to-em(65px,16px)
+				line-height: px-to-em(38px,65px)
+			span.day
+				padding-bottom: -5px !important
+				display: block
+				span.slash-date
+					font-size: px-to-em(28px,65px)
+			span.month
+				font-size: px-to-em(32px,65px)
+				line-height: px-to-em(25px,32px)
+				word-break: break-all
+				display: block
+				padding-bottom: 11px
+				span.slash-date
+					font-size: px-to-em(28px,32px)
+			p.users
+				margin: 0
+				margin-top: 8px
+				font-size: px-to-em(65px,16px)
+				line-height: px-to-em(51px,65px)
+				word-break: break-all
+			ul.press, ul.funding
+				+no-bullets
+				margin: 0
+				padding: 0
+				margin-top: 13px
+			a.press
+				margin: 0
+				color: #2BFECF
+				font-size: px-to-em(32px,16px)
+				line-height: px-to-em(20px,32px)
+				text-decoration: underline
+				word-break: break-all
+				&:hover
+					color: #C7FFEF
+			p.date-press
+				margin: 0
+				margin-bottom: 12px
+				font-size: px-to-em(12px,16px)
+				line-height: px-to-em(12px,12px)
+				span.slash-press
+					font-size: px-to-em(8px,12px)
+			p.funding
+				margin: 0
+				font-size: px-to-em(65px,16px)
+				line-height: px-to-em(41px,65px)
+				word-break: break-all
+				display: block
+				span.money
+					font-size: px-to-em(35px,65px)
+					padding-right: 5px
+			span.funder
+				font-size: px-to-em(12px,16px)
+				line-height: px-to-em(12px,12px)
+				padding-left: 32px
+				display: block
+				margin-top: -4px
+				margin-bottom: 18px
+	.black-pink-title.info
+		width: 100%
+		margin-bottom: 30px
+		h2
+			span
+				width: 100%
+				padding-right: 0 !important
+				span.update
+					right: 10px
+					top: 1px
+					width: auto
+					background: transparent !important
+					position: absolute
+					font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
+					font-size: 12px
+					line-height: 14px
+					font-style: italic
+					font-weight: 400
+					text-transform: none
+					letter-spacing: px-to-em(1px)
+					display: inline
+					span.slash
+						background: transparent !important
+						font-size: 8px
+						display: inline
+	.description-image
+		+span-columns(7,7)
+		background-color: #2BFECF
+		position: relative
+		margin-top: -6px
+		margin-bottom: 6px
+		.corner
+			+assign-sprite-background($assets)
+			+sprite($assets, "corner_project_description_mobile", true)
+			position: absolute
+			top: -9px
+			left: 14px
+		p
+			+span-columns(5,7)
+			+pre(1)
+			margin-top: 0
+			margin-bottom: 12px
+			font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
+			font-weight: 700
+			color: black
+			font-size: px-to-em(14px,16px)
+			line-height: px-to-em(16px,14px)
+			&:last-child
+				padding-bottom: 30px
+
+	.black-pink-title-small
+		+span-columns(5,7)
+		+pre(1)
+		position: relative
+		top: -13px
+		margin-bottom: 8px
+		h2
+			position: relative
+			margin: 0
+			.container
+				margin-left: 7px
+				span
+					font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
+					font-size: 25px
+					line-height: 24px
+					color: $pink
+					font-weight: 600
+					text-transform: uppercase
+					text-decoration: none
+					padding: 2px 10px 2px 2px
+					position: relative
+					z-index: 2
+					display: inline-block
+					background: black
+					margin: 0
+					margin-bottom: 1px
+					margin-left: -7px
+					padding: 0 10px 0 2px
+					.shadow-right
+						height: 16px
+						width: 8px
+						background: $blue
+						float: right
+						position: absolute
+						right: -8px
+						top: 8px
+						opacity: 0.4
+					.shadow-bottom
+						height: 8px
+						width: 100%
+						background: $blue
+						position: absolute
+						top: 24px
+						left: 8px
+						opacity: 0.4
+	.black-pink-title
+		+span-columns(5,7)
+		margin-top: 0
+		margin-bottom: 45px
+		margin-left: 7px
+		h3
+			position: relative
+			margin: 0
+			margin-bottom: 1px
+			span
+				font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
+				font-size: 16px
+				line-height: 19px
+				color: black
+				font-weight: 600
+				background: $pink
+				padding: 0 10px 2px 2px
+				display: inline-block
+				position: relative
+				margin-left: -7px
+				.shadow-right
+					height: 13px
+					width: 8px
+					background: $blue
+					float: right
+					position: absolute
+					right: -8px
+					top: 8px
+					opacity: 0.4
+				.shadow-bottom
+					height: 8px
+					width: 100%
+					background: $blue
+					position: absolute
+					top: 21px
+					left: 8px
+					opacity: 0.4
+		h2.single-title
+			margin-top: 23px
+		h2
+			position: relative
+			margin: 0
+			.container
+				span
+					font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
+					font-size: 31px
+					line-height: 28px
+					color: $pink
+					font-weight: 600
+					text-transform: uppercase
+					text-decoration: none
+					padding: 2px 10px 2px 2px
+					position: relative
+					z-index: 2
+					display: inline-block
+					background: black
+					margin: 0
+					margin-bottom: 1px
+					padding: 0 13px 0 2px
+					margin-left: -7px
+					.shadow-right
+						height: 20px
+						width: 8px
+						background: $blue
+						float: right
+						position: absolute
+						right: -8px
+						top: 8px
+						opacity: 0.4
+					.shadow-bottom
+						height: 8px
+						width: 100%
+						background: $blue
+						position: absolute
+						top: 28px
+						left: 8px
+						opacity: 0.4
+	.project-description, .container-p
+		+span-columns(7,7)
+		.container-p
+			margin-bottom: 20px
+		p.project-description
+			width: 100%
+			margin: 0
+			margin-bottom: 20px
+			font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
+			font-size: px-to-em(22px,16px)
+			line-height: px-to-em(31px,22px)
+			color: $yellow
+			font-weight: 600
+			a, a.gotoproject
+				color: $blue
+				&:hover
+					opacity: 0.7
+				&:active
+					color: $pink !important
+					opacity: 1
+				&:visited
+					color: $yellow
+					opacity: 1
+			a.gotoproject
+				display: block
+				margin-top: 20px
+		ul.areas
+			+span-columns(7,7)
+			padding: 0
+			margin-top: 0
+			margin-bottom: 40px
+			+no-bullets
+			@include hyphens
+			li, h5
+				margin: 0
+			li
+				margin-bottom: 19px
+				position: relative
+				opacity: 0.4
+			li.active
+				opacity: 1
+			h5
+				padding-left: 40px
+				font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
+				font-size: px-to-em(16px,16px)
+				line-height: px-to-em(20px,16px)
+				color: $yellow
+				font-weight: 400
+			.icon
+				position: absolute
+				left: 0
+			.business, .interaction, .technology, .identity, .graphics
+				+assign-sprite-background($assets)
+			.business
+				+sprite($assets, "area-business", true)
+				top: -2px
+			.interaction
+				+sprite($assets, "area-interaction", true)
+				top: -2px
+			.technology
+				+sprite($assets, "area-technology", true)
+				top: 0
+			.identity
+				+sprite($assets, "area-identity", true)
+				top: 0
+			.graphics
+				+sprite($assets, "area-graphics", true)
+				top: -2px
+
+	hr.spacer-project
+		+span-columns(7,7)
+		margin-top: 40px
+		margin-bottom: 40px
+		border: none
+		height: 1px
+		$image: image-url("textures/hr_dotted.png")
+		background: $image repeat left top
+	hr.horizontal-dotted, hr.vertical-dotted
+		border: none
+		margin-top: 0
+		margin-bottom: 0
+	hr.horizontal-dotted
+		width: 100%
+		height: 1px
+		$image: image-url("textures/hr_dotted.png")
+		background: $image repeat left top
+		margin-bottom: 25px
+	hr.vertical-dotted
+		display: none
+		width: 1px
+		height: 100%
+		$image: image-url("textures/hr_vertical_dotted.png")
+		background: $image repeat left top
+
+
+
+
 				
 				
 	.container-submission, .container-hiring
@@ -665,6 +1095,7 @@ section.page
 		.container
 			+span-columns(7,7)
 			margin-bottom: 60px
+			margin-left: 9px
 			span
 				font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
 				font-size: 45px
@@ -680,8 +1111,9 @@ section.page
 				background: black
 				margin: 0
 				margin-bottom: 1px
+				margin-left: -9px
 				padding: 0
-				padding-right: 20px
+				padding-right: 13px
 				padding-left: 3px
 				.shadow-right
 					height: 27px
@@ -804,6 +1236,7 @@ section.page
 					position: relative
 					margin: 0
 					.container
+						margin-left: 7px
 						span
 							font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
 							font-size: 31px
@@ -818,6 +1251,7 @@ section.page
 							display: inline-block
 							background: black
 							margin: 0
+							margin-left: -7px
 							margin-bottom: 1px
 							padding: 0 10px 0 2px
 							.shadow-right
