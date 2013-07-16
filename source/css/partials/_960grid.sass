@@ -48,13 +48,20 @@
 			margin-top: 0
 			margin-bottom: 70px
 
-	#projects-wall
+	ul#projects-wall
 		+span-columns(15,15)
 		position: relative
-		.wall-container-photo
+		margin-top: 145px
+		li.wall-container-photo
+			// +span-columns(7,15)
+			width: 45.45455%
 			position: relative
 			+float-left
 			margin-right: 20px
+			&:nth-child(even)
+				margin-right: 0
+				// margin-left: 58px
+
 			
 					
 					
@@ -64,6 +71,7 @@
 		height: 230px
 		width: 100%
 		position: absolute
+		z-index: 22
 	#bg-questions
 		$image: image-url("textures/questionmark.png")
 		background: $image repeat left top
@@ -225,6 +233,7 @@
 			margin-top: 20px
 			margin-bottom: 0
 			height: 165px
+			z-index: 22
 			.bottone-container-hover
 				margin-top: 23px
 		.container-submission

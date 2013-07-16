@@ -157,14 +157,18 @@ a.logo-doers-qa
 	margin-bottom: 20px !important
 
 
-#projects-wall
+ul#projects-wall
 	+span-columns(7,7)
 	position: relative
 	margin-top: 200px
-	.wall-container-photo
+	+no-bullets
+	padding: 0
+
+	li.wall-container-photo
 		+span-columns(7,7)
 		position: relative
-		margin-bottom: 65px
+		margin-bottom: 70px
+		z-index: 21
 		.fulminetti
 			+assign-sprite-background($assets)
 			+sprite($assets, "fulminetti-verdi", true)
@@ -219,7 +223,7 @@ a.logo-doers-qa
 		
 		
 ul.menu-container
-	z-index: 13
+	z-index: 23
 	position: fixed
 	right: 10px
 	top: 0
@@ -497,7 +501,7 @@ section.page
 		+span-columns(7,7)
 		margin-top: 110px
 		p
-			z-index: 12
+			z-index: 22
 			position: relative
 			margin-top: 72px
 			margin-bottom: 0
