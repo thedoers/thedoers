@@ -51,16 +51,19 @@
 	ul#projects-wall
 		+span-columns(15,15)
 		position: relative
-		margin-top: 145px
+		margin-top: 245px
 		li.wall-container-photo
 			// +span-columns(7,15)
 			width: 45.45455%
 			position: relative
 			+float-left
 			margin-right: 20px
-			&:nth-child(even)
-				margin-right: 0
-				// margin-left: 58px
+			// &:nth-child(even)
+			// 	margin-right: 0
+		li.wall-container-photo.large
+			+span-columns(14,15)
+			a.wall
+				+span-columns(4,14)
 
 			
 					
