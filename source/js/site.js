@@ -3,7 +3,7 @@ var $counter=0;
 $(".bottone-container-hover a").click(function(e){
 	e.preventDefault();
 	e.stopPropagation();
-	console.log($counter);
+
 	$counter++;
 	});
 	
