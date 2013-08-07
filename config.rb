@@ -34,6 +34,8 @@ page "/project_page_letscommerce.html", :layout => :html5
 page "/project_page_alphabot.html", :layout => :html5
 page "/project_page_pupulito.html", :layout => :html5
 page "/projects_wall.html", :layout => :html5
+page "/team.html", :layout => :html5
+page "/error404.html", :layout => :html5
 
 
 
