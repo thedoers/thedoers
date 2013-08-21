@@ -32,6 +32,23 @@
 		height: 100%
 		$image: image-url("textures/mazinga-bg.png")
 		background: $image repeat left top
+
+	h1#error404
+		font-size: px-to-em(1080px,16px)
+		line-height: px-to-em(745px,1080px)
+		top: -12px
+		left: -25px
+	h2#description-error
+		font-size: px-to-em(430px,16px)
+		line-height: px-to-em(295px,430px)
+		top: -4px
+		left: -36px
+	.white-fulminetti-2
+		top: 57%
+		left: 45%
+	h4#warning
+		top: 60%
+		left: 45%
 		
 	form#form1
 		ul
@@ -47,6 +64,25 @@
 			+pre(3,15)
 			margin-top: 0
 			margin-bottom: 70px
+
+	ul#projects-wall
+		+span-columns(15,15)
+		position: relative
+		margin-top: 245px
+		li.wall-container-photo
+			// +span-columns(7,15)
+			width: 45.45455%
+			position: relative
+			+float-left
+			margin-right: 20px
+			// &:nth-child(even)
+			// 	margin-right: 0
+		li.wall-container-photo.large
+			+span-columns(14,15)
+			a.wall
+				+span-columns(4,14)
+
+			
 					
 					
 	#bg-submission
@@ -55,6 +91,7 @@
 		height: 230px
 		width: 100%
 		position: absolute
+		z-index: 22
 	#bg-questions
 		$image: image-url("textures/questionmark.png")
 		background: $image repeat left top
@@ -71,12 +108,232 @@
 	
 	
 	section.page
+		.black-pink-title
+			+span-columns(5,15)
+		.project-container-photo
+			+span-columns(15,15)
+			position: relative
+			.img-medium
+				+span-columns(10,15)
+				+pre(1)
+			.img-large
+				+span-columns(12,15)
+			img
+				max-width: 100%
+		.bottom-spacer-projects
+			margin-bottom: 200px
+		hr.spacer-project
+			+span-columns(12,15)
+		.description-image
+			position: absolute
+			top: 0
+			right: -20px
+			margin-top: 13px
+			+span-columns(4 omega,15)
+			z-index: 12
+			padding-left: 20px
+			padding-right: 20px
+			p
+				+span-columns(4,4)
+				+pre(0)
+			.corner
+				+sprite($assets, "corner_project_description", true)
+				top: 18px
+				left: -9px
+
+		.black-pink-title-small
+			+span-columns(4,4)
+			+pre(0)
+		.project-info.team
+			+span-columns(13,15)
+			margin-bottom: 130px
+			.container-single-info
+				margin-bottom: 40px
+			.container-single-info.eight-columns
+				+span-columns(8,13)
+				p.oggetto-sociale
+					font-size: px-to-em(30px,16px)
+					line-height: px-to-em(34px,30px)
+					text-transform: none
+					margin: 0
+					margin-top: 11px
+				p.date
+					margin-top: 18px
+					span.day
+						font-size: px-to-em(85px,65px)
+						line-height: px-to-em(45px,85px)
+						span.slash-date
+							font-size: px-to-em(28px,85px)
+					span.year
+						font-size: px-to-em(85px,65px)
+						line-height: px-to-em(45px,85px)
+						span.slash-date
+							font-size: px-to-em(28px,85px)
+					span.month
+						font-size: px-to-em(45px,65px)
+						line-height: px-to-em(25px,45px)
+						padding-top: 4px
+						padding-bottom: 14px
+						span.slash-date
+							font-size: px-to-em(28px,45px)
+				p.city
+					font-size: px-to-em(45px,16px)
+					line-height: px-to-em(40px,45px)
+					margin: 0
+					margin-top: -5px	
+			.container-single-info.five-columns
+				+span-columns(5 omega,13)
+				p.activity
+					font-size: px-to-em(12px,16px)
+					line-height: px-to-em(12px,12px)
+					margin: 0
+					margin-top: 17px
+					span.slash
+						font-size: px-to-em(8px,12px)
+						line-height: px-to-em(8px,8px)
+				p.notaio
+					font-size: px-to-em(32px,16px)
+					line-height: px-to-em(27px,32px)
+					margin: 0
+					margin-top: 10px
+				p.notaio-address
+					font-size: px-to-em(12px,16px)
+					line-height: px-to-em(12px,12px)
+					margin: 0
+					margin-top: 10px
+					span.smallcaps
+						text-transform: lowercase
+			.container-single-info.all-columns
+				+span-columns(13,13)
+				p.sede
+					font-size: px-to-em(45px,16px)
+					line-height: px-to-em(38px,45px)
+					margin: 0
+					margin-top: 9px
+					span.smallcaps
+						text-transform: lowercase
+				a.society
+					font-size: px-to-em(45px,16px)
+					line-height: px-to-em(38px,45px)
+					margin: 0
+					margin-top: 9px
+					color: #2BFECF
+					text-decoration: underline
+					display: block
+					&:hover
+						color: #C7FFEF
+		.project-info
+			+span-columns(12,15)
+			.container-single-info
+				+span-columns(3,12)
+				margin-bottom: 50px
+				p.date
+					margin: 0
+					margin-top: 15px
+					font-size: px-to-em(65px,16px)
+					line-height: px-to-em(38px,65px)
+				span.day
+					padding-bottom: -5px !important
+					display: block
+					span.slash-date
+						font-size: px-to-em(28px,65px)
+				span.month
+					font-size: px-to-em(32px,65px)
+					line-height: px-to-em(25px,32px)
+					word-break: break-all
+					display: block
+					padding-bottom: 11px
+					span.slash-date
+						font-size: px-to-em(28px,32px)
+				p.users
+					margin: 0
+					margin-top: 8px
+					font-size: px-to-em(65px,16px)
+					line-height: px-to-em(51px,65px)
+					word-break: break-all
+				ul.press, ul.funding
+					+no-bullets
+					margin: 0
+					padding: 0
+					margin-top: 13px
+				a.press
+					margin: 0
+					color: #2BFECF
+					font-size: px-to-em(32px,16px)
+					line-height: px-to-em(20px,32px)
+					text-decoration: underline
+					word-break: break-all
+					&:hover
+						color: #C7FFEF
+				p.date-press
+					margin: 0
+					margin-bottom: 12px
+					font-size: px-to-em(12px,16px)
+					line-height: px-to-em(12px,12px)
+					span.slash-press
+						font-size: px-to-em(8px,12px)
+				p.funding
+					margin: 0
+					font-size: px-to-em(65px,16px)
+					line-height: px-to-em(41px,65px)
+					word-break: break-all
+					display: block
+					span.money
+						font-size: px-to-em(35px,65px)
+						padding-right: 5px
+				span.funder
+					font-size: px-to-em(12px,16px)
+					line-height: px-to-em(12px,12px)
+					padding-left: 32px
+					display: block
+					margin-top: -4px
+					margin-bottom: 18px
+
+
+			.last
+				margin-right: 0
+		.project-description
+			+span-columns(12,15)
+			clear: left
+			margin-bottom: 30px
+			ul.areas
+				+span-columns(3 omega,12)
+				li
+					margin-bottom: 13px
+				.business
+					top: 2px
+				.interaction
+					top: 4px
+				.technology
+					top: 3px
+				.identity
+					top: 5px
+				.graphics
+					top: -1px
+		.container-p
+			+span-columns(8,12)
+			// padding-right: 40px
+			// border-right: 1px dotted $yellow
+		hr.horizontal-dotted
+			display: none
+		hr.vertical-dotted
+			margin-left: 18px
+			// display: inline-block
+			position: relative
+			height: auto
+
+
+
+
+
+
 		.container-submission, .container-hiring
 			position: relative
 			background: $purple
 			margin-top: 20px
 			margin-bottom: 0
 			height: 165px
+			z-index: 22
 			.bottone-container-hover
 				margin-top: 23px
 		.container-submission
@@ -92,7 +349,7 @@
 			font-size: px-to-em(22px,16px)
 			line-height: px-to-em(31px,22px)
 			color: $yellow
-			font-weight: 600	
+			font-weight: 700	
 	section.page
 		ul.question-answer
 			position: relative
@@ -125,7 +382,7 @@
 					
 				p.question
 					+span-columns(4,15)
-					font-weight: 600
+					font-weight: 700
 					position: relative
 					+pre(1)
 					margin-top: 0
@@ -164,15 +421,18 @@
 				top: 15px
 				left: -200px
 				width: 250px
+			.container.team
+				margin-bottom: 60px
 			.container
 				+span-columns(8,15)
 				margin-bottom: 60px
+				margin-left: 9px
 				span
 					font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
 					font-size: 50px
 					line-height: 45px
 					color: $pink
-					font-weight: 600
+					font-weight: 700
 					text-transform: uppercase
 					text-decoration: none
 					padding: 2px 10px 2px 2px
@@ -181,9 +441,10 @@
 					display: inline-block
 					background: black
 					margin: 0
+					margin-left: -9px
 					margin-bottom: 1px
 					padding: 0
-					padding-right: 20px
+					padding-right: 13px
 					padding-left: 3px
 					.shadow-right
 						height: 34px
@@ -205,7 +466,6 @@
 						
 		ul.submission
 			+span-columns(13,15)
-
 			list-style-type: none
 			padding: 0
 			margin: 0
@@ -227,6 +487,11 @@
 						margin-top: 40px
 						top: 0
 						left: 0
+					.photo-team
+						position: relative
+						margin-top: 30px
+						top: 0
+						left: 0
 					h3
 						position: relative
 						margin: 0
@@ -236,7 +501,7 @@
 							font-size: 16px
 							line-height: 19px
 							color: black
-							font-weight: 600
+							font-weight: 700
 							background: $pink
 							padding: 0 10px 2px 2px
 							display: inline-block
@@ -262,12 +527,13 @@
 						position: relative
 						margin: 0
 						.container
+							margin-left: 7px
 							span
 								font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
 								font-size: 31px
 								line-height: 28px
 								color: $pink
-								font-weight: 600
+								font-weight: 700
 								text-transform: uppercase
 								text-decoration: none
 								padding: 2px 10px 2px 2px
@@ -276,6 +542,7 @@
 								display: inline-block
 								background: black
 								margin: 0
+								margin-left: -7px
 								margin-bottom: 1px
 								padding: 0 10px 0 2px
 								.shadow-right
@@ -304,7 +571,7 @@
 						font-size: px-to-em(22px,16px)
 						line-height: px-to-em(31px,22px)
 						color: $yellow
-						font-weight: 600
+						font-weight: 700
 						&:first-child
 							margin-top: 20px
 						a 
@@ -418,7 +685,7 @@
 						font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
 						font-size: px-to-em(31px,16px)
 						color: $pink
-						font-weight: 600
+						font-weight: 700
 						text-transform: uppercase
 						background: black
 						text-decoration: none
@@ -498,7 +765,7 @@
 				.first-letter
 					color: $yellow
 					font-style: italic
-					font-weight: 600
+					font-weight: 700
 				.slash
 					font-size: px-to-em(6px,12px)
 					color: $yellow

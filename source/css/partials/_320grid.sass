@@ -10,66 +10,66 @@ section.page
 
 .A
 	+assign-sprite-background($assets)
-	+sprite($assets, "capolettera_A", true)
+	+replace-with-sprite($assets, "capolettera_A")
 	margin-right: 2px
 .A-grave
 	+assign-sprite-background($assets)
-	+sprite($assets, "capolettera_A_grave", true)
+	+replace-with-sprite($assets, "capolettera_A_grave")
 	margin-right: 2px
 .B
 	+assign-sprite-background($assets)
-	+sprite($assets, "capolettera_B", true)
+	+replace-with-sprite($assets, "capolettera_B")
 .C
 	+assign-sprite-background($assets)
-	+sprite($assets, "capolettera_C", true)
+	+replace-with-sprite($assets, "capolettera_C")
 .D
 	+assign-sprite-background($assets)
-	+sprite($assets, "capolettera_D", true)
+	+replace-with-sprite($assets, "capolettera_D")
 .E
 	+assign-sprite-background($assets)
-	+sprite($assets, "capolettera_E", true)
+	+replace-with-sprite($assets, "capolettera_E")
 .E-grave
 	+assign-sprite-background($assets)
-	+sprite($assets, "capolettera_E_grave", true)
+	+replace-with-sprite($assets, "capolettera_E_grave")
 .E-acuto
 	+assign-sprite-background($assets)
-	+sprite($assets, "capolettera_E_acuto", true)
+	+replace-with-sprite($assets, "capolettera_E_acuto")
 .F
 	+assign-sprite-background($assets)
-	+sprite($assets, "capolettera_F", true)
+	+replace-with-sprite($assets, "capolettera_F")
 .G
 	+assign-sprite-background($assets)
-	+sprite($assets, "capolettera_G", true)
+	+replace-with-sprite($assets, "capolettera_G")
 .J
 	+assign-sprite-background($assets)
-	+sprite($assets, "capolettera_J", true)
+	+replace-with-sprite($assets, "capolettera_J")
 .K
 	+assign-sprite-background($assets)
-	+sprite($assets, "capolettera_K", true)
+	+replace-with-sprite($assets, "capolettera_K")
 .H
 	+assign-sprite-background($assets)
-	+sprite($assets, "capolettera_H", true)
+	+replace-with-sprite($assets, "capolettera_H")
 .I
 	+assign-sprite-background($assets)
-	+sprite($assets, "capolettera_I", true)
+	+replace-with-sprite($assets, "capolettera_I")
 .I-grave
 	+assign-sprite-background($assets)
-	+sprite($assets, "capolettera_I_grave", true)
+	+replace-with-sprite($assets, "capolettera_I_grave")
 .L
 	+assign-sprite-background($assets)
-	+sprite($assets, "capolettera_L", true)
+	+replace-with-sprite($assets, "capolettera_L")
 .L-apostrofo
 	+assign-sprite-background($assets)
-	+sprite($assets, "capolettera_L_apostrofo", true)
+	+replace-with-sprite($assets, "capolettera_L_apostrofo")
 .M
 	+assign-sprite-background($assets)
-	+sprite($assets, "capolettera_M", true)
+	+replace-with-sprite($assets, "capolettera_M")
 .N
 	+assign-sprite-background($assets)
-	+sprite($assets, "capolettera_N", true)
+	+replace-with-sprite($assets, "capolettera_N")
 .O
 	+assign-sprite-background($assets)
-	+sprite($assets, "capolettera_O", true)
+	+replace-with-sprite($assets, "capolettera_O")
 .O-grave
 	+assign-sprite-background($assets)
 	+sprite($assets, "capolettera_O_grave", true)
@@ -78,40 +78,39 @@ section.page
 	+sprite($assets, "capolettera_P", true)
 .Q
 	+assign-sprite-background($assets)
-	+sprite($assets, "capolettera_Q", true)
+	+replace-with-sprite($assets, "capolettera_Q")
 .R
 	+assign-sprite-background($assets)
-	+sprite($assets, "capolettera_R", true)
+	+replace-with-sprite($assets, "capolettera_R")
 .S
 	+assign-sprite-background($assets)
-	+sprite($assets, "capolettera_S", true)
+	+replace-with-sprite($assets, "capolettera_S")
 .T
 	+assign-sprite-background($assets)
-	+sprite($assets, "capolettera_T", true)
-	margin-left: -3px
-	margin-right: -3px
+	+replace-with-sprite($assets, "capolettera_T")
+	
 .U
 	+assign-sprite-background($assets)
-	+sprite($assets, "capolettera_U", true)
+	+replace-with-sprite($assets, "capolettera_U")
 .U-grave
 	+assign-sprite-background($assets)
-	+sprite($assets, "capolettera_U_grave", true)
+	+replace-with-sprite($assets, "capolettera_U_grave")
 .V
 	+assign-sprite-background($assets)
-	+sprite($assets, "capolettera_V", true)
+	+replace-with-sprite($assets, "capolettera_V")
 .W
 	+assign-sprite-background($assets)
-	+sprite($assets, "capolettera_W", true)
+	+replace-with-sprite($assets, "capolettera_W")
 	margin-right: 2px
 .X
 	+assign-sprite-background($assets)
-	+sprite($assets, "capolettera_X", true)
+	+replace-with-sprite($assets, "capolettera_X")
 .Y
 	+assign-sprite-background($assets)
-	+sprite($assets, "capolettera_Y", true)
+	+replace-with-sprite($assets, "capolettera_Y")
 .Z
 	+assign-sprite-background($assets)
-	+sprite($assets, "capolettera_Z", true)
+	+replace-with-sprite($assets, "capolettera_Z")
 	margin-right: 2px
 
 
@@ -157,13 +156,153 @@ a.logo-doers-qa
 .bottom-spacer
 	margin-bottom: 20px !important
 
+#bg-error
+	position: fixed
+	width: 100%
+	height: 100%
+	$image: image-url("textures/bg-error.png")
+	background: $image left top
+h1#error404, h2#description-error
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
+	font-weight: 700
+	text-transform: uppercase
+	position: absolute
+	margin: 0
+	word-break: break-all
+h1#error404
+	color: #8591FD
+	font-size: px-to-em(692px,16px)
+	line-height: px-to-em(478px,692px)
+	top: -8px
+	left: -16px
+	opacity: 0.9
+h2#description-error
+	color: #2BFECF
+	font-size: px-to-em(265px,16px)
+	line-height: px-to-em(183px,265px)
+	top: -4px
+	left: -23px
+	opacity: 0.9
+.white-fulminetti-1, .white-fulminetti-2
+	+assign-sprite-background($assets)
+	+sprite($assets, "fulminetti-white", true)
+	position: fixed
+	z-index: 12
+.white-fulminetti-1
+	top: 37%
+	left: 30%
+.white-fulminetti-2
+	top: 64%
+	left: 10%
+h3#description-error-small
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
+	font-weight: 700
+	text-transform: uppercase
+	position: fixed
+	color: black
+	font-size: px-to-em(28px,16px)
+	line-height: px-to-em(20px,28px)
+	top: 40%
+	left: 30%
+	margin: 0
+	width: 135px
+	padding: 8px
+	padding-top: 3px
+	border: 4px solid black
+	outline: 2px solid white
+	background-color: white
+	span.bigger
+		font-size: px-to-em(60px,28px)
+		line-height: px-to-em(56px,60px)
+h4#warning
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
+	font-weight: 700
+	text-transform: uppercase
+	position: fixed
+	color: black
+	font-size: px-to-em(28px,16px)
+	line-height: px-to-em(20px,28px)
+	top: 67%
+	left: 10%
+	margin: 0
+	width: 280px
+	padding: 8px
+	padding-top: 3px
+	border: 4px solid black
+	outline: 2px solid white
+	background-color: white
+	span.bigger
+		font-size: px-to-em(38px,28px)
+		line-height: px-to-em(44px,38px)
 
-	
+ul#projects-wall
+	+span-columns(7,7)
+	position: relative
+	margin-top: 200px
+	+no-bullets
+	padding: 0
+
+	li.wall-container-photo
+		+span-columns(7,7)
+		position: relative
+		margin-bottom: 70px
+		z-index: 21
+		min-height: 250px
+		.fulminetti
+			+assign-sprite-background($assets)
+			+sprite($assets, "fulminetti-verdi", true)
+			position: absolute
+			top: -19px
+			left: 12px
+		a.wall
+			+span-columns(4,7)
+			@include word-break(break-all)
+			@include hyphens
+			color: #2BFECF
+			font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
+			font-weight: 700
+			text-transform: uppercase
+			font-size: px-to-em(32px,16px)
+			line-height: px-to-em(28px,32px)
+			text-decoration: none
+			position: absolute
+			top: -10px
+			left: 10px
+			z-index: 12
+			&:hover
+				color: $yellow
+				color: #C7FFEF
+				span.subtitle
+					color: #2BFECF
+				~ img
+					opacity: 0.4
+			span.underline
+				text-decoration: underline
+			span.subtitle
+				font-size: px-to-em(12px,32px)
+				line-height: px-to-em(12px,12px)
+				display: block
+				padding-top: 7px
+				text-decoration: none !important
+				padding-left: 2px
+			span.date
+				font-size: px-to-em(53px,32px)
+				line-height: px-to-em(32px,53px)
+				padding-top: 45px
+				display: block
+				span.slash
+					font-size: px-to-em(12px,53px)
+				span.year
+					display: block
+
+		img
+			max-width: 100%
+
 		
 		
 		
 ul.menu-container
-	z-index: 13
+	z-index: 23
 	position: fixed
 	right: 10px
 	top: 0
@@ -236,7 +375,7 @@ ul.menu-container
 						.first-letter, .slash
 							color: $pink
 						.first-letter
-							font-weight: 600
+							font-weight: 700
 							font-style: italic
 						.slash
 							font-size: px-to-em(6px,12px)
@@ -341,7 +480,7 @@ ul.menu-container
 					background: $blue
 					padding: 11px 20px
 					.first-letter
-						font-weight: 600
+						font-weight: 700
 						font-style: italic
 						color: $pink
 					.small
@@ -426,6 +565,7 @@ section.page
 		width: 100%
 		border: none !important
 		margin: 0
+		clear: both
 	hr.dotted
 		height: 1px
 		$image: image-url("textures/hr_dotted.png")
@@ -440,7 +580,7 @@ section.page
 		+span-columns(7,7)
 		margin-top: 110px
 		p
-			z-index: 12
+			z-index: 22
 			position: relative
 			margin-top: 72px
 			margin-bottom: 0
@@ -448,7 +588,7 @@ section.page
 			font-size: px-to-em(35px,16px)
 			line-height: px-to-em(49px,35px)
 			color: $yellow
-			font-weight: 600
+			font-weight: 700
 			span.capo_lettera
 				float: left
 				position: relative
@@ -461,9 +601,576 @@ section.page
 				margin-right: 3px
 			.W_big
 				+assign-sprite-background($assets)
-				+sprite($assets, "W_capolettera_big", true)
+				+replace-with-sprite($assets, "W_capolettera_big")
 				margin-right: -7px
 				margin-left: -7px
+
+	h1.main-black-pink-title
+		+span-columns(7,7)
+		margin-top: 185px
+		position: relative
+		margin-bottom: 0
+		.arrow_reverse, .arrow
+			width: 141px
+			height: 41px
+			position: absolute
+			z-index: 4
+			top: -32px
+			left: 0
+		.arrow_reverse
+			$image: image-url("textures/arrows_reverse.png")
+			background: $image repeat left top
+		.arrow
+			$image: image-url("textures/arrows.png")
+			background: $image repeat left top
+		.wave_line
+			background: none
+		.container
+			+span-columns(7,7)
+			margin-bottom: 20px
+			margin-left: 9px
+			span
+				font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
+				font-size: 45px
+				line-height: 38px
+				color: $pink
+				font-weight: 600
+				text-transform: uppercase
+				text-decoration: none
+				padding: 2px 10px 2px 2px
+				position: relative
+				z-index: 2
+				display: inline-block
+				background: black
+				margin: 0
+				margin-bottom: 1px
+				margin-left: -9px
+				padding: 0
+				padding-right: 13px
+				padding-left: 3px
+				.shadow-right
+					height: 27px
+					width: 11px
+					background: $blue
+					float: right
+					position: absolute
+					right: -11px
+					top: 11px
+					opacity: 0.4
+				.shadow-bottom
+					height: 11px
+					width: 100%
+					background: $blue
+					position: absolute
+					top: 38px
+					left: 11px
+					opacity: 0.4
+					z-index: -1
+
+
+
+	.project-container-photo
+		+span-columns(7,7)
+		position: relative
+		.img-medium, .img-large
+			+span-columns(7,7)
+		img
+			max-width: 100%
+			position: relative
+			margin-bottom: 6px
+			+float-right
+		.spacer
+			margin-top: 40px
+			margin-bottom: 20px
+
+
+	.bottom-spacer-projects
+		height: 1px
+		margin-bottom: 100px
+		clear: both
+	.project-info.team
+		+span-columns(7,7)
+		margin-bottom: 100px
+		.container-single-info
+			margin-bottom: 40px
+		.container-single-info.eight-columns
+			+span-columns(7,7)
+			p.oggetto-sociale
+				font-size: px-to-em(30px,16px)
+				line-height: px-to-em(34px,30px)
+				text-transform: none
+				margin: 0
+				margin-top: 11px
+			p.date
+				margin-top: 18px
+				span.day
+					font-size: px-to-em(85px,65px)
+					line-height: px-to-em(45px,85px)
+					span.slash-date
+						font-size: px-to-em(28px,85px)
+				span.year
+					font-size: px-to-em(85px,65px)
+					line-height: px-to-em(45px,85px)
+					span.slash-date
+						font-size: px-to-em(28px,85px)
+				span.month
+					font-size: px-to-em(45px,65px)
+					line-height: px-to-em(25px,45px)
+					padding-top: 4px
+					padding-bottom: 14px
+					span.slash-date
+						font-size: px-to-em(28px,45px)
+			p.city
+				font-size: px-to-em(45px,16px)
+				line-height: px-to-em(40px,45px)
+				margin: 0
+				margin-top: -5px	
+		.container-single-info.five-columns
+			+span-columns(7,7)
+			p.activity
+				font-size: px-to-em(12px,16px)
+				line-height: px-to-em(12px,12px)
+				margin: 0
+				margin-top: 17px
+				span.slash
+					font-size: px-to-em(8px,12px)
+					line-height: px-to-em(8px,8px)
+					padding-left: 10px
+					padding-right: 10px
+			p.activity.eccezioni
+				margin-top: 12px
+				text-transform: none
+				font-size: px-to-em(10px,16px)
+				line-height: px-to-em(12px,10px)
+			p.notaio
+				font-size: px-to-em(32px,16px)
+				line-height: px-to-em(27px,32px)
+				margin: 0
+				margin-top: 10px
+			p.notaio-address
+				font-size: px-to-em(12px,16px)
+				line-height: px-to-em(12px,12px)
+				margin: 0
+				margin-top: 10px
+				span.smallcaps
+					text-transform: lowercase
+		.container-single-info.all-columns
+			+span-columns(7,7)
+			p.sede
+				font-size: px-to-em(45px,16px)
+				line-height: px-to-em(38px,45px)
+				margin: 0
+				margin-top: 9px
+				span.smallcaps
+					text-transform: lowercase
+			p.society
+				font-size: px-to-em(45px,16px)
+				line-height: px-to-em(38px,45px)
+				margin: 0
+				margin-top: 9px
+				span.small
+					font-size: px-to-em(12px,45px)
+					line-height: px-to-em(12px,12px)
+					position: relative
+					top: -21px
+			a.society
+				font-size: px-to-em(45px,16px)
+				line-height: px-to-em(38px,45px)
+				margin: 0
+				margin-top: 9px
+				color: #2BFECF
+				text-decoration: underline
+				display: inline
+				position: relative
+				+float-left
+				&:hover
+					color: #C7FFEF
+			p.slash-society
+				display: inline
+				position: relative
+				+float-left
+				margin: 0
+				margin-top: 24px
+				padding-left: 10px
+				padding-right: 10px
+	.project-info
+		+span-columns(7,7)
+		.container-single-info
+			+span-columns(7,7)
+			color: #2BFECF
+			font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
+			font-weight: 700
+			text-transform: uppercase
+			margin-bottom: 30px
+			h4
+				margin: 0
+				margin-bottom: 1px 
+				font-size: px-to-em(16px,16px)
+				line-height: px-to-em(16px,16px)
+			hr
+				width: 100%
+				margin: 0
+				margin-bottom: 5px
+				border: none
+				height: 1px
+				background-color: #2BFECF
+			p.date
+				margin: 0
+				margin-top: 15px
+				font-size: px-to-em(65px,16px)
+				line-height: px-to-em(38px,65px)
+			span.day
+				padding-bottom: -5px !important
+				display: block
+				span.slash-date
+					font-size: px-to-em(28px,65px)
+			span.month
+				font-size: px-to-em(32px,65px)
+				line-height: px-to-em(25px,32px)
+				word-break: break-all
+				display: block
+				padding-bottom: 11px
+				span.slash-date
+					font-size: px-to-em(28px,32px)
+			p.users
+				margin: 0
+				margin-top: 8px
+				font-size: px-to-em(65px,16px)
+				line-height: px-to-em(51px,65px)
+				word-break: break-all
+			ul.press, ul.funding
+				+no-bullets
+				@include word-break(break-all)
+				@include hyphens
+				margin: 0
+				padding: 0
+				margin-top: 13px
+			a.press
+				margin: 0
+				color: #2BFECF
+				font-size: px-to-em(32px,16px)
+				line-height: px-to-em(20px,32px)
+				text-decoration: underline
+				word-break: break-all
+				&:hover
+					color: #C7FFEF
+			p.date-press
+				margin: 0
+				margin-bottom: 12px
+				font-size: px-to-em(12px,16px)
+				line-height: px-to-em(12px,12px)
+				span.slash-press
+					font-size: px-to-em(8px,12px)
+			p.funding
+				margin: 0
+				font-size: px-to-em(65px,16px)
+				line-height: px-to-em(41px,65px)
+				word-break: break-all
+				display: block
+				span.money
+					font-size: px-to-em(35px,65px)
+					padding-right: 5px
+			span.funder
+				font-size: px-to-em(12px,16px)
+				line-height: px-to-em(12px,12px)
+				padding-left: 32px
+				display: block
+				margin-top: -4px
+				margin-bottom: 18px
+	.black-pink-title.info
+		width: 100%
+		margin-bottom: 30px
+		h2
+			span
+				width: 100%
+				padding-right: 0 !important
+				span.update
+					right: 10px
+					top: 1px
+					width: auto
+					background: transparent !important
+					position: absolute
+					font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
+					font-size: 12px
+					line-height: 14px
+					font-style: italic
+					font-weight: 400
+					text-transform: none
+					letter-spacing: px-to-em(1px)
+					display: inline
+					margin-left: 0
+					span.slash
+						background: transparent !important
+						font-size: 8px
+						display: inline
+						margin-left: 0
+	.description-image
+		+span-columns(7,7)
+		background-color: #2BFECF
+		position: relative
+		margin-top: -6px
+		margin-bottom: 6px
+		.corner
+			+assign-sprite-background($assets)
+			+sprite($assets, "corner_project_description_mobile", true)
+			position: absolute
+			top: -9px
+			left: 14px
+		p
+			+span-columns(5,7)
+			+pre(1)
+			margin-top: 0
+			margin-bottom: 12px
+			font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
+			font-weight: 700
+			color: black
+			font-size: px-to-em(14px,16px)
+			line-height: px-to-em(16px,14px)
+			&:last-child
+				padding-bottom: 30px
+
+	.black-pink-title-small
+		+span-columns(5,7)
+		+pre(1)
+		position: relative
+		top: -13px
+		margin-bottom: 8px
+		h2
+			position: relative
+			margin: 0
+			.container
+				margin-left: 7px
+				span
+					font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
+					font-size: 25px
+					line-height: 24px
+					color: $pink
+					font-weight: 600
+					text-transform: uppercase
+					text-decoration: none
+					padding: 2px 10px 2px 2px
+					position: relative
+					z-index: 2
+					display: inline-block
+					background: black
+					margin: 0
+					margin-bottom: 1px
+					margin-left: -7px
+					padding: 0 10px 0 2px
+					.shadow-right
+						height: 16px
+						width: 8px
+						background: $blue
+						float: right
+						position: absolute
+						right: -8px
+						top: 8px
+						opacity: 0.4
+					.shadow-bottom
+						height: 8px
+						width: 100%
+						background: $blue
+						position: absolute
+						top: 24px
+						left: 8px
+						opacity: 0.4
+						z-index: -1
+	.black-pink-title
+		+span-columns(5,7)
+		margin-top: 0
+		margin-bottom: 45px
+		margin-left: 7px
+		h3
+			position: relative
+			margin: 0
+			margin-bottom: 1px
+			line-height: 20px
+			span
+				font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
+				font-size: 16px
+				line-height: 19px
+				color: black
+				font-weight: 600
+				background: $pink
+				padding: 0 10px 2px 2px
+				display: inline-block
+				position: relative
+				margin-left: -7px
+				.smaller
+					font-size: 9px
+					line-height: 9px
+					padding: 0
+					margin: 0
+				.shadow-right
+					height: 13px
+					width: 8px
+					background: $blue
+					float: right
+					position: absolute
+					right: -8px
+					top: 8px
+					opacity: 0.4
+				.shadow-bottom
+					height: 8px
+					width: 100%
+					background: $blue
+					position: absolute
+					top: 21px
+					left: 8px
+					opacity: 0.4
+					z-index: -1
+		h2.single-title
+			margin-top: 23px
+		h2
+			position: relative
+			margin: 0
+			.container
+				span
+					font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
+					font-size: 31px
+					line-height: 28px
+					color: $pink
+					font-weight: 600
+					text-transform: uppercase
+					text-decoration: none
+					padding: 2px 10px 2px 2px
+					position: relative
+					z-index: 2
+					display: inline-block
+					background: black
+					margin: 0
+					margin-bottom: 1px
+					padding: 0 13px 0 2px
+					margin-left: -7px
+					.shadow-right
+						height: 20px
+						width: 8px
+						background: $blue
+						float: right
+						position: absolute
+						right: -8px
+						top: 8px
+						opacity: 0.4
+					.shadow-bottom
+						height: 8px
+						width: 100%
+						background: $blue
+						position: absolute
+						top: 28px
+						left: 8px
+						opacity: 0.4
+						z-index: -1
+	.project-description, .container-p
+		+span-columns(7,7)
+		.container-p
+			margin-bottom: 20px
+		p.project-description
+			width: 100%
+			margin: 0
+			margin-bottom: 20px
+			font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
+			font-size: px-to-em(22px,16px)
+			line-height: px-to-em(31px,22px)
+			color: $yellow
+			font-weight: 600
+			a, a.gotoproject
+				color: $blue
+				&:hover
+					opacity: 0.7
+				&:active
+					color: $pink !important
+					opacity: 1
+				&:visited
+					color: $yellow
+					opacity: 1
+			a.gotoproject
+				display: block
+				margin-top: 20px
+		p.project-description.quote
+			font-style: italic
+			font-size: px-to-em(15px,16px)
+			line-height: px-to-em(19px,15px)
+			margin-top: 20px
+			margin-bottom: 40px
+			padding-left: 10px
+			border-left: 1px solid $yellow
+		p.project-description.point
+			font-size: px-to-em(15px,16px)
+			line-height: px-to-em(19px,15px)
+			padding-left: 10px
+			border-left: 1px solid $yellow
+
+		ul.areas
+			+span-columns(7,7)
+			padding: 0
+			margin-top: 0
+			margin-bottom: 40px
+			+no-bullets
+			@include hyphens
+			li, h5
+				margin: 0
+			li
+				margin-bottom: 19px
+				position: relative
+				opacity: 0.4
+			li.active
+				opacity: 1
+			h5
+				padding-left: 40px
+				font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
+				font-size: px-to-em(16px,16px)
+				line-height: px-to-em(20px,16px)
+				color: $yellow
+				font-weight: 400
+			.icon
+				position: absolute
+				left: 0
+			.business, .interaction, .technology, .identity, .graphics
+				+assign-sprite-background($assets)
+			.business
+				+sprite($assets, "area-business", true)
+				top: -2px
+			.interaction
+				+sprite($assets, "area-interaction", true)
+				top: -2px
+			.technology
+				+sprite($assets, "area-technology", true)
+				top: 0
+			.identity
+				+sprite($assets, "area-identity", true)
+				top: 0
+			.graphics
+				+sprite($assets, "area-graphics", true)
+				top: -2px
+
+	hr.spacer-project
+		+span-columns(7,7)
+		margin-top: 40px
+		margin-bottom: 40px
+		border: none
+		height: 1px
+		$image: image-url("textures/hr_dotted.png")
+		background: $image repeat left top
+	hr.horizontal-dotted, hr.vertical-dotted
+		border: none
+		margin-top: 0
+		margin-bottom: 0
+	hr.horizontal-dotted
+		width: 100%
+		height: 1px
+		$image: image-url("textures/hr_dotted.png")
+		background: $image repeat left top
+		margin-bottom: 25px
+	hr.vertical-dotted
+		display: none
+		width: 1px
+		height: 100%
+		$image: image-url("textures/hr_vertical_dotted.png")
+		background: $image repeat left top
+
+
+
+
 				
 				
 	.container-submission, .container-hiring
@@ -495,7 +1202,7 @@ section.page
 		font-size: px-to-em(22px,16px)
 		line-height: px-to-em(31px,22px)
 		color: $yellow
-		font-weight: 600
+		font-weight: 700
 		
 	ul.old-site
 		position: relative
@@ -551,12 +1258,13 @@ section.page
 					top: -4px
 					left: 8px
 					opacity: 0.4
+					z-index: -1
 				a 
 					display: inline-block
 					font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
 					font-size: px-to-em(31px,16px)
 					color: $pink
-					font-weight: 600
+					font-weight: 700
 					text-transform: uppercase
 					background: black
 					text-decoration: none
@@ -607,7 +1315,7 @@ section.page
 				margin-bottom: 0
 				
 			p.question
-				font-weight: 600
+				font-weight: 700
 				position: relative
 				margin-top: 10px
 				span.capo_lettera
@@ -662,15 +1370,18 @@ section.page
 			background: $image repeat left top
 		.wave_line
 			background: none
+		.container.team
+			margin-bottom: 20px
 		.container
 			+span-columns(7,7)
-			margin-bottom: 60px
+			margin-bottom: 30px
+			margin-left: 9px
 			span
 				font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
 				font-size: 45px
 				line-height: 38px
 				color: $pink
-				font-weight: 600
+				font-weight: 700
 				text-transform: uppercase
 				text-decoration: none
 				padding: 2px 10px 2px 2px
@@ -680,8 +1391,9 @@ section.page
 				background: black
 				margin: 0
 				margin-bottom: 1px
+				margin-left: -9px
 				padding: 0
-				padding-right: 20px
+				padding-right: 13px
 				padding-left: 3px
 				.shadow-right
 					height: 27px
@@ -700,6 +1412,7 @@ section.page
 					top: 38px
 					left: 11px
 					opacity: 0.4
+					z-index: -1
 	ul.submission
 		+span-columns(7,7)
 		list-style-type: none
@@ -712,7 +1425,7 @@ section.page
 			font-size: 22px
 			line-height: 31px
 			color: $yellow
-			font-weight: 600
+			font-weight: 700
 			color: $blue
 			position: relative
 			display: inline-block
@@ -741,6 +1454,12 @@ section.page
 			font-weight: 400
 			span
 				padding: 0 4px
+			a
+				color: $yellow
+				font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
+				font-size: px-to-em(16px,16px)
+				line-height: px-to-em(20px,16px)
+				font-weight: 400	
 		li
 			margin-bottom: 50px
 			position: relative
@@ -766,21 +1485,37 @@ section.page
 					+sprite($assets, "icon_business", true)
 				.community-building
 					+sprite($assets, "icon_community_building", true)
+				.photo-team
+					position: absolute
+					margin: 0
+					top: 45px
+					left: 0
+					max-width: 155px
+					max-height: 155px
+					img
+						width: 100%
+						height: 100%
 					
 				h3
 					position: relative
 					margin: 0
 					margin-bottom: 1px
+					line-height: 20px
 					span
 						font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
 						font-size: 16px
 						line-height: 19px
 						color: black
-						font-weight: 600
+						font-weight: 700
 						background: $pink
 						padding: 0 10px 2px 2px
 						display: inline-block
 						position: relative
+						.smaller
+							font-size: 9px
+							line-height: 9px
+							padding: 0
+							margin: 0
 						.shadow-right
 							height: 13px
 							width: 8px
@@ -798,18 +1533,22 @@ section.page
 							top: 21px
 							left: 8px
 							opacity: 0.4
+							z-index: -1
+					span.team
+						clear: left
 				h2.single-title
 					margin-top: 23px
 				h2
 					position: relative
 					margin: 0
 					.container
+						margin-left: 7px
 						span
 							font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
 							font-size: 31px
 							line-height: 28px
 							color: $pink
-							font-weight: 600
+							font-weight: 700
 							text-transform: uppercase
 							text-decoration: none
 							padding: 2px 10px 2px 2px
@@ -818,6 +1557,7 @@ section.page
 							display: inline-block
 							background: black
 							margin: 0
+							margin-left: -7px
 							margin-bottom: 1px
 							padding: 0 10px 0 2px
 							.shadow-right
@@ -837,6 +1577,7 @@ section.page
 								top: 28px
 								left: 8px
 								opacity: 0.4
+								z-index: -1
 			.what_we_do
 				margin-top: 225px
 			.container-right
@@ -850,7 +1591,7 @@ section.page
 					font-size: px-to-em(22px,16px)
 					line-height: px-to-em(31px,22px)
 					color: $yellow
-					font-weight: 600
+					font-weight: 700
 					&:first-child
 						margin-top: 10px
 					a 
@@ -865,7 +1606,7 @@ section.page
 							opacity: 1
 				ul.community-building
 					font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
-					font-weight: 600
+					font-weight: 700
 					color: $yellow
 					font-size: px-to-em(22px,16px)
 					line-height: px-to-em(31px,22px)
@@ -905,7 +1646,7 @@ section.page
 		font-size: px-to-em(22px,16px)
 		line-height: px-to-em(31px,22px)
 		color: $yellow
-		font-weight: 600
+		font-weight: 700
 		position: relative
 	p.hiring-last, p.main-p
 		margin-bottom: 50px
@@ -978,10 +1719,9 @@ section.footer
 			font-size: px-to-em(12px,16px)
 			line-height: px-to-em(14px,12px)
 			letter-spacing: px-to-em(2px)
-			.first-letter
 				color: $yellow
 				font-style: italic
-				font-weight: 600
+				font-weight: 700
 			.slash
 				font-size: px-to-em(6px,12px)
 				color: $yellow

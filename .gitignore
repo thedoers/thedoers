@@ -1,11 +1,11 @@
-# Ignore bundler config
+
 /.bundle
-# Ignore the default SQLite database.
+
 /db/*.sqlite3
-# Ignore all log files and temp files.
+
 /log/*.log
 /tmp
-# Ignore other unneeded files.
+
 doc/
 *.swp
 *~
@@ -14,3 +14,18 @@ doc/
 /.sass-cache
 /.DS_Store
 /build
+build/
+/build/css/application.css
+/build/css/signatures.css
+/build/fonts/veramono/specimen_files/grid_12-825-55-15.css
+/build/fonts/veramono/specimen_files/specimen_stylesheet.css
+/build/fonts/veramono/stylesheet.css
+/build/fonts/veramono/veramono-bold-demo.html
+/build/fonts/veramono/veramono-bold-italic-demo.html
+/build/fonts/veramono/veramono-demo.html
+/build/fonts/veramono/veramono-italic-demo.html
+/build/hiring.html
+/build/index.html
+/build/mazinga_page.html
+/build/qa.html
+/build/submission_page.html

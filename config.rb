@@ -15,6 +15,27 @@ page "/qa.html", :layout => :html5
 page "/submission_page.html", :layout => :html5
 page "/what_we_do.html", :layout => :html5
 page "/submission_page_success.html", :layout => :html5
+page "/project_page_pubcoder.html", :layout => :html5
+page "/project_page_amolamusica.html", :layout => :html5
+page "/project_page_cineama.html", :layout => :html5
+page "/project_page_regalister.html", :layout => :html5
+page "/project_page_bookolico.html", :layout => :html5
+page "/project_page_gnammo.html", :layout => :html5
+page "/project_page_localactors.html", :layout => :html5
+page "/project_page_soccersquare.html", :layout => :html5
+page "/project_page_tamtown.html", :layout => :html5
+page "/project_page_volleysquare.html", :layout => :html5
+page "/project_page_weightanalytics.html", :layout => :html5
+page "/project_page_tacati.html", :layout => :html5
+page "/project_page_artmob.html", :layout => :html5
+page "/project_page_oilproject.html", :layout => :html5
+page "/project_page_fabrica.html", :layout => :html5
+page "/project_page_letscommerce.html", :layout => :html5
+page "/project_page_alphabot.html", :layout => :html5
+page "/project_page_pupulito.html", :layout => :html5
+page "/projects_wall.html", :layout => :html5
+page "/team.html", :layout => :html5
+page "/error404.html", :layout => :html5
 
 
 
@@ -35,18 +56,18 @@ set :fonts_dir, 'fonts'
 # Build-specific configuration
 configure :build do
   # For example, change the Compass output style for deployment
-  #activate :minify_css
+  activate :minify_css
   
   # # Minify Javascript on build
   activate :minify_javascript
   
   # # Create favicon/touch icon set from source/favicon_base.png
-  #activate :favicon_maker
+  activate :favicon_maker
   
   # # Enable cache buster
   activate :cache_buster
 
-  #activate :minify_html
+  activate :minify_html
   
   # # Use relative URLs
   #activate :relative_assets
