@@ -2,72 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17d3d794-0227-48f9-a172-e69d7b3e5910" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/E_capolettera_big.png" afterPath="$PROJECT_DIR$/build/images/assets/E_capolettera_big.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/arrow_small.png" afterPath="$PROJECT_DIR$/build/images/assets/arrow_small.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/textures/arrows.png" afterPath="$PROJECT_DIR$/build/images/textures/arrows.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/textures/arrows_reverse.png" afterPath="$PROJECT_DIR$/build/images/textures/arrows_reverse.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/blue_bottone_corner_left.png" afterPath="$PROJECT_DIR$/build/images/assets/blue_bottone_corner_left.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/blue_bottone_corner_right.png" afterPath="$PROJECT_DIR$/build/images/assets/blue_bottone_corner_right.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/textures/blue_hover_center.png" afterPath="$PROJECT_DIR$/build/images/textures/blue_hover_center.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/blue_hover_corner_left.png" afterPath="$PROJECT_DIR$/build/images/assets/blue_hover_corner_left.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/blue_hover_corner_right.png" afterPath="$PROJECT_DIR$/build/images/assets/blue_hover_corner_right.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/bottone_corner_left.png" afterPath="$PROJECT_DIR$/build/images/assets/bottone_corner_left.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/bottone_corner_left_27.png" afterPath="$PROJECT_DIR$/build/images/assets/bottone_corner_left_27.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/bottone_corner_right.png" afterPath="$PROJECT_DIR$/build/images/assets/bottone_corner_right.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/capolettera_A.png" afterPath="$PROJECT_DIR$/build/images/assets/capolettera_A.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/capolettera_E.png" afterPath="$PROJECT_DIR$/build/images/assets/capolettera_E.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/capolettera_H.png" afterPath="$PROJECT_DIR$/build/images/assets/capolettera_H.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/capolettera_T.png" afterPath="$PROJECT_DIR$/build/images/assets/capolettera_T.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/capolettera_W.png" afterPath="$PROJECT_DIR$/build/images/assets/capolettera_W.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/fulminetti.png" afterPath="$PROJECT_DIR$/build/images/assets/fulminetti.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/textures/hover_center.png" afterPath="$PROJECT_DIR$/build/images/textures/hover_center.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/hover_corner_left.png" afterPath="$PROJECT_DIR$/build/images/assets/hover_corner_left.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/hover_corner_right.png" afterPath="$PROJECT_DIR$/build/images/assets/hover_corner_right.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/hover_corner_right_first.png" afterPath="$PROJECT_DIR$/build/images/assets/hover_corner_right_first.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/hover_corner_right_last.png" afterPath="$PROJECT_DIR$/build/images/assets/hover_corner_right_last.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/textures/hr_dotted.png" afterPath="$PROJECT_DIR$/build/images/textures/hr_dotted.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/textures/hr_wave.png" afterPath="$PROJECT_DIR$/build/images/textures/hr_wave.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/icon_blog.png" afterPath="$PROJECT_DIR$/build/images/assets/icon_blog.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/icon_process.png" afterPath="$PROJECT_DIR$/build/images/assets/icon_process.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/icon_projects.png" afterPath="$PROJECT_DIR$/build/images/assets/icon_projects.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/logo_black.png" afterPath="$PROJECT_DIR$/build/images/assets/logo_black.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/logo_black_shadow.png" afterPath="$PROJECT_DIR$/build/images/assets/logo_black_shadow.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/logo_estrusione.png" afterPath="$PROJECT_DIR$/build/images/assets/logo_estrusione.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/logo_estrusione_active.png" afterPath="$PROJECT_DIR$/build/images/assets/logo_estrusione_active.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/logo_estrusione_hover.png" afterPath="$PROJECT_DIR$/build/images/assets/logo_estrusione_hover.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/logo_short_estrusione.png" afterPath="$PROJECT_DIR$/build/images/assets/logo_short_estrusione.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/logo_short_estrusione_active.png" afterPath="$PROJECT_DIR$/build/images/assets/logo_short_estrusione_active.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/logo_short_estrusione_hover.png" afterPath="$PROJECT_DIR$/build/images/assets/logo_short_estrusione_hover.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/logo_signature.png" afterPath="$PROJECT_DIR$/build/images/assets/logo_signature.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/logo_white_50alfa.png" afterPath="$PROJECT_DIR$/build/images/assets/logo_white_50alfa.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/textures/mazinga-bg.png" afterPath="$PROJECT_DIR$/build/images/textures/mazinga-bg.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/mazinga.png" afterPath="$PROJECT_DIR$/build/images/assets/mazinga.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/mazinga_lettering.png" afterPath="$PROJECT_DIR$/build/images/assets/mazinga_lettering.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/textures/purple_transparent.png" afterPath="$PROJECT_DIR$/build/images/textures/purple_transparent.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/textures/questionmark.png" afterPath="$PROJECT_DIR$/build/images/textures/questionmark.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/questionmark_small.png" afterPath="$PROJECT_DIR$/build/images/assets/questionmark_small.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/textures/square.png" afterPath="$PROJECT_DIR$/build/images/textures/square.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/textures/stripes.png" afterPath="$PROJECT_DIR$/build/images/textures/stripes.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/application.css" afterPath="$PROJECT_DIR$/build/css/application.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.rb" afterPath="$PROJECT_DIR$/config.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/hiring.html" afterPath="$PROJECT_DIR$/build/hiring.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/index.html" afterPath="$PROJECT_DIR$/build/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/mazinga_page.html" afterPath="$PROJECT_DIR$/build/mazinga_page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_pupulito.html.haml" afterPath="$PROJECT_DIR$/source/project_page_pupulito.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/qa.html" afterPath="$PROJECT_DIR$/build/qa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/signatures.css" afterPath="$PROJECT_DIR$/build/css/signatures.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/submission_page.html" afterPath="$PROJECT_DIR$/build/submission_page.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/thedoers.iml" afterPath="$PROJECT_DIR$/.idea/thedoers.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/veramono/veramono-bold-demo.html" afterPath="$PROJECT_DIR$/build/fonts/veramono/veramono-bold-demo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/veramono/veramono-bold-italic-demo.html" afterPath="$PROJECT_DIR$/build/fonts/veramono/veramono-bold-italic-demo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/veramono/veramono-demo.html" afterPath="$PROJECT_DIR$/build/fonts/veramono/veramono-demo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/veramono/veramono-italic-demo.html" afterPath="$PROJECT_DIR$/build/fonts/veramono/veramono-italic-demo.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="thedoers.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1379349804990" ignored="false" />
+    <file path="/Dummy.txt" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1379593364676" ignored="false" />
     <file path="/config.rb" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1376411864979" ignored="false" />
     <file path="/project_page_gnammo.html.haml" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1378136420643" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -101,7 +42,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="39" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0">
+            <state line="17" column="13" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -110,7 +51,7 @@
       <file leaf-file-name="config.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="2" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0">
+            <state line="6" column="0" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -119,7 +60,7 @@
       <file leaf-file-name="project_page_pupulito.html.haml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/project_page_pupulito.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="156" column="8" selection-start="4007" selection-end="4007" vertical-scroll-proportion="0.26124197">
+            <state line="146" column="44" selection-start="3601" selection-end="3601" vertical-scroll-proportion="0.8064516">
               <folding />
             </state>
           </provider>
@@ -128,7 +69,7 @@
       <file leaf-file-name="project_page_alphabot.html.haml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/project_page_alphabot.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="206" column="40" selection-start="4733" selection-end="4733" vertical-scroll-proportion="0.0">
+            <state line="206" column="39" selection-start="4806" selection-end="4806" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -137,7 +78,7 @@
       <file leaf-file-name="project_page_amolamusica.html.haml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/project_page_amolamusica.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="285" column="30" selection-start="6866" selection-end="6866" vertical-scroll-proportion="0.0">
+            <state line="285" column="28" selection-start="6938" selection-end="6938" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -146,7 +87,7 @@
       <file leaf-file-name="project_page_pubcoder.html.haml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/project_page_pubcoder.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="157" column="22" selection-start="0" selection-end="9477" vertical-scroll-proportion="-0.625">
+            <state line="157" column="19" selection-start="0" selection-end="9175" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -155,7 +96,7 @@
       <file leaf-file-name="project_page_tacati.html.haml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/project_page_tacati.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="225" column="19" selection-start="0" selection-end="9583" vertical-scroll-proportion="0.0">
+            <state line="225" column="16" selection-start="0" selection-end="9281" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -164,7 +105,7 @@
       <file leaf-file-name="project_page_soccersquare.html.haml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/project_page_soccersquare.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="29" selection-start="647" selection-end="647" vertical-scroll-proportion="-18.125">
+            <state line="29" column="29" selection-start="643" selection-end="643" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -173,7 +114,7 @@
       <file leaf-file-name="project_page_letscommerce.html.haml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/project_page_letscommerce.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="170" column="0" selection-start="3968" selection-end="3968" vertical-scroll-proportion="0.0">
+            <state line="170" column="0" selection-start="3961" selection-end="3961" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -258,20 +199,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thedoers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thedoers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -279,12 +206,12 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="org.jetbrains.plugins.ruby.settings.RubyIdeSdkConfigurable" />
+    <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
+    <property name="FullScreen" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager" selected="Gem Command.Middleman">
     <configuration default="true" type="CommandRunConfigurationType" factoryName="Gem Command">
@@ -307,6 +234,62 @@
       <COMMAND_CONFIG_SETTINGS_ID NAME="EXECUTABLE_NAME" VALUE="" />
       <COMMAND_CONFIG_SETTINGS_ID NAME="EXECUTABLE_ARGS" VALUE="" />
       <COMMAND_CONFIG_SETTINGS_ID NAME="WORKING_DIR" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
       <method />
     </configuration>
     <configuration default="false" name="Middleman" type="CommandRunConfigurationType" factoryName="Gem Command" singleton="true">
@@ -368,17 +351,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32969698" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3281046" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26111907" sideWeight="0.6711004" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26542324" sideWeight="0.67030305" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32889965" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32848486" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -494,70 +477,68 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_alphabot.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="206" column="40" selection-start="4733" selection-end="4733" vertical-scroll-proportion="0.0">
+        <state line="206" column="39" selection-start="4806" selection-end="4806" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_amolamusica.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="285" column="30" selection-start="6866" selection-end="6866" vertical-scroll-proportion="0.0">
+        <state line="285" column="28" selection-start="6938" selection-end="6938" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_letscommerce.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="170" column="0" selection-start="3968" selection-end="3968" vertical-scroll-proportion="0.0">
+        <state line="170" column="0" selection-start="3961" selection-end="3961" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_gnammo.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="238" column="30" selection-start="0" selection-end="9136" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="238" column="30" selection-start="0" selection-end="9136" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_tacati.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="225" column="19" selection-start="0" selection-end="9583" vertical-scroll-proportion="0.0">
+        <state line="225" column="16" selection-start="0" selection-end="9281" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_soccersquare.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="29" selection-start="647" selection-end="647" vertical-scroll-proportion="-18.125">
+        <state line="29" column="29" selection-start="643" selection-end="643" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="39" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0">
+        <state line="17" column="13" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_pubcoder.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="157" column="22" selection-start="0" selection-end="9477" vertical-scroll-proportion="-0.625">
+        <state line="157" column="19" selection-start="0" selection-end="9175" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="2" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0">
+        <state line="6" column="0" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_pupulito.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="156" column="8" selection-start="4007" selection-end="4007" vertical-scroll-proportion="0.26124197">
+        <state line="146" column="44" selection-start="3601" selection-end="3601" vertical-scroll-proportion="0.8064516">
           <folding />
         </state>
       </provider>
