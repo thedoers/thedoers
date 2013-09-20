@@ -1,170 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17d3d794-0227-48f9-a172-e69d7b3e5910" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/Find Results" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/images/assets-s7095568e57.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/project_page_alphabot.html.haml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/E_capolettera_big.png" afterPath="$PROJECT_DIR$/build/images/assets/E_capolettera_big.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/arrow_small.png" afterPath="$PROJECT_DIR$/build/images/assets/arrow_small.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/textures/arrows.png" afterPath="$PROJECT_DIR$/build/images/textures/arrows.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/textures/arrows_reverse.png" afterPath="$PROJECT_DIR$/build/images/textures/arrows_reverse.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/blue_bottone_corner_left.png" afterPath="$PROJECT_DIR$/build/images/assets/blue_bottone_corner_left.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/blue_bottone_corner_right.png" afterPath="$PROJECT_DIR$/build/images/assets/blue_bottone_corner_right.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/textures/blue_hover_center.png" afterPath="$PROJECT_DIR$/build/images/textures/blue_hover_center.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/blue_hover_corner_left.png" afterPath="$PROJECT_DIR$/build/images/assets/blue_hover_corner_left.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/blue_hover_corner_right.png" afterPath="$PROJECT_DIR$/build/images/assets/blue_hover_corner_right.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/bottone_corner_left.png" afterPath="$PROJECT_DIR$/build/images/assets/bottone_corner_left.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/bottone_corner_left_27.png" afterPath="$PROJECT_DIR$/build/images/assets/bottone_corner_left_27.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/bottone_corner_right.png" afterPath="$PROJECT_DIR$/build/images/assets/bottone_corner_right.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/capolettera_A.png" afterPath="$PROJECT_DIR$/build/images/assets/capolettera_A.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/capolettera_E.png" afterPath="$PROJECT_DIR$/build/images/assets/capolettera_E.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/capolettera_H.png" afterPath="$PROJECT_DIR$/build/images/assets/capolettera_H.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/capolettera_T.png" afterPath="$PROJECT_DIR$/build/images/assets/capolettera_T.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/capolettera_W.png" afterPath="$PROJECT_DIR$/build/images/assets/capolettera_W.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/favicon_base.png" afterPath="$PROJECT_DIR$/source/favicon_base.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/fulminetti.png" afterPath="$PROJECT_DIR$/build/images/assets/fulminetti.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/textures/hover_center.png" afterPath="$PROJECT_DIR$/build/images/textures/hover_center.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/hover_corner_left.png" afterPath="$PROJECT_DIR$/build/images/assets/hover_corner_left.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/hover_corner_right.png" afterPath="$PROJECT_DIR$/build/images/assets/hover_corner_right.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/hover_corner_right_first.png" afterPath="$PROJECT_DIR$/build/images/assets/hover_corner_right_first.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/hover_corner_right_last.png" afterPath="$PROJECT_DIR$/build/images/assets/hover_corner_right_last.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/textures/hr_dotted.png" afterPath="$PROJECT_DIR$/build/images/textures/hr_dotted.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/textures/hr_wave.png" afterPath="$PROJECT_DIR$/build/images/textures/hr_wave.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/icon_blog.png" afterPath="$PROJECT_DIR$/build/images/assets/icon_blog.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/icon_process.png" afterPath="$PROJECT_DIR$/build/images/assets/icon_process.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/icon_projects.png" afterPath="$PROJECT_DIR$/build/images/assets/icon_projects.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/logo_black.png" afterPath="$PROJECT_DIR$/build/images/assets/logo_black.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/logo_black_shadow.png" afterPath="$PROJECT_DIR$/build/images/assets/logo_black_shadow.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/logo_estrusione.png" afterPath="$PROJECT_DIR$/build/images/assets/logo_estrusione.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/logo_estrusione_active.png" afterPath="$PROJECT_DIR$/build/images/assets/logo_estrusione_active.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/logo_estrusione_hover.png" afterPath="$PROJECT_DIR$/build/images/assets/logo_estrusione_hover.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/logo_short_estrusione.png" afterPath="$PROJECT_DIR$/build/images/assets/logo_short_estrusione.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/logo_short_estrusione_active.png" afterPath="$PROJECT_DIR$/build/images/assets/logo_short_estrusione_active.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/logo_short_estrusione_hover.png" afterPath="$PROJECT_DIR$/build/images/assets/logo_short_estrusione_hover.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/logo_signature.png" afterPath="$PROJECT_DIR$/build/images/assets/logo_signature.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/logo_white_50alfa.png" afterPath="$PROJECT_DIR$/build/images/assets/logo_white_50alfa.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/textures/mazinga-bg.png" afterPath="$PROJECT_DIR$/build/images/textures/mazinga-bg.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/mazinga.png" afterPath="$PROJECT_DIR$/build/images/assets/mazinga.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/mazinga_lettering.png" afterPath="$PROJECT_DIR$/build/images/assets/mazinga_lettering.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/miso/miso-bold-webfont.ttf" afterPath="$PROJECT_DIR$/build/fonts/miso/miso-bold-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/miso/miso-bold-webfont.ttf" afterPath="$PROJECT_DIR$/source/fonts/miso/miso-bold-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/miso/miso-bold-webfont.woff" afterPath="$PROJECT_DIR$/build/fonts/miso/miso-bold-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/miso/miso-bold-webfont.woff" afterPath="$PROJECT_DIR$/source/fonts/miso/miso-bold-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/miso/miso-light-webfont.eot" afterPath="$PROJECT_DIR$/build/fonts/miso/miso-light-webfont.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/miso/miso-light-webfont.eot" afterPath="$PROJECT_DIR$/source/fonts/miso/miso-light-webfont.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/miso/miso-light-webfont.ttf" afterPath="$PROJECT_DIR$/build/fonts/miso/miso-light-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/miso/miso-light-webfont.ttf" afterPath="$PROJECT_DIR$/source/fonts/miso/miso-light-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/miso/miso-light-webfont.woff" afterPath="$PROJECT_DIR$/build/fonts/miso/miso-light-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/miso/miso-light-webfont.woff" afterPath="$PROJECT_DIR$/source/fonts/miso/miso-light-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/miso/miso-webfont.eot" afterPath="$PROJECT_DIR$/build/fonts/miso/miso-webfont.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/miso/miso-webfont.eot" afterPath="$PROJECT_DIR$/source/fonts/miso/miso-webfont.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/miso/miso-webfont.ttf" afterPath="$PROJECT_DIR$/build/fonts/miso/miso-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/miso/miso-webfont.ttf" afterPath="$PROJECT_DIR$/source/fonts/miso/miso-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/miso/miso-webfont.woff" afterPath="$PROJECT_DIR$/build/fonts/miso/miso-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/miso/miso-webfont.woff" afterPath="$PROJECT_DIR$/source/fonts/miso/miso-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/images/blog/mobilefirst_post.jpg" afterPath="$PROJECT_DIR$/source/images/blog/mobilefirst_post.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/textures/purple_transparent.png" afterPath="$PROJECT_DIR$/build/images/textures/purple_transparent.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/textures/questionmark.png" afterPath="$PROJECT_DIR$/build/images/textures/questionmark.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/assets/questionmark_small.png" afterPath="$PROJECT_DIR$/build/images/assets/questionmark_small.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/sourcesanspro/sourcesanspro-bold-webfont.ttf" afterPath="$PROJECT_DIR$/build/fonts/sourcesanspro/sourcesanspro-bold-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/sourcesanspro/sourcesanspro-bold-webfont.ttf" afterPath="$PROJECT_DIR$/source/fonts/sourcesanspro/sourcesanspro-bold-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/sourcesanspro/sourcesanspro-bold-webfont.woff" afterPath="$PROJECT_DIR$/build/fonts/sourcesanspro/sourcesanspro-bold-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/sourcesanspro/sourcesanspro-bold-webfont.woff" afterPath="$PROJECT_DIR$/source/fonts/sourcesanspro/sourcesanspro-bold-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/sourcesanspro/sourcesanspro-italic-webfont.eot" afterPath="$PROJECT_DIR$/build/fonts/sourcesanspro/sourcesanspro-italic-webfont.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/sourcesanspro/sourcesanspro-italic-webfont.eot" afterPath="$PROJECT_DIR$/source/fonts/sourcesanspro/sourcesanspro-italic-webfont.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/sourcesanspro/sourcesanspro-italic-webfont.ttf" afterPath="$PROJECT_DIR$/build/fonts/sourcesanspro/sourcesanspro-italic-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/sourcesanspro/sourcesanspro-italic-webfont.ttf" afterPath="$PROJECT_DIR$/source/fonts/sourcesanspro/sourcesanspro-italic-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/sourcesanspro/sourcesanspro-italic-webfont.woff" afterPath="$PROJECT_DIR$/build/fonts/sourcesanspro/sourcesanspro-italic-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/sourcesanspro/sourcesanspro-italic-webfont.woff" afterPath="$PROJECT_DIR$/source/fonts/sourcesanspro/sourcesanspro-italic-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/sourcesanspro/sourcesanspro-regular-webfont.eot" afterPath="$PROJECT_DIR$/build/fonts/sourcesanspro/sourcesanspro-regular-webfont.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/sourcesanspro/sourcesanspro-regular-webfont.eot" afterPath="$PROJECT_DIR$/source/fonts/sourcesanspro/sourcesanspro-regular-webfont.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/sourcesanspro/sourcesanspro-regular-webfont.ttf" afterPath="$PROJECT_DIR$/build/fonts/sourcesanspro/sourcesanspro-regular-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/sourcesanspro/sourcesanspro-regular-webfont.ttf" afterPath="$PROJECT_DIR$/source/fonts/sourcesanspro/sourcesanspro-regular-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/sourcesanspro/sourcesanspro-regular-webfont.woff" afterPath="$PROJECT_DIR$/build/fonts/sourcesanspro/sourcesanspro-regular-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/sourcesanspro/sourcesanspro-regular-webfont.woff" afterPath="$PROJECT_DIR$/source/fonts/sourcesanspro/sourcesanspro-regular-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/textures/square.png" afterPath="$PROJECT_DIR$/build/images/textures/square.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/images/textures/stripes.png" afterPath="$PROJECT_DIR$/build/images/textures/stripes.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/css/partials/_320grid.sass" afterPath="$PROJECT_DIR$/source/css/partials/_320grid.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/css/partials/_960grid.sass" afterPath="$PROJECT_DIR$/source/css/partials/_960grid.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/css/partials/_custom_mixins.sass" afterPath="$PROJECT_DIR$/source/css/partials/_custom_mixins.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/partials/_footer.haml" afterPath="$PROJECT_DIR$/source/partials/_footer.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/partials/_header.haml" afterPath="$PROJECT_DIR$/source/partials/_header.haml" />
+    <list default="true" id="b30929c3-9620-4568-910f-04c9dfee842d" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/.c9revisions/source/project_page_gnammo.html.haml.c9save.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/.c9revisions/source/project_page_pubcoder.html.haml.c9save.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/.gitignore.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/Gemfile.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/build/css/application.css.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/build/css/signatures.css.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/build/css/structure.css.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/build/css/wufoo.css.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/build/hiring.html.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/build/index.html.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/build/js/wufoo.js.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/config.rb.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/config.ru.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/css/application.css.sass.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/css/partials/_320grid.sass.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/css/partials/_960grid.sass.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/css/partials/_custom_mixins.sass.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/css/partials/_fonts.sass.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/css/partials/_grid.sass.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/css/signatures.css.sass.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/css/structure.css.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/css/theme.css.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/css/wufoo.css.sass.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/hiring.html.haml.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/index.html.haml.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/js/init.js.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/js/site.js.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/js/vendor/enquire.js.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/js/vendor/html5shiv/dist/html5shiv.js.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/js/vendor/jquery-1.8.0.min.js.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/js/vendor/jquery.js.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/js/vendor/media.match.min.js.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/js/vendor/modernizr.js.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/js/vendor/respond.src.js.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/js/wufoo.js.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/layouts/html5.haml.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/mazinga_page.html.haml.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/partials/_footer.haml.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/project_page_amolamusica.html.haml.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/project_page_artmob.html.haml.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/project_page_bookolico.html.haml.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/project_page_fabrica.html.haml.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/project_page_gnammo.html.haml.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/project_page_oilproject.html.haml.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/project_page_pubcoder.html.haml.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/project_page_pupulito.html.haml.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/project_page_soccersquare.html.haml.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/project_page_tacati.html.haml.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/project_page_volleysquare.html.haml.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/qa.html.haml.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/signatures/signatures.html.haml.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/submission_page.html.haml.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/submission_page_success.html.haml.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/team.html.haml.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/what_we_do.html.haml.c9save" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/.idea/scopes/scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/.idea/source.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/images/assets-scbe2489a5d.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/css/application.css.sass" afterPath="$PROJECT_DIR$/source/css/application.css.sass" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/application.css" afterPath="$PROJECT_DIR$/build/css/application.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/blog.html.haml" afterPath="$PROJECT_DIR$/source/blog.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/blog_deep_into_the_ocean.html.haml" afterPath="$PROJECT_DIR$/source/blog_deep_into_the_ocean.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/blog_ixdt_ruby.html.haml" afterPath="$PROJECT_DIR$/source/blog_ixdt_ruby.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/blog_ixdt_user_interface.html.haml" afterPath="$PROJECT_DIR$/source/blog_ixdt_user_interface.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.rb" afterPath="$PROJECT_DIR$/config.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/js/vendor/css3-mediaqueries.js" afterPath="$PROJECT_DIR$/source/js/vendor/css3-mediaqueries.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/js/vendor/enquire.js" afterPath="$PROJECT_DIR$/source/js/vendor/enquire.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/features/support/env.rb" afterPath="$PROJECT_DIR$/source/features/support/env.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/error404.html.haml" afterPath="$PROJECT_DIR$/source/error404.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/veramono/specimen_files/grid_12-825-55-15.css" afterPath="$PROJECT_DIR$/build/fonts/veramono/specimen_files/grid_12-825-55-15.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/hiring.html.haml" afterPath="$PROJECT_DIR$/source/hiring.html.haml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/hiring.html" afterPath="$PROJECT_DIR$/build/hiring.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/layouts/html5.haml" afterPath="$PROJECT_DIR$/source/layouts/html5.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/js/vendor/html5shiv/dist/html5shiv-printshiv.js" afterPath="$PROJECT_DIR$/source/js/vendor/html5shiv/dist/html5shiv-printshiv.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/js/vendor/html5shiv/dist/html5shiv.js" afterPath="$PROJECT_DIR$/source/js/vendor/html5shiv/dist/html5shiv.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/index.html.haml" afterPath="$PROJECT_DIR$/source/index.html.haml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/index.html" afterPath="$PROJECT_DIR$/build/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/js/init.js" afterPath="$PROJECT_DIR$/source/js/init.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/js/vendor/jquery.js" afterPath="$PROJECT_DIR$/source/js/vendor/jquery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/mazinga_page.html.haml" afterPath="$PROJECT_DIR$/source/mazinga_page.html.haml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/mazinga_page.html" afterPath="$PROJECT_DIR$/build/mazinga_page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/js/vendor/media.match.min.js" afterPath="$PROJECT_DIR$/source/js/vendor/media.match.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/js/vendor/modernizr.js" afterPath="$PROJECT_DIR$/source/js/vendor/modernizr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/features/page_existance.feature" afterPath="$PROJECT_DIR$/source/features/page_existance.feature" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_alphabots.html.haml" afterPath="$PROJECT_DIR$/source/project_page_alphabots.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_amolamusica.html.haml" afterPath="$PROJECT_DIR$/source/project_page_amolamusica.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_artmob.html.haml" afterPath="$PROJECT_DIR$/source/project_page_artmob.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_bookolico.html.haml" afterPath="$PROJECT_DIR$/source/project_page_bookolico.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_cineama.html.haml" afterPath="$PROJECT_DIR$/source/project_page_cineama.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_fabrica.html.haml" afterPath="$PROJECT_DIR$/source/project_page_fabrica.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_gnammo.html.haml" afterPath="$PROJECT_DIR$/source/project_page_gnammo.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_letscommerce.html.haml" afterPath="$PROJECT_DIR$/source/project_page_letscommerce.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_localactors.html.haml" afterPath="$PROJECT_DIR$/source/project_page_localactors.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_oilproject.html.haml" afterPath="$PROJECT_DIR$/source/project_page_oilproject.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_pubcoder.html.haml" afterPath="$PROJECT_DIR$/source/project_page_pubcoder.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_pupulito.html.haml" afterPath="$PROJECT_DIR$/source/project_page_pupulito.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_regalister.html.haml" afterPath="$PROJECT_DIR$/source/project_page_regalister.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_soccersquare.html.haml" afterPath="$PROJECT_DIR$/source/project_page_soccersquare.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_tacati.html.haml" afterPath="$PROJECT_DIR$/source/project_page_tacati.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_tamtown.html.haml" afterPath="$PROJECT_DIR$/source/project_page_tamtown.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_volleysquare.html.haml" afterPath="$PROJECT_DIR$/source/project_page_volleysquare.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_weightanalytics.html.haml" afterPath="$PROJECT_DIR$/source/project_page_weightanalytics.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_winepass.html.haml" afterPath="$PROJECT_DIR$/source/project_page_winepass.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/projects_wall.html.haml" afterPath="$PROJECT_DIR$/source/projects_wall.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/qa.html.haml" afterPath="$PROJECT_DIR$/source/qa.html.haml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/qa.html" afterPath="$PROJECT_DIR$/build/qa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/js/vendor/respond.src.js" afterPath="$PROJECT_DIR$/source/js/vendor/respond.src.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/css/signatures.css.sass" afterPath="$PROJECT_DIR$/source/css/signatures.css.sass" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/signatures.css" afterPath="$PROJECT_DIR$/build/css/signatures.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/signatures/signatures.html.haml" afterPath="$PROJECT_DIR$/source/signatures/signatures.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/js/site.js" afterPath="$PROJECT_DIR$/source/js/site.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/veramono/specimen_files/specimen_stylesheet.css" afterPath="$PROJECT_DIR$/build/fonts/veramono/specimen_files/specimen_stylesheet.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/features/step_definitions/steps.rb" afterPath="$PROJECT_DIR$/source/features/step_definitions/steps.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/veramono/stylesheet.css" afterPath="$PROJECT_DIR$/build/fonts/veramono/stylesheet.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/submission_page.html.haml" afterPath="$PROJECT_DIR$/source/submission_page.html.haml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/submission_page.html" afterPath="$PROJECT_DIR$/build/submission_page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/submission_page_success.html.haml" afterPath="$PROJECT_DIR$/source/submission_page_success.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/team.html.haml" afterPath="$PROJECT_DIR$/source/team.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/we_have_worked_for.html.haml" afterPath="$PROJECT_DIR$/source/we_have_worked_for.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/what_we_do.html.haml" afterPath="$PROJECT_DIR$/source/what_we_do.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/thedoers.iml" afterPath="$PROJECT_DIR$/.idea/thedoers.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/css/wufoo.css.sass" afterPath="$PROJECT_DIR$/source/css/wufoo.css.sass" />
     </list>
     <ignored path="thedoers.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1379528501359" ignored="false" />
-    <file path="/config.rb" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1376411864979" ignored="false" />
-    <file path="/project_page_gnammo.html.haml" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1378136420643" ignored="false" />
-    <file path="/blog.html.haml" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1379494076920" ignored="false" />
-    <file path="/blog_deep_into_the_ocean.html.haml" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1379494980039" ignored="false" />
-    <file path="/project_page_artmob.html.haml" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1379495583229" ignored="false" />
-    <file path="/*.regexp" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1379532231515" ignored="false" />
+    <file path="/Dummy.txt" changelist="b30929c3-9620-4568-910f-04c9dfee842d" time="1379665192561" ignored="false" />
+    <file path="/*.regexp" changelist="b30929c3-9620-4568-910f-04c9dfee842d" time="1379665380886" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,82 +102,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="config.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config.rb">
+      <file leaf-file-name="application.css.sass" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/css/application.css.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="51" selection-start="2038" selection-end="2038" vertical-scroll-proportion="0.49801588">
+            <state line="17" column="34" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="submission_page.html.haml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/submission_page.html.haml">
+      <file leaf-file-name="application.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build/css/application.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="8007" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="submission_page_success.html.haml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/submission_page_success.html.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="4409" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="team.html.haml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/team.html.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="13245" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="we_have_worked_for.html.haml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/we_have_worked_for.html.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="4302" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="what_we_do.html.haml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/what_we_do.html.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="12976" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_footer.haml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/partials/_footer.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_header.haml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/partials/_header.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="html5.haml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/layouts/html5.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="54" selection-start="1327" selection-end="1327" vertical-scroll-proportion="-0.625">
+            <state line="0" column="4082" selection-start="4082" selection-end="4082" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -283,22 +138,7 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/source/project_page_pubcoder.html.haml" />
-        <option value="$PROJECT_DIR$/source/project_page_regalister.html.haml" />
-        <option value="$PROJECT_DIR$/source/project_page_soccersquare.html.haml" />
-        <option value="$PROJECT_DIR$/source/project_page_tacati.html.haml" />
-        <option value="$PROJECT_DIR$/source/project_page_tamtown.html.haml" />
-        <option value="$PROJECT_DIR$/source/project_page_volleysquare.html.haml" />
-        <option value="$PROJECT_DIR$/source/project_page_weightanalytics.html.haml" />
-        <option value="$PROJECT_DIR$/source/project_page_winepass.html.haml" />
-        <option value="$PROJECT_DIR$/source/qa.html.haml" />
-        <option value="$PROJECT_DIR$/source/projects_wall.html.haml" />
-        <option value="$PROJECT_DIR$/source/submission_page.html.haml" />
-        <option value="$PROJECT_DIR$/source/submission_page_success.html.haml" />
-        <option value="$PROJECT_DIR$/source/team.html.haml" />
-        <option value="$PROJECT_DIR$/source/we_have_worked_for.html.haml" />
-        <option value="$PROJECT_DIR$/source/what_we_do.html.haml" />
-        <option value="$PROJECT_DIR$/source/layouts/html5.haml" />
+        <option value="$PROJECT_DIR$/source/css/application.css.sass" />
       </list>
     </option>
   </component>
@@ -332,7 +172,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -379,137 +218,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="signatures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thedoers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thedoers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="partials" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thedoers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thedoers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thedoers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thedoers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thedoers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thedoers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thedoers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thedoers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thedoers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thedoers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fonts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thedoers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thedoers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="features" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -531,139 +240,97 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thedoers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thedoers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helpers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thedoers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thedoers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thedoers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thedoers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="preferences.keymap" />
-    <property name="restartRequiresConfirmation" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../flr" />
-    <property name="FullScreen" value="true" />
-    <property name="options.searchVisible" value="true" />
+    <property name="options.lastSelected" value="org.jetbrains.plugins.ruby.settings.RubyIdeSdkConfigurable" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager" selected="Gem Command.Middleman">
-    <configuration default="true" type="CommandRunConfigurationType" factoryName="Gem Command">
-      <module name="" />
-      <COMMAND_RUN_CONFIGURATION NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <COMMAND_RUN_CONFIGURATION NAME="WORK DIR" VALUE="" />
-      <COMMAND_RUN_CONFIGURATION NAME="SHOULD_USE_SDK" VALUE="false" />
-      <COMMAND_RUN_CONFIGURATION NAME="ALTERN_SDK_NAME" VALUE="" />
-      <COMMAND_RUN_CONFIGURATION NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <COMMAND_CONFIG_SETTINGS_ID NAME="GEM_NAME" VALUE="" />
-      <COMMAND_CONFIG_SETTINGS_ID NAME="EXECUTABLE_NAME" VALUE="" />
-      <COMMAND_CONFIG_SETTINGS_ID NAME="EXECUTABLE_ARGS" VALUE="" />
-      <COMMAND_CONFIG_SETTINGS_ID NAME="WORKING_DIR" VALUE="" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Middleman" type="CommandRunConfigurationType" factoryName="Gem Command" singleton="true">
-      <module name="thedoers" />
-      <COMMAND_RUN_CONFIGURATION NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <COMMAND_RUN_CONFIGURATION NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
-      <COMMAND_RUN_CONFIGURATION NAME="SHOULD_USE_SDK" VALUE="false" />
-      <COMMAND_RUN_CONFIGURATION NAME="ALTERN_SDK_NAME" VALUE="" />
-      <COMMAND_RUN_CONFIGURATION NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <COMMAND_CONFIG_SETTINGS_ID NAME="GEM_NAME" VALUE="middleman" />
-      <COMMAND_CONFIG_SETTINGS_ID NAME="EXECUTABLE_NAME" VALUE="middleman" />
-      <COMMAND_CONFIG_SETTINGS_ID NAME="EXECUTABLE_ARGS" VALUE="" />
-      <COMMAND_CONFIG_SETTINGS_ID NAME="WORKING_DIR" VALUE="" />
-      <RunnerSettings RunnerId="RubyRunner" />
-      <ConfigurationWrapper RunnerId="RubyRunner" />
-      <method />
-    </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Gem Command.Middleman" />
-    </list>
+  <component name="RunManager">
+    <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
-    <option name="USER" value="" />
-    <option name="PASSWORD" value="" />
-    <option name="mySSHConnectionTimeout" value="30000" />
-    <option name="mySSHReadTimeout" value="30000" />
-    <option name="LAST_MERGED_REVISION" />
-    <option name="MERGE_DRY_RUN" value="false" />
-    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
-    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
-    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
-    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
-    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
-    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
-    <option name="FORCE_UPDATE" value="false" />
-    <option name="IGNORE_EXTERNALS" value="false" />
-    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="17d3d794-0227-48f9-a172-e69d7b3e5910" name="Default" comment="" />
-      <created>1376411803706</created>
-      <updated>1376411803706</updated>
+      <changelist id="b30929c3-9620-4568-910f-04c9dfee842d" name="Default" comment="" />
+      <created>1379665186632</created>
+      <updated>1379665186632</updated>
     </task>
     <servers />
   </component>
-  <component name="TodoView" selected-index="0">
-    <todo-panel id="selected-file">
-      <are-packages-shown value="false" />
-      <are-modules-shown value="false" />
-      <flatten-packages value="false" />
-      <is-autoscroll-to-source value="false" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="false" />
-      <are-modules-shown value="false" />
-      <flatten-packages value="false" />
-      <is-autoscroll-to-source value="false" />
-    </todo-panel>
-    <todo-panel id="default-changelist">
-      <are-packages-shown value="false" />
-      <are-modules-shown value="false" />
-      <flatten-packages value="false" />
-      <is-autoscroll-to-source value="false" />
-    </todo-panel>
-  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3281046" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32889965" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2697274" sideWeight="0.6711004" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32889965" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -727,112 +394,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/project_page_tamtown.html.haml">
+    <entry file="file://$PROJECT_DIR$/source/css/application.css.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="7676" vertical-scroll-proportion="0.0">
+        <state line="17" column="34" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/project_page_volleysquare.html.haml">
+    <entry file="file://$PROJECT_DIR$/build/css/application.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="5995" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/project_page_weightanalytics.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="9310" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/project_page_winepass.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="7152" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/qa.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="1" selection-start="0" selection-end="8288" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/projects_wall.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="22" selection-start="704" selection-end="704" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/submission_page.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="8007" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/submission_page_success.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="4409" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/team.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="13245" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/we_have_worked_for.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="4302" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/what_we_do.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="12976" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/partials/_footer.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/partials/_header.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/layouts/html5.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="54" selection-start="1327" selection-end="1327" vertical-scroll-proportion="-0.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/images/assets-scbe2489a5d.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="51" selection-start="2038" selection-end="2038" vertical-scroll-proportion="0.49801588">
+        <state line="0" column="4082" selection-start="4082" selection-end="4082" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
