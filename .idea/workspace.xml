@@ -1,88 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b30929c3-9620-4568-910f-04c9dfee842d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/.c9revisions/source/project_page_gnammo.html.haml.c9save.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/.c9revisions/source/project_page_pubcoder.html.haml.c9save.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/.gitignore.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/Gemfile.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/build/css/application.css.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/build/css/signatures.css.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/build/css/structure.css.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/build/css/wufoo.css.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/build/hiring.html.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/build/index.html.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/build/js/wufoo.js.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/config.rb.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/config.ru.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/css/application.css.sass.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/css/partials/_320grid.sass.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/css/partials/_960grid.sass.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/css/partials/_custom_mixins.sass.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/css/partials/_fonts.sass.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/css/partials/_grid.sass.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/css/signatures.css.sass.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/css/structure.css.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/css/theme.css.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/css/wufoo.css.sass.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/hiring.html.haml.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/index.html.haml.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/js/init.js.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/js/site.js.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/js/vendor/enquire.js.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/js/vendor/html5shiv/dist/html5shiv.js.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/js/vendor/jquery-1.8.0.min.js.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/js/vendor/jquery.js.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/js/vendor/media.match.min.js.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/js/vendor/modernizr.js.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/js/vendor/respond.src.js.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/js/wufoo.js.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/layouts/html5.haml.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/mazinga_page.html.haml.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/partials/_footer.haml.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/project_page_amolamusica.html.haml.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/project_page_artmob.html.haml.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/project_page_bookolico.html.haml.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/project_page_fabrica.html.haml.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/project_page_gnammo.html.haml.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/project_page_oilproject.html.haml.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/project_page_pubcoder.html.haml.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/project_page_pupulito.html.haml.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/project_page_soccersquare.html.haml.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/project_page_tacati.html.haml.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/project_page_volleysquare.html.haml.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/qa.html.haml.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/signatures/signatures.html.haml.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/submission_page.html.haml.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/submission_page_success.html.haml.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/team.html.haml.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.c9revisions/source/what_we_do.html.haml.c9save" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/.idea/source.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/images/assets-scbe2489a5d.png" afterPath="" />
+    <list default="true" id="4170d5f4-0a92-4850-8918-11d50edf760c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/css/application.css.sass" afterPath="$PROJECT_DIR$/source/css/application.css.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/application.css" afterPath="$PROJECT_DIR$/build/css/application.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/hiring.html" afterPath="$PROJECT_DIR$/build/hiring.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/index.html" afterPath="$PROJECT_DIR$/build/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/mazinga_page.html" afterPath="$PROJECT_DIR$/build/mazinga_page.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/qa.html" afterPath="$PROJECT_DIR$/build/qa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/signatures.css" afterPath="$PROJECT_DIR$/build/css/signatures.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/submission_page.html" afterPath="$PROJECT_DIR$/build/submission_page.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_alphabots.html.haml" afterPath="$PROJECT_DIR$/source/project_page_alphabots.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_amolamusica.html.haml" afterPath="$PROJECT_DIR$/source/project_page_amolamusica.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_artmob.html.haml" afterPath="$PROJECT_DIR$/source/project_page_artmob.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_bookolico.html.haml" afterPath="$PROJECT_DIR$/source/project_page_bookolico.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_cineama.html.haml" afterPath="$PROJECT_DIR$/source/project_page_cineama.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_fabrica.html.haml" afterPath="$PROJECT_DIR$/source/project_page_fabrica.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_gnammo.html.haml" afterPath="$PROJECT_DIR$/source/project_page_gnammo.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_localactors.html.haml" afterPath="$PROJECT_DIR$/source/project_page_localactors.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_oilproject.html.haml" afterPath="$PROJECT_DIR$/source/project_page_oilproject.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_pupulito.html.haml" afterPath="$PROJECT_DIR$/source/project_page_pupulito.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_regalister.html.haml" afterPath="$PROJECT_DIR$/source/project_page_regalister.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_soccersquare.html.haml" afterPath="$PROJECT_DIR$/source/project_page_soccersquare.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_tacati.html.haml" afterPath="$PROJECT_DIR$/source/project_page_tacati.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_weightanalytics.html.haml" afterPath="$PROJECT_DIR$/source/project_page_weightanalytics.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_winepass.html.haml" afterPath="$PROJECT_DIR$/source/project_page_winepass.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/projects_wall.html.haml" afterPath="$PROJECT_DIR$/source/projects_wall.html.haml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/thedoers.iml" afterPath="$PROJECT_DIR$/.idea/thedoers.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="thedoers.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="b30929c3-9620-4568-910f-04c9dfee842d" time="1379665192561" ignored="false" />
-    <file path="/*.regexp" changelist="b30929c3-9620-4568-910f-04c9dfee842d" time="1379665380886" ignored="false" />
+    <file path="/Dummy.txt" changelist="4170d5f4-0a92-4850-8918-11d50edf760c" time="1380026433000" ignored="false" />
+    <file path="/Gemfile" changelist="4170d5f4-0a92-4850-8918-11d50edf760c" time="1380025870890" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ticketeerepo/ticketee/Gemfile" changelist="4170d5f4-0a92-4850-8918-11d50edf760c" time="1380025872062" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ticketeerepo/ticketee/spec/features/editing_projects_spec.rb" changelist="4170d5f4-0a92-4850-8918-11d50edf760c" time="1380026216390" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ticketeerepo/ticketee/app/controllers/projects_controller.rb" changelist="4170d5f4-0a92-4850-8918-11d50edf760c" time="1380026513203" ignored="false" />
+    <file path="/projects_controller.rb" changelist="4170d5f4-0a92-4850-8918-11d50edf760c" time="1380026524312" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,19 +52,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="application.css.sass" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/css/application.css.sass">
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="34" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0">
+            <state line="3" column="0" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/build/css/application.css">
+      <file leaf-file-name="project_page_localactors.html.haml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/project_page_localactors.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="4082" selection-start="4082" selection-end="4082" vertical-scroll-proportion="0.0">
+            <state line="242" column="159" selection-start="7219" selection-end="7222" vertical-scroll-proportion="-2.137255">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project_page_soccersquare.html.haml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/project_page_soccersquare.html.haml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="272" column="80" selection-start="9425" selection-end="9428" vertical-scroll-proportion="-2.137255">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="qa.html.haml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/qa.html.haml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-10.013699">
               <folding />
             </state>
           </provider>
@@ -131,6 +99,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitLogSettings">
+    <option name="myStructureFilterPaths" />
     <option name="myDateState">
       <MyDateState />
     </option>
@@ -138,13 +107,15 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/source/css/application.css.sass" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="x" value="1" />
+    <option name="y" value="-14" />
+    <option name="width" value="1288" />
+    <option name="height" value="774" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -204,88 +175,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thedoers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thedoers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thedoers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thedoers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thedoers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thedoers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="helpers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thedoers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thedoers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thedoers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thedoers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -294,39 +183,118 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="org.jetbrains.plugins.ruby.settings.RubyIdeSdkConfigurable" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="preferences.sourceCode.Ruby" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager">
-    <list size="0" />
+  <component name="RunManager" selected="Gem Command.Middleman">
+    <configuration default="true" type="CommandRunConfigurationType" factoryName="Gem Command">
+      <module name="" />
+      <COMMAND_RUN_CONFIGURATION NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <COMMAND_RUN_CONFIGURATION NAME="WORK DIR" VALUE="" />
+      <COMMAND_RUN_CONFIGURATION NAME="SHOULD_USE_SDK" VALUE="false" />
+      <COMMAND_RUN_CONFIGURATION NAME="ALTERN_SDK_NAME" VALUE="" />
+      <COMMAND_RUN_CONFIGURATION NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <COMMAND_CONFIG_SETTINGS_ID NAME="GEM_NAME" VALUE="" />
+      <COMMAND_CONFIG_SETTINGS_ID NAME="EXECUTABLE_NAME" VALUE="" />
+      <COMMAND_CONFIG_SETTINGS_ID NAME="EXECUTABLE_ARGS" VALUE="" />
+      <COMMAND_CONFIG_SETTINGS_ID NAME="WORKING_DIR" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Middleman" type="CommandRunConfigurationType" factoryName="Gem Command" singleton="true">
+      <module name="thedoers" />
+      <COMMAND_RUN_CONFIGURATION NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <COMMAND_RUN_CONFIGURATION NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <COMMAND_RUN_CONFIGURATION NAME="SHOULD_USE_SDK" VALUE="false" />
+      <COMMAND_RUN_CONFIGURATION NAME="ALTERN_SDK_NAME" VALUE="" />
+      <COMMAND_RUN_CONFIGURATION NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <COMMAND_CONFIG_SETTINGS_ID NAME="GEM_NAME" VALUE="middleman" />
+      <COMMAND_CONFIG_SETTINGS_ID NAME="EXECUTABLE_NAME" VALUE="middleman" />
+      <COMMAND_CONFIG_SETTINGS_ID NAME="EXECUTABLE_ARGS" VALUE="" />
+      <COMMAND_CONFIG_SETTINGS_ID NAME="WORKING_DIR" VALUE="" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Gem Command.Middleman" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b30929c3-9620-4568-910f-04c9dfee842d" name="Default" comment="" />
-      <created>1379665186632</created>
-      <updated>1379665186632</updated>
+      <changelist id="4170d5f4-0a92-4850-8918-11d50edf760c" name="Default" comment="" />
+      <created>1380024471046</created>
+      <updated>1380024471046</updated>
     </task>
     <servers />
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
+    <frame x="1" y="-14" width="1288" height="774" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5426731" sideWeight="0.6701783" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959481" sideWeight="0.4573269" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5426731" sideWeight="0.3298217" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -394,16 +362,30 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/css/application.css.sass">
+    <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="34" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0">
+        <state line="3" column="0" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/css/application.css">
+    <entry file="file://$PROJECT_DIR$/source/project_page_localactors.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="4082" selection-start="4082" selection-end="4082" vertical-scroll-proportion="0.0">
+        <state line="242" column="159" selection-start="7219" selection-end="7222" vertical-scroll-proportion="-2.137255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/project_page_soccersquare.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="272" column="80" selection-start="9425" selection-end="9428" vertical-scroll-proportion="-2.137255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/qa.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-10.013699">
           <folding />
         </state>
       </provider>
