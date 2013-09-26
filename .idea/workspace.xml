@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17d3d794-0227-48f9-a172-e69d7b3e5910" name="Default" comment="">
+    <list default="true" id="17d3d794-0227-48f9-a172-e69d7b3e5910" name="Default" comment="changes to texts of pages: we have worked for &amp; team">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/team.html.haml" afterPath="$PROJECT_DIR$/source/team.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/we_have_worked_for.html.haml" afterPath="$PROJECT_DIR$/source/we_have_worked_for.html.haml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="thedoers.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1379599620583" ignored="false" />
+    <file path="/Dummy.txt" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1380198069793" ignored="false" />
     <file path="/config.rb" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1376411864979" ignored="false" />
     <file path="/project_page_gnammo.html.haml" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1378136420643" ignored="false" />
     <file path="/we_have_worked_for.html.haml" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1380192107263" ignored="false" />
-    <file path="/team.html.haml" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1380191213158" ignored="false" />
+    <file path="/team.html.haml" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1380198045845" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,10 +76,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="we_have_worked_for.html.haml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="we_have_worked_for.html.haml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/we_have_worked_for.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="135" column="111" selection-start="2895" selection-end="2895" vertical-scroll-proportion="0.35407725">
+            <state line="135" column="111" selection-start="2895" selection-end="2895" vertical-scroll-proportion="-6.875">
               <folding />
             </state>
           </provider>
@@ -95,10 +94,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="team.html.haml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="team.html.haml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/team.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="315" column="79" selection-start="6834" selection-end="6834" vertical-scroll-proportion="-125.666664">
+            <state line="166" column="53" selection-start="3474" selection-end="3474" vertical-scroll-proportion="0.42150536">
               <folding />
             </state>
           </provider>
@@ -147,8 +146,8 @@
         <option value="$PROJECT_DIR$/source/project_page_soccersquare.html.haml" />
         <option value="$PROJECT_DIR$/config.rb" />
         <option value="$PROJECT_DIR$/source/project_page_pupulito.html.haml" />
-        <option value="$PROJECT_DIR$/source/team.html.haml" />
         <option value="$PROJECT_DIR$/source/we_have_worked_for.html.haml" />
+        <option value="$PROJECT_DIR$/source/team.html.haml" />
       </list>
     </option>
   </component>
@@ -395,7 +394,11 @@
       <created>1379599631610</created>
       <updated>1379599631610</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="changes to texts of pages: we have worked for &amp; team">
+      <created>1380192535297</created>
+      <updated>1380192535297</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -420,18 +423,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969698" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32969698" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3281046" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26542324" sideWeight="0.67151517" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26542324" sideWeight="0.67030305" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32848486" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32848486" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -484,7 +487,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="team text changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes to texts of pages: we have worked for &amp; team" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -500,6 +503,7 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="project" />
     <MESSAGE value="team text changed" />
+    <MESSAGE value="changes to texts of pages: we have worked for &amp; team" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -594,13 +598,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/team.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="315" column="79" selection-start="6834" selection-end="6834" vertical-scroll-proportion="-125.666664">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/images/team/piermaria_cosina.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -608,7 +605,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/we_have_worked_for.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="135" column="111" selection-start="2895" selection-end="2895" vertical-scroll-proportion="0.35407725">
+        <state line="135" column="111" selection-start="2895" selection-end="2895" vertical-scroll-proportion="-6.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/team.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="166" column="53" selection-start="3474" selection-end="3474" vertical-scroll-proportion="0.42150536">
           <folding />
         </state>
       </provider>
