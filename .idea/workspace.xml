@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4170d5f4-0a92-4850-8918-11d50edf760c" name="Default" comment="Unveil: lazy load">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/js/vendor/blurscript.jsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="thedoers.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="4170d5f4-0a92-4850-8918-11d50edf760c" time="1380033227343" ignored="false" />
+    <ignored path=".idea/*/" />
+    <file path="/Dummy.txt" changelist="4170d5f4-0a92-4850-8918-11d50edf760c" time="1380210638765" ignored="false" />
     <file path="/Gemfile" changelist="4170d5f4-0a92-4850-8918-11d50edf760c" time="1380025870890" ignored="false" />
     <file path="$PROJECT_DIR$/../../ticketeerepo/ticketee/Gemfile" changelist="4170d5f4-0a92-4850-8918-11d50edf760c" time="1380025872062" ignored="false" />
     <file path="$PROJECT_DIR$/../../ticketeerepo/ticketee/spec/features/editing_projects_spec.rb" changelist="4170d5f4-0a92-4850-8918-11d50edf760c" time="1380026216390" ignored="false" />
@@ -34,10 +34,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="html5.haml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="html5.haml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/layouts/html5.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="4" selection-start="2448" selection-end="2481" vertical-scroll-proportion="0.061919503">
+            <state line="41" column="4" selection-start="2448" selection-end="2481" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -47,6 +47,24 @@
         <entry file="file://$PROJECT_DIR$/source/js/site.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="2" column="0" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="54" selection-start="225" selection-end="225" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="6" selection-start="234" selection-end="234" vertical-scroll-proportion="0.92391306">
               <folding />
             </state>
           </provider>
@@ -75,6 +93,7 @@
         <option value="$PROJECT_DIR$/source/js/site.js" />
         <option value="$PROJECT_DIR$/source/js/lazyimg.js" />
         <option value="$PROJECT_DIR$/source/layouts/html5.haml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -110,7 +129,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -203,16 +221,23 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="preferences.sourceCode.Ruby" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea/workspace.xml" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager" selected="Gem Command.Middleman">
     <configuration default="true" type="CommandRunConfigurationType" factoryName="Gem Command">
@@ -231,6 +256,23 @@
       <COMMAND_CONFIG_SETTINGS_ID NAME="EXECUTABLE_NAME" VALUE="" />
       <COMMAND_CONFIG_SETTINGS_ID NAME="EXECUTABLE_ARGS" VALUE="" />
       <COMMAND_CONFIG_SETTINGS_ID NAME="WORKING_DIR" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CapistranoRunConfigurationType" factoryName="Capistrano">
+      <module name="" />
+      <CAPISTRANO_RUN_CONFIGURATION NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CAPISTRANO_RUN_CONFIGURATION NAME="WORK DIR" VALUE="" />
+      <CAPISTRANO_RUN_CONFIGURATION NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CAPISTRANO_RUN_CONFIGURATION NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CAPISTRANO_RUN_CONFIGURATION NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <CAPISTRANO_RUN_CONFIG_SETTINGS_ID NAME="CAPISTRANO_TASK_NAME" VALUE="" />
+      <CAPISTRANO_RUN_CONFIG_SETTINGS_ID NAME="CAPISTRANO_TASK_ARGS" VALUE="" />
+      <CAPISTRANO_RUN_CONFIG_SETTINGS_ID NAME="CAPISTRANO_STAGE" VALUE="" />
       <method />
     </configuration>
     <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
@@ -361,24 +403,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1288" height="774" extended-state="6" />
+    <frame x="-4" y="-4" width="1288" height="774" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37720707" sideWeight="0.6701783" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5136876" sideWeight="0.7414911" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3268921" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25769854" sideWeight="0.62279296" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.6714976" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26661265" sideWeight="0.4863124" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37720707" sideWeight="0.3298217" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5136876" sideWeight="0.25850892" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -447,50 +490,29 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/layouts/html5.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/js/vendor/modernizr.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.46932516">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.46932516" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/js/vendor/jquery.unveil.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/qa.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-6.8317757">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-6.8317757" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_soccersquare.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="272" column="80" selection-start="9425" selection-end="9428" vertical-scroll-proportion="0.36824325">
-          <folding />
-        </state>
+        <state line="272" column="80" selection-start="9425" selection-end="9428" vertical-scroll-proportion="0.36824325" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_localactors.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="242" column="159" selection-start="7219" selection-end="7222" vertical-scroll-proportion="0.36824325">
-          <folding />
-        </state>
+        <state line="242" column="159" selection-start="7219" selection-end="7222" vertical-scroll-proportion="0.36824325" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
@@ -502,47 +524,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build/hiring.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="2268" selection-start="2268" selection-end="2268" vertical-scroll-proportion="-0.0">
-          <folding />
-        </state>
+        <state line="0" column="2268" selection-start="2268" selection-end="2268" vertical-scroll-proportion="-0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="5350" selection-start="8695" selection-end="8695" vertical-scroll-proportion="0.48295453">
-          <folding />
-        </state>
+        <state line="10" column="5350" selection-start="8695" selection-end="8695" vertical-scroll-proportion="0.48295453" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_tacati.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="154" column="60" selection-start="5114" selection-end="5114" vertical-scroll-proportion="0.35795453">
-          <folding />
-        </state>
+        <state line="154" column="60" selection-start="5114" selection-end="5114" vertical-scroll-proportion="0.35795453" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/js/init.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="11" selection-start="227" selection-end="227" vertical-scroll-proportion="0.39130434">
-          <folding />
-        </state>
+        <state line="9" column="11" selection-start="227" selection-end="227" vertical-scroll-proportion="0.39130434" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/js/lazyimg.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="16" selection-start="55" selection-end="55" vertical-scroll-proportion="0.04347826">
-          <folding />
-        </state>
+        <state line="1" column="16" selection-start="55" selection-end="55" vertical-scroll-proportion="0.04347826" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.rb">
+    <entry file="file://$PROJECT_DIR$/source/layouts/html5.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="54" selection-start="225" selection-end="225" vertical-scroll-proportion="-2.5652175">
+        <state line="41" column="4" selection-start="2448" selection-end="2481" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/source/js/vendor/blurscript.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
@@ -554,9 +566,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/layouts/html5.haml">
+    <entry file="file://$PROJECT_DIR$/config.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="4" selection-start="2448" selection-end="2481" vertical-scroll-proportion="0.061919503">
+        <state line="9" column="54" selection-start="225" selection-end="225" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="6" selection-start="234" selection-end="234" vertical-scroll-proportion="0.92391306">
           <folding />
         </state>
       </provider>
