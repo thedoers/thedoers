@@ -6,12 +6,13 @@ gem "middleman-deploy"
 gem "middleman-smusher"
 gem "middleman-minify-html"
 
+gem "wdm", :platforms => [:mswin, :mingw]
 
 gem "susy"
 gem 'compass-h5bp'
-gem 'oily_png'
+#gem 'oily_png'
 #gem 'coffee-filter' # Coffeescript filter for HAML
-gem 'mini_magick'
+#gem 'mini_magick'
 
 #gem 'rb-inotify'
 

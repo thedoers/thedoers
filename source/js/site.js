@@ -1,4 +1,6 @@
-//= require "vendor/jquery.js"
+//= require "vendor/jquery"
+//= require "lazyimg"
+
 var $counter=0;
 $(".bottone-container-hover a").click(function(e){
 	e.preventDefault();
