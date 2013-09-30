@@ -1,20 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17d3d794-0227-48f9-a172-e69d7b3e5910" name="Default" comment="merge irene">
+    <list default="true" id="17d3d794-0227-48f9-a172-e69d7b3e5910" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_alphabots.html.haml" afterPath="$PROJECT_DIR$/source/project_page_alphabots.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_amolamusica.html.haml" afterPath="$PROJECT_DIR$/source/project_page_amolamusica.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_artmob.html.haml" afterPath="$PROJECT_DIR$/source/project_page_artmob.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_bookolico.html.haml" afterPath="$PROJECT_DIR$/source/project_page_bookolico.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_cineama.html.haml" afterPath="$PROJECT_DIR$/source/project_page_cineama.html.haml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_fabrica.html.haml" afterPath="$PROJECT_DIR$/source/project_page_fabrica.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/thedoers.iml" afterPath="$PROJECT_DIR$/.idea/thedoers.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_letscommerce.html.haml" afterPath="$PROJECT_DIR$/source/project_page_letscommerce.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_localactors.html.haml" afterPath="$PROJECT_DIR$/source/project_page_localactors.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_oilproject.html.haml" afterPath="$PROJECT_DIR$/source/project_page_oilproject.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_pubcoder.html.haml" afterPath="$PROJECT_DIR$/source/project_page_pubcoder.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_soccersquare.html.haml" afterPath="$PROJECT_DIR$/source/project_page_soccersquare.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_tacati.html.haml" afterPath="$PROJECT_DIR$/source/project_page_tacati.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_tamtown.html.haml" afterPath="$PROJECT_DIR$/source/project_page_tamtown.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_volleysquare.html.haml" afterPath="$PROJECT_DIR$/source/project_page_volleysquare.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_winepass.html.haml" afterPath="$PROJECT_DIR$/source/project_page_winepass.html.haml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="thedoers.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1380205476748" ignored="false" />
+    <file path="/Dummy.txt" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1380206207670" ignored="false" />
     <file path="/config.rb" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1376411864979" ignored="false" />
     <file path="/project_page_gnammo.html.haml" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1378136420643" ignored="false" />
     <file path="/we_have_worked_for.html.haml" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1380192107263" ignored="false" />
     <file path="/team.html.haml" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1380198045845" ignored="false" />
-    <file path="/project_page_fabrica.html.haml" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1380205799607" ignored="false" />
+    <file path="/project_page_fabrica.html.haml" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1380527618271" ignored="false" />
     <file path="/a.rxml" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1380205962326" ignored="false" />
+    <file path="/project_page_volleysquare.html.haml" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1380527735320" ignored="false" />
+    <file path="/project_page_pubcoder.html.haml" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1380528223386" ignored="false" />
+    <file path="/project_page_soccersquare.html.haml" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1380528599902" ignored="false" />
+    <file path="/project_page_tacati.html.haml" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1380528695998" ignored="false" />
+    <file path="/project_page_letscommerce.html.haml" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1380528724280" ignored="false" />
+    <file path="/project_page_winepass.html.haml" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1380529055016" ignored="false" />
+    <file path="/project_page_artmob.html.haml" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1380529159103" ignored="false" />
+    <file path="/project_page_cineama.html.haml" changelist="17d3d794-0227-48f9-a172-e69d7b3e5910" time="1380529286963" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,98 +56,93 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="config.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.rb">
+      <file leaf-file-name="project_page_weightanalytics.html.haml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/project_page_weightanalytics.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="128.125">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="project_page_pupulito.html.haml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/project_page_pupulito.html.haml">
+      <file leaf-file-name="project_page_alphabots.html.haml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/project_page_alphabots.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="147" column="44" selection-start="3636" selection-end="3636" vertical-scroll-proportion="-15.625">
+            <state line="190" column="11" selection-start="5272" selection-end="5272" vertical-scroll-proportion="-6.875">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="we_have_worked_for.html.haml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/we_have_worked_for.html.haml">
+      <file leaf-file-name="project_page_artmob.html.haml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/project_page_artmob.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="71" selection-start="387" selection-end="387" vertical-scroll-proportion="56.333332">
+            <state line="219" column="51" selection-start="6769" selection-end="6769" vertical-scroll-proportion="2.7268622">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="project_page_fabrica.html.haml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/project_page_fabrica.html.haml">
+      <file leaf-file-name="project_page_bookolico.html.haml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/project_page_bookolico.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="331" column="47" selection-start="0" selection-end="12756" vertical-scroll-proportion="-11.25">
+            <state line="230" column="11" selection-start="8372" selection-end="8372" vertical-scroll-proportion="-11.25">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom_require.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p327/lib/ruby/site_ruby/1.9.1/rubygems/custom_require.rb">
+      <file leaf-file-name="project_page_amolamusica.html.haml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/project_page_amolamusica.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="0" selection-start="1040" selection-end="1040" vertical-scroll-proportion="0.33200794">
+            <state line="208" column="11" selection-start="5665" selection-end="5665" vertical-scroll-proportion="-12.5">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="what_we_do.html.haml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/what_we_do.html.haml">
+      <file leaf-file-name="project_page_cineama.html.haml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/project_page_cineama.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="208" column="10" selection-start="7516" selection-end="7516" vertical-scroll-proportion="-9.375">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <file leaf-file-name="project_page_gnammo.html.haml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/project_page_gnammo.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="102" selection-start="1456" selection-end="1456" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="135.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hiring.html.haml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/hiring.html.haml">
+      <file leaf-file-name="project_page_localactors.html.haml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/project_page_localactors.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="121" column="326" selection-start="3053" selection-end="3053" vertical-scroll-proportion="-13.75">
-              <folding>
-                <marker date="1380198575000" expanded="true" signature="4407:4415" placeholder="%hr.wave" />
-                <marker date="1380198575000" expanded="true" signature="4526:4854" placeholder="&lt;span class=&quot;first-letter&quot;&gt;The Doers&lt;/span&gt; s.r.l. &lt;span class=&quot;slash&quot;&gt;/&lt;/span&gt; &lt;span class=&quot;first-letter&quot;&gt;P&lt;/span&gt;IVA 10766230014 &lt;span class=&quot;slash&quot;&gt;/&lt;/span&gt; &lt;span class=&quot;first-letter&quot;&gt;T&lt;/span&gt;orino, via San Domenico 30 &lt;span class=&quot;slash&quot;&gt;/&lt;/span&gt; &lt;span class=&quot;first-letter&quot;&gt;W&lt;/span&gt;e@thedoersproject.com" />
-              </folding>
+            <state line="188" column="11" selection-start="5022" selection-end="5022" vertical-scroll-proportion="-10.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="team.html.haml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/team.html.haml">
+      <file leaf-file-name="project_page_oilproject.html.haml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/project_page_oilproject.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="166" column="53" selection-start="3474" selection-end="3474" vertical-scroll-proportion="-8.166667">
-              <folding>
-                <marker date="1380198575000" expanded="true" signature="3388:3751" placeholder=".container-left.what_we_do" />
-                <marker date="1380198575000" expanded="true" signature="3683:3751" placeholder=".photo-team" />
-                <marker date="1380198575000" expanded="true" signature="3700:3751" placeholder="%img{:alt=&gt;&quot;&quot;, :src=&gt;&quot;images/team/placeholder.png&quot;}" />
-              </folding>
+            <state line="230" column="11" selection-start="6451" selection-end="6451" vertical-scroll-proportion="-13.75">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="piermaria_cosina.png" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/images/team/piermaria_cosina.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="project_page_tamtown.html.haml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/project_page_tamtown.html.haml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="217" column="11" selection-start="6920" selection-end="6920" vertical-scroll-proportion="-7.5">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -149,19 +166,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/source/project_page_alphabot.html.haml" />
-        <option value="$PROJECT_DIR$/source/project_page_amolamusica.html.haml" />
-        <option value="$PROJECT_DIR$/source/project_page_letscommerce.html.haml" />
-        <option value="$PROJECT_DIR$/source/project_page_gnammo.html.haml" />
-        <option value="$PROJECT_DIR$/source/project_page_pubcoder.html.haml" />
-        <option value="$PROJECT_DIR$/source/project_page_tacati.html.haml" />
-        <option value="$PROJECT_DIR$/source/project_page_soccersquare.html.haml" />
-        <option value="$PROJECT_DIR$/config.rb" />
-        <option value="$PROJECT_DIR$/source/project_page_pupulito.html.haml" />
-        <option value="$PROJECT_DIR$/source/we_have_worked_for.html.haml" />
-        <option value="$PROJECT_DIR$/source/team.html.haml" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/source/project_page_fabrica.html.haml" />
+        <option value="$PROJECT_DIR$/source/project_page_volleysquare.html.haml" />
+        <option value="$PROJECT_DIR$/source/project_page_pubcoder.html.haml" />
+        <option value="$PROJECT_DIR$/source/project_page_soccersquare.html.haml" />
+        <option value="$PROJECT_DIR$/source/project_page_tacati.html.haml" />
+        <option value="$PROJECT_DIR$/source/project_page_letscommerce.html.haml" />
+        <option value="$PROJECT_DIR$/source/project_page_winepass.html.haml" />
+        <option value="$PROJECT_DIR$/source/project_page_bookolico.html.haml" />
+        <option value="$PROJECT_DIR$/source/project_page_cineama.html.haml" />
+        <option value="$PROJECT_DIR$/source/project_page_localactors.html.haml" />
+        <option value="$PROJECT_DIR$/source/project_page_oilproject.html.haml" />
+        <option value="$PROJECT_DIR$/source/project_page_tamtown.html.haml" />
+        <option value="$PROJECT_DIR$/source/project_page_alphabots.html.haml" />
+        <option value="$PROJECT_DIR$/source/project_page_amolamusica.html.haml" />
+        <option value="$PROJECT_DIR$/source/project_page_artmob.html.haml" />
       </list>
     </option>
   </component>
@@ -390,6 +410,23 @@
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="17d3d794-0227-48f9-a172-e69d7b3e5910" name="Default" comment="" />
@@ -424,7 +461,11 @@
       <created>1380199562041</created>
       <updated>1380199562041</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="texts of fabrica's project">
+      <created>1380206211820</created>
+      <updated>1380206211820</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -449,7 +490,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969698" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -459,8 +500,8 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26542324" sideWeight="0.67151517" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32848486" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32848486" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32848486" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32848486" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969698" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -513,7 +554,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="merge irene" />
+    <option name="LAST_COMMIT_MESSAGE" value="texts of fabrica's project" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -532,124 +573,120 @@
     <MESSAGE value="changes to texts of pages: we have worked for &amp; team" />
     <MESSAGE value="to recover error" />
     <MESSAGE value="merge irene" />
+    <MESSAGE value="texts of fabrica's project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/project_page_gnammo.html.haml">
+    <entry file="file://$PROJECT_DIR$/source/project_page_volleysquare.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="238" column="30" selection-start="0" selection-end="9136" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/project_page_tacati.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="225" column="16" selection-start="0" selection-end="9281" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/project_page_soccersquare.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="29" selection-start="643" selection-end="643" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="13" selection-start="360" selection-end="360" vertical-scroll-proportion="0.0">
+        <state line="204" column="32" selection-start="5387" selection-end="5387" vertical-scroll-proportion="-33.75">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_pubcoder.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="157" column="19" selection-start="0" selection-end="9175" vertical-scroll-proportion="0.0">
+        <state line="224" column="11" selection-start="6809" selection-end="6809" vertical-scroll-proportion="-16.25">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.rb">
+    <entry file="file://$PROJECT_DIR$/source/project_page_soccersquare.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0">
+        <state line="226" column="11" selection-start="7924" selection-end="7924" vertical-scroll-proportion="-4.375">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/project_page_pupulito.html.haml">
+    <entry file="file://$PROJECT_DIR$/source/project_page_tacati.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="147" column="44" selection-start="3636" selection-end="3636" vertical-scroll-proportion="-15.625">
+        <state line="235" column="11" selection-start="8753" selection-end="8753" vertical-scroll-proportion="-12.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/project_page_letscommerce.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="212" column="11" selection-start="5725" selection-end="5725" vertical-scroll-proportion="-13.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/project_page_winepass.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="145" column="68" selection-start="3660" selection-end="3660" vertical-scroll-proportion="-26.708334">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/project_page_bookolico.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="230" column="11" selection-start="8372" selection-end="8372" vertical-scroll-proportion="-11.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/project_page_cineama.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="208" column="10" selection-start="7516" selection-end="7516" vertical-scroll-proportion="-9.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/project_page_localactors.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="188" column="11" selection-start="5022" selection-end="5022" vertical-scroll-proportion="-10.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/project_page_oilproject.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="230" column="11" selection-start="6451" selection-end="6451" vertical-scroll-proportion="-13.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/project_page_tamtown.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="217" column="11" selection-start="6920" selection-end="6920" vertical-scroll-proportion="-7.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/project_page_weightanalytics.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="128.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/project_page_alphabots.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="190" column="11" selection-start="5272" selection-end="5272" vertical-scroll-proportion="-6.875">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_amolamusica.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="285" column="28" selection-start="6938" selection-end="6938" vertical-scroll-proportion="9.193548">
+        <state line="208" column="11" selection-start="5665" selection-end="5665" vertical-scroll-proportion="-12.5">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/hiring.html.haml">
+    <entry file="file://$PROJECT_DIR$/source/project_page_gnammo.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="121" column="326" selection-start="3053" selection-end="3053" vertical-scroll-proportion="-13.75">
-          <folding>
-            <marker date="1380198575000" expanded="true" signature="4407:4415" placeholder="%hr.wave" />
-            <marker date="1380198575000" expanded="true" signature="4526:4854" placeholder="&lt;span class=&quot;first-letter&quot;&gt;The Doers&lt;/span&gt; s.r.l. &lt;span class=&quot;slash&quot;&gt;/&lt;/span&gt; &lt;span class=&quot;first-letter&quot;&gt;P&lt;/span&gt;IVA 10766230014 &lt;span class=&quot;slash&quot;&gt;/&lt;/span&gt; &lt;span class=&quot;first-letter&quot;&gt;T&lt;/span&gt;orino, via San Domenico 30 &lt;span class=&quot;slash&quot;&gt;/&lt;/span&gt; &lt;span class=&quot;first-letter&quot;&gt;W&lt;/span&gt;e@thedoersproject.com" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/images/team/piermaria_cosina.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/team.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="166" column="53" selection-start="3474" selection-end="3474" vertical-scroll-proportion="-8.166667">
-          <folding>
-            <marker date="1380198575000" expanded="true" signature="3388:3751" placeholder=".container-left.what_we_do" />
-            <marker date="1380198575000" expanded="true" signature="3683:3751" placeholder=".photo-team" />
-            <marker date="1380198575000" expanded="true" signature="3700:3751" placeholder="%img{:alt=&gt;&quot;&quot;, :src=&gt;&quot;images/team/placeholder.png&quot;}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/what_we_do.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="135.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="file://$PROJECT_DIR$/source/project_page_artmob.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="102" selection-start="1456" selection-end="1456" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/we_have_worked_for.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="71" selection-start="387" selection-end="387" vertical-scroll-proportion="56.333332">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/project_page_fabrica.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="331" column="47" selection-start="0" selection-end="12756" vertical-scroll-proportion="-11.25">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.rvm/rubies/ruby-1.9.3-p327/lib/ruby/site_ruby/1.9.1/rubygems/custom_require.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="0" selection-start="1040" selection-end="1040" vertical-scroll-proportion="0.33200794">
+        <state line="219" column="51" selection-start="6769" selection-end="6769" vertical-scroll-proportion="2.7268622">
           <folding />
         </state>
       </provider>
