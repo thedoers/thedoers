@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f229e5fe-5e38-4f46-8243-4fec9bebfe28" name="Default" comment="Changes on index: container-submission, text">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/css/partials/_320grid.sass" afterPath="$PROJECT_DIR$/source/css/partials/_320grid.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/css/partials/_960grid.sass" afterPath="$PROJECT_DIR$/source/css/partials/_960grid.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/index.html.haml" afterPath="$PROJECT_DIR$/source/index.html.haml" />
+    <list default="true" id="f229e5fe-5e38-4f46-8243-4fec9bebfe28" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/partials/_projects.haml" afterPath="$PROJECT_DIR$/source/partials/_projects.haml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="thedoers.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380631907656" ignored="false" />
+    <file path="/Dummy.txt" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380634261828" ignored="false" />
     <file path="$PROJECT_DIR$/../../railsftp/Gemfile" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380549082468" ignored="false" />
     <file path="/hiring.html.haml" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380549633390" ignored="false" />
     <file path="/Gemfile" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380555517015" ignored="false" />
@@ -22,6 +20,7 @@
     <file path="/_960grid.sass" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380618811750" ignored="false" />
     <file path="/_wehaveworkedfor.haml" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380622623578" ignored="false" />
     <file path="/_320grid.sass" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380622321437" ignored="false" />
+    <file path="/_projects.haml" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380633850062" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,53 +34,25 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file leaf-file-name="index.html.haml" pinned="false" current="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/source/index.html.haml">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state line="12" column="195" selection-start="762" selection-end="762" vertical-scroll-proportion="-7.8461537">
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file leaf-file-name="_320grid.sass" pinned="false" current="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/source/css/partials/_320grid.sass">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state line="5" column="2" selection-start="113" selection-end="113" vertical-scroll-proportion="-3.4">
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file leaf-file-name="_960grid.sass" pinned="false" current="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/source/css/partials/_960grid.sass">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state line="58" column="3" selection-start="1200" selection-end="1200" vertical-scroll-proportion="0.38348082">
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="thedoers" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="config.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="config.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="0" selection-start="1600" selection-end="1600" vertical-scroll-proportion="1.6813186">
+            <state line="36" column="0" selection-start="1600" selection-end="1600" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_projects.haml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/partials/_projects.haml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="93" selection-start="2607" selection-end="2607" vertical-scroll-proportion="0.6276923">
               <folding />
             </state>
           </provider>
@@ -116,12 +87,12 @@
         <option value="$PROJECT_DIR$/source/mazinga_page.html.haml" />
         <option value="$PROJECT_DIR$/config.rb" />
         <option value="$PROJECT_DIR$/source/partials/_we'veworkedfor.haml" />
-        <option value="$PROJECT_DIR$/source/partials/_projects.haml" />
         <option value="$PROJECT_DIR$/source/partials/_menucontainer.haml" />
         <option value="$PROJECT_DIR$/source/partials/_wehaveworkedfor.haml" />
         <option value="$PROJECT_DIR$/source/index.html.haml" />
         <option value="$PROJECT_DIR$/source/css/partials/_320grid.sass" />
         <option value="$PROJECT_DIR$/source/css/partials/_960grid.sass" />
+        <option value="$PROJECT_DIR$/source/partials/_projects.haml" />
       </list>
     </option>
   </component>
@@ -434,7 +405,11 @@
       <created>1380623615265</created>
       <updated>1380623615359</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Changes on index: container-submission-hiring text">
+      <created>1380633238937</created>
+      <updated>1380633238968</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -458,7 +433,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1288" height="774" extended-state="6" />
+    <frame x="-4" y="-4" width="1288" height="774" extended-state="7" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37198067" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -526,7 +501,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes on index: container-submission, text" />
+    <option name="LAST_COMMIT_MESSAGE" value="links to arcadia and ixdt in new tab" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -543,6 +518,8 @@
     <MESSAGE value="Changes on menu" />
     <MESSAGE value="Changes on index.html: new partials" />
     <MESSAGE value="Changes on index: container-submission, text" />
+    <MESSAGE value="Changes on index: container-submission-hiring text" />
+    <MESSAGE value="links to arcadia and ixdt in new tab" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -551,13 +528,6 @@
     <entry file="file://$PROJECT_DIR$/source/projects_wall.html.haml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="116" column="38" selection-start="85" selection-end="8559" vertical-scroll-proportion="0.29934925">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/partials/_projects.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="65" selection-start="640" selection-end="642" vertical-scroll-proportion="-4.0">
           <folding />
         </state>
       </provider>
@@ -641,7 +611,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="0" selection-start="1600" selection-end="1600" vertical-scroll-proportion="1.6813186">
+        <state line="36" column="0" selection-start="1600" selection-end="1600" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -656,6 +626,13 @@
     <entry file="file://$PROJECT_DIR$/source/css/partials/_960grid.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state line="58" column="3" selection-start="1200" selection-end="1200" vertical-scroll-proportion="0.38348082">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/partials/_projects.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="93" selection-start="2607" selection-end="2607" vertical-scroll-proportion="0.6276923">
           <folding />
         </state>
       </provider>
