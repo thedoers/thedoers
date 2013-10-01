@@ -43,25 +43,29 @@
             .corner_left
       .fulminetti
   %hr.dotted
-  %ul.old-site
-    %li
-      .icon.process
-      .container
-        %a{href: '/what_we_do.html'} services
-        .shadow-right
-        .shadow-bottom
-    %li
-      .icon.blog
-      .container
-        %a{href: 'http://blog.thedoersproject.com'} blog
-        .shadow-right
-        .shadow-bottom
-    %li
-      .icon.projects
-      .container
-        %a{href: '/projects_wall.html'} projects
-        .shadow-right
-        .shadow-bottom
+  -#%ul.old-site
+  -#  %li
+  -#    .icon.process
+  -#    .container
+  -#      %a{href: '/what_we_do.html'} services
+  -#      .shadow-right
+  -#      .shadow-bottom
+  -#  %li
+  -#    .icon.blog
+  -#    .container
+  -#      %a{href: 'http://blog.thedoersproject.com'} blog
+  -#      .shadow-right
+  -#      .shadow-bottom
+  -#  %li
+  -#    .icon.projects
+  -#    .container
+  -#      %a{href: '/projects_wall.html'} projects
+  -#      .shadow-right
+  -#      .shadow-bottom
+  %a{name:'projects'}
+  = partial'partials/projects'
+  = partial'partials/wehaveworkedfor'
+
   %hr.wave
 %section.footer				
   #bg-footer
