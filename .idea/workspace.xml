@@ -1,191 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f229e5fe-5e38-4f46-8243-4fec9bebfe28" name="Default" comment="links to arcadia and ixdt in new tab">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pupulito/low/IN_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pupulito/low/OUT_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/wall/low/alphabot_w_1_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/amolamusica/low/amolamusica_pf_1_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/amolamusica/low/amolamusica_pf_2__low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/amolamusica/low/amolamusica_pf_2_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/amolamusica/low/amolamusica_pf_3_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/amolamusica/low/amolamusica_pf_4_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/amolamusica/low/amolamusica_pf_5_large_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/amolamusica/low/amolamusica_pf_6_large_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/amolamusica/low/amolamusica_pf_7_large_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/amolamusica/low/amolamusica_pf_8_large_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/amolamusica/low/amolamusica_pf_9_large_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/amolamusica/low/amolamusica_pf_large_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/wall/low/amolamusica_w_1_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/wall/low/arcadia_w_1_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/artmob/low/artmob_pf_1_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/artmob/low/artmob_pf_2_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/artmob/low/artmob_pf_3_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/artmob/low/artmob_pf_4_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/artmob/low/artmob_pf_5_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/artmob/low/artmob_pf_7_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/artmob/low/artmob_pf_8_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/wall/low/artmob_w_3_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/bookolico/low/bookolico_pf_10_large_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/bookolico/low/bookolico_pf_11_large_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/bookolico/low/bookolico_pf_12_large_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/bookolico/low/bookolico_pf_13_large_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/bookolico/low/bookolico_pf_1_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/bookolico/low/bookolico_pf_2_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/bookolico/low/bookolico_pf_3_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/bookolico/low/bookolico_pf_5_large_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/bookolico/low/bookolico_pf_6_large_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/bookolico/low/bookolico_pf_9_large_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/wall/low/bookolico_w_3_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/cineama/low/cineama_pf_1_large_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/cineama/low/cineama_pf_3_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/cineama/low/cineama_pf_4_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/cineama/low/cineama_pf_5_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/fabrica/low/fabrica_10_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/fabrica/low/fabrica_11_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/fabrica/low/fabrica_12_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/fabrica/low/fabrica_13_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/fabrica/low/fabrica_1_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/fabrica/low/fabrica_2_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/fabrica/low/fabrica_3_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/fabrica/low/fabrica_4_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/fabrica/low/fabrica_5_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/fabrica/low/fabrica_6_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/fabrica/low/fabrica_7_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/fabrica/low/fabrica_8_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/fabrica/low/fabrica_9_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/gnammo/low/gnammo_pf_1_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/gnammo/low/gnammo_pf_2_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/gnammo/low/gnammo_pf_3_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/gnammo/low/gnammo_pf_4_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/gnammo/low/gnammo_pf_6_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/gnammo/low/gnammo_pf_7_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/gnammo/low/gnammo_pf_8_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/gnammo/low/gnammo_pf_9_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/wall/low/gnammo_w_1_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/wall/low/ixdt_w_2_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pubcoder/low/landing_700px_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/wall/low/letscommerce_w_1_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/localactors/low/localactors_pf_1_large_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/localactors/low/localactors_pf_2_large_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/localactors/low/localactors_pf_3_large_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/localactors/low/localactors_pf_4_large_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/localactors/low/localactors_pf_5_large_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/localactors/low/localactors_pf_6_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/wall/low/localactors_w_2_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/oilproject/low/oilproject_pf_1_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/oilproject/low/oilproject_pf_2_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/wall/low/oilproject_w_1_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/wall/low/pubcoder_high_w_1_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pubcoder/low/pubcoder_pf_10_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pubcoder/low/pubcoder_pf_11_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pubcoder/low/pubcoder_pf_12_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pubcoder/low/pubcoder_pf_13_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pubcoder/low/pubcoder_pf_14_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pubcoder/low/pubcoder_pf_1_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pubcoder/low/pubcoder_pf_2_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pubcoder/low/pubcoder_pf_3_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pubcoder/low/pubcoder_pf_4_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pubcoder/low/pubcoder_pf_5_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pubcoder/low/pubcoder_pf_6_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pubcoder/low/pubcoder_pf_7_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pubcoder/low/pubcoder_pf_8_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pubcoder/low/pubcoder_pf_9_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/wall/low/pubcoder_w_2_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/wall/low/pubcoder_w_3_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pupulito/low/pupulito_pf_10_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pupulito/low/pupulito_pf_11_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pupulito/low/pupulito_pf_12_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pupulito/low/pupulito_pf_13_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pupulito/low/pupulito_pf_14_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pupulito/low/pupulito_pf_15_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pupulito/low/pupulito_pf_16_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pupulito/low/pupulito_pf_17_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pupulito/low/pupulito_pf_18_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pupulito/low/pupulito_pf_19_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pupulito/low/pupulito_pf_1_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pupulito/low/pupulito_pf_2_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pupulito/low/pupulito_pf_3_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pupulito/low/pupulito_pf_4_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pupulito/low/pupulito_pf_5_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pupulito/low/pupulito_pf_6_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pupulito/low/pupulito_pf_7_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pupulito/low/pupulito_pf_8_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/pupulito/low/pupulito_pf_9_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/wall/low/pupulito_w_1_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/regalister/low/regalister_pf_10_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/regalister/low/regalister_pf_7_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/regalister/low/regalister_pf_9_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/wall/low/regalister_w_1_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/soccersquare/low/soccersquare_pf_10_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/soccersquare/low/soccersquare_pf_1_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/soccersquare/low/soccersquare_pf_2_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/soccersquare/low/soccersquare_pf_3_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/soccersquare/low/soccersquare_pf_4_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/soccersquare/low/soccersquare_pf_5_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/soccersquare/low/soccersquare_pf_6_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/soccersquare/low/soccersquare_pf_7_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/soccersquare/low/soccersquare_pf_8_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/soccersquare/low/soccersquare_pf_9_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/wall/low/soccersquare_w_1_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/tacati/low/tacati_pf_1_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/tacati/low/tacati_pf_2_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/tacati/low/tacati_pf_3_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/wall/low/tacati_w_1_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/tamtown/low/tamtown_pf_1_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/tamtown/low/tamtown_pf_2_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/tamtown/low/tamtown_pf_3_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/wall/low/tamtown_w_1_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/wall/low/tamtown_w_2_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/wall/low/tamtown_w_3_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/volleysquare/low/volleysquare_pf_1_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/volleysquare/low/volleysquare_pf_2_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/volleysquare/low/volleysquare_pf_3_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/wall/low/volleysquare_w_1_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/weightanalytics/low/weight_pf_10_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/weightanalytics/low/weight_pf_11_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/weightanalytics/low/weight_pf_1_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/weightanalytics/low/weight_pf_2_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/weightanalytics/low/weight_pf_3_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/weightanalytics/low/weight_pf_4_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/weightanalytics/low/weight_pf_5_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/weightanalytics/low/weight_pf_6_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/weightanalytics/low/weight_pf_7_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/weightanalytics/low/weight_pf_8_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/weightanalytics/low/weight_pf_9_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/wall/low/weight_w_1_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/wall/low/weight_w_2_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/winepass/low/winepass_1_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/winepass/low/winepass_2_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/winepass/low/winepass_3_low.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/portfolio/wall/low/winepass_w_1_low.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/partials/_projects.haml" afterPath="$PROJECT_DIR$/source/partials/_projects.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/layouts/html5.haml" afterPath="$PROJECT_DIR$/source/layouts/html5.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/js/lazyimg.js" afterPath="$PROJECT_DIR$/source/js/lazyimg.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_amolamusica.html.haml" afterPath="$PROJECT_DIR$/source/project_page_amolamusica.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_artmob.html.haml" afterPath="$PROJECT_DIR$/source/project_page_artmob.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_bookolico.html.haml" afterPath="$PROJECT_DIR$/source/project_page_bookolico.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_cineama.html.haml" afterPath="$PROJECT_DIR$/source/project_page_cineama.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_fabrica.html.haml" afterPath="$PROJECT_DIR$/source/project_page_fabrica.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_gnammo.html.haml" afterPath="$PROJECT_DIR$/source/project_page_gnammo.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_localactors.html.haml" afterPath="$PROJECT_DIR$/source/project_page_localactors.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_oilproject.html.haml" afterPath="$PROJECT_DIR$/source/project_page_oilproject.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_pupulito.html.haml" afterPath="$PROJECT_DIR$/source/project_page_pupulito.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_regalister.html.haml" afterPath="$PROJECT_DIR$/source/project_page_regalister.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_soccersquare.html.haml" afterPath="$PROJECT_DIR$/source/project_page_soccersquare.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_tacati.html.haml" afterPath="$PROJECT_DIR$/source/project_page_tacati.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_weightanalytics.html.haml" afterPath="$PROJECT_DIR$/source/project_page_weightanalytics.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_winepass.html.haml" afterPath="$PROJECT_DIR$/source/project_page_winepass.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/projects_wall.html.haml" afterPath="$PROJECT_DIR$/source/projects_wall.html.haml" />
+    <list default="true" id="f229e5fe-5e38-4f46-8243-4fec9bebfe28" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_alphabots.html.haml" afterPath="$PROJECT_DIR$/source/project_page_alphabots.html.haml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="thedoers.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380905017761" ignored="false" />
+    <file path="/Dummy.txt" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380909095796" ignored="false" />
     <file path="$USER_HOME$/railsftp/Gemfile" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380549082468" ignored="false" />
     <file path="/hiring.html.haml" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380549633390" ignored="false" />
     <file path="/Gemfile" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380555517015" ignored="false" />
-    <file path="/a.dummy" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380894288165" ignored="false" />
+    <file path="/a.dummy" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380911644523" ignored="false" />
     <file path="/config.rb" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380559751750" ignored="false" />
     <file path="/index.html.haml" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380626043234" ignored="false" />
     <file path="/application.css.sass" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380552195562" ignored="false" />
@@ -197,7 +23,7 @@
     <file path="/_projects.haml" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380633850062" ignored="false" />
     <file path="/lazyimg.js" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380883390615" ignored="false" />
     <file path="/project_page_cineama.html.haml" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380889574355" ignored="false" />
-    <file path="/project_page_alphabots.html.haml" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380893495741" ignored="false" />
+    <file path="/project_page_alphabots.html.haml" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380911602911" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -217,10 +43,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_projects.haml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_projects.haml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/partials/_projects.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="98" column="108" selection-start="7756" selection-end="7756" vertical-scroll-proportion="0.3148148">
+            <state line="98" column="108" selection-start="7756" selection-end="7756" vertical-scroll-proportion="-8.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project_page_alphabots.html.haml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/project_page_alphabots.html.haml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="94" column="127" selection-start="2954" selection-end="2954" vertical-scroll-proportion="0.38636363">
               <folding />
             </state>
           </provider>
@@ -245,7 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/source/project_page_amolamusica.html.haml" />
         <option value="$PROJECT_DIR$/source/project_page_artmob.html.haml" />
         <option value="$PROJECT_DIR$/source/project_page_bookolico.html.haml" />
         <option value="$PROJECT_DIR$/source/project_page_cineama.html.haml" />
@@ -261,6 +95,7 @@
         <option value="$PROJECT_DIR$/source/project_page_winepass.html.haml" />
         <option value="$PROJECT_DIR$/source/projects_wall.html.haml" />
         <option value="$PROJECT_DIR$/source/partials/_projects.haml" />
+        <option value="$PROJECT_DIR$/source/project_page_alphabots.html.haml" />
       </list>
     </option>
   </component>
@@ -364,46 +199,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thedoers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thedoers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thedoers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thedoers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -412,14 +207,14 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="129" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="129" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
-    <property name="recentsLimit" value="5" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="133" />
+    <property name="recentsLimit" value="5" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/BlogTheDoersRep" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="129" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="808" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="804" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="808" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="128" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="122" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
@@ -583,7 +378,11 @@
       <created>1380633238937</created>
       <updated>1380633238968</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="unveil activated and jpg blur">
+      <created>1380905190327</created>
+      <updated>1380905190327</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -610,13 +409,13 @@
     <frame x="10" y="0" width="1260" height="762" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.8111111" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25714287" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32698414" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32698414" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21368948" sideWeight="0.18888889" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21702838" sideWeight="0.74285716" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -625,8 +424,8 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32698414" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
@@ -675,7 +474,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="links to arcadia and ixdt in new tab" />
+    <option name="LAST_COMMIT_MESSAGE" value="unveil activated and jpg blur" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -694,79 +493,101 @@
     <MESSAGE value="Changes on index: container-submission, text" />
     <MESSAGE value="Changes on index: container-submission-hiring text" />
     <MESSAGE value="links to arcadia and ixdt in new tab" />
+    <MESSAGE value="unveil activated and jpg blur" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/project_page_artmob.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="139" column="111" selection-start="5262" selection-end="5262" vertical-scroll-proportion="-1.7307693" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_bookolico.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="223" column="127" selection-start="9678" selection-end="9678" vertical-scroll-proportion="-6.0" />
+        <state line="223" column="127" selection-start="9678" selection-end="9678" vertical-scroll-proportion="-6.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_cineama.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="141" column="114" selection-start="6454" selection-end="6454" vertical-scroll-proportion="-4.6923075" />
+        <state line="141" column="114" selection-start="6454" selection-end="6454" vertical-scroll-proportion="-4.6923075">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_fabrica.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="237" column="112" selection-start="9397" selection-end="9397" vertical-scroll-proportion="-4.6923075" />
+        <state line="237" column="112" selection-start="9397" selection-end="9397" vertical-scroll-proportion="-4.6923075">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_gnammo.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="198" column="111" selection-start="7779" selection-end="7779" vertical-scroll-proportion="-4.0384617" />
+        <state line="198" column="111" selection-start="7779" selection-end="7779" vertical-scroll-proportion="-4.0384617">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_pupulito.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="174" column="118" selection-start="6308" selection-end="6308" vertical-scroll-proportion="-4.0384617" />
+        <state line="174" column="118" selection-start="6308" selection-end="6308" vertical-scroll-proportion="-4.0384617">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_regalister.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="136" column="123" selection-start="4762" selection-end="4762" vertical-scroll-proportion="-4.3846154" />
+        <state line="136" column="123" selection-start="4762" selection-end="4762" vertical-scroll-proportion="-4.3846154">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_oilproject.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="138" column="123" selection-start="4325" selection-end="4325" vertical-scroll-proportion="0.7297297" />
+        <state line="138" column="123" selection-start="4325" selection-end="4325" vertical-scroll-proportion="0.7297297">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_localactors.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="135" column="132" selection-start="4437" selection-end="4437" vertical-scroll-proportion="0.3106509" />
+        <state line="135" column="132" selection-start="4437" selection-end="4437" vertical-scroll-proportion="0.3106509">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_soccersquare.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="188" column="129" selection-start="7731" selection-end="7731" vertical-scroll-proportion="0.3106509" />
+        <state line="188" column="129" selection-start="7731" selection-end="7731" vertical-scroll-proportion="0.3106509">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_tacati.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="172" column="111" selection-start="7680" selection-end="7680" vertical-scroll-proportion="0.2924791" />
+        <state line="172" column="111" selection-start="7680" selection-end="7680" vertical-scroll-proportion="0.2924791">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_weightanalytics.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="146" column="130" selection-start="5741" selection-end="5741" vertical-scroll-proportion="0.45961002" />
+        <state line="146" column="130" selection-start="5741" selection-end="5741" vertical-scroll-proportion="0.45961002">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_winepass.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="114" selection-start="2324" selection-end="2324" vertical-scroll-proportion="0.41225627" />
+        <state line="85" column="114" selection-start="2324" selection-end="2324" vertical-scroll-proportion="0.41225627">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/projects_wall.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="101" column="108" selection-start="7805" selection-end="7805" vertical-scroll-proportion="0.2924791" />
+        <state line="101" column="108" selection-start="7805" selection-end="7805" vertical-scroll-proportion="0.2924791">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/js/vendor/blurscript.jsx">
@@ -776,7 +597,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/partials/_projects.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="108" selection-start="7756" selection-end="7756" vertical-scroll-proportion="0.3148148">
+        <state line="98" column="108" selection-start="7756" selection-end="7756" vertical-scroll-proportion="-8.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/project_page_alphabots.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="127" selection-start="2954" selection-end="2954" vertical-scroll-proportion="0.38636363">
           <folding />
         </state>
       </provider>
