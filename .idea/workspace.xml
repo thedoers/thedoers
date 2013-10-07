@@ -2,19 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f229e5fe-5e38-4f46-8243-4fec9bebfe28" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/js/vendor/imagesblurscript.jsx" />
-      <change type="DELETED" beforePath="C:\Users\DannyRMA\RubymineProjects\thedoers\source\js\vendor\blurscript.jsx" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/index.html.haml" afterPath="$PROJECT_DIR$/source/index.html.haml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="thedoers.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380911754815" ignored="false" />
+    <file path="/Dummy.txt" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1381159563695" ignored="false" />
     <file path="$USER_HOME$/railsftp/Gemfile" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380549082468" ignored="false" />
     <file path="/hiring.html.haml" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380549633390" ignored="false" />
     <file path="/Gemfile" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380555517015" ignored="false" />
     <file path="/a.dummy" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380911644523" ignored="false" />
     <file path="/config.rb" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380559751750" ignored="false" />
-    <file path="/index.html.haml" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380626043234" ignored="false" />
+    <file path="/index.html.haml" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1381159534282" ignored="false" />
     <file path="/application.css.sass" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380552195562" ignored="false" />
     <file path="/html5.haml" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380555767171" ignored="false" />
     <file path="/_menucontainer.haml" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380564582203" ignored="false" />
@@ -47,7 +46,7 @@
       <file leaf-file-name="_projects.haml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/partials/_projects.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="98" column="108" selection-start="7756" selection-end="7756" vertical-scroll-proportion="-8.0">
+            <state line="98" column="108" selection-start="7756" selection-end="7756" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -56,13 +55,67 @@
       <file leaf-file-name="project_page_alphabots.html.haml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/project_page_alphabots.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="94" column="127" selection-start="2954" selection-end="2954" vertical-scroll-proportion="-1.7662338">
+            <state line="106" column="32" selection-start="3007" selection-end="3007" vertical-scroll-proportion="-12.692307">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="imagesblurscript.jsx" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html.haml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/index.html.haml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="23" selection-start="2028" selection-end="2028" vertical-scroll-proportion="0.37777779">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_header.haml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/partials/_header.haml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_menucontainer.haml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/partials/_menucontainer.haml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="31" selection-start="429" selection-end="447" vertical-scroll-proportion="-9.153846">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog.html.haml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/blog.html.haml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="what_we_do.html.haml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/what_we_do.html.haml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="imagesblurscript.jsx" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/js/vendor/imagesblurscript.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -90,7 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/source/project_page_artmob.html.haml" />
         <option value="$PROJECT_DIR$/source/project_page_bookolico.html.haml" />
         <option value="$PROJECT_DIR$/source/project_page_cineama.html.haml" />
         <option value="$PROJECT_DIR$/source/project_page_fabrica.html.haml" />
@@ -106,6 +158,7 @@
         <option value="$PROJECT_DIR$/source/projects_wall.html.haml" />
         <option value="$PROJECT_DIR$/source/partials/_projects.haml" />
         <option value="$PROJECT_DIR$/source/project_page_alphabots.html.haml" />
+        <option value="$PROJECT_DIR$/source/index.html.haml" />
       </list>
     </option>
   </component>
@@ -258,14 +311,14 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="129" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="129" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="133" />
-    <property name="recentsLimit" value="5" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="recentsLimit" value="5" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="133" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/BlogTheDoersRep" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="129" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="804" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="808" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="804" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="128" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="122" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
@@ -437,7 +490,11 @@
       <created>1380911758873</created>
       <updated>1380911758873</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="New script to blur">
+      <created>1380912016726</created>
+      <updated>1380912016726</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -464,23 +521,23 @@
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25233644" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32698414" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32698414" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23757765" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32608697" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21069692" sideWeight="0.74766356" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22042139" sideWeight="0.7624224" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32698414" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32608697" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32698414" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
@@ -529,7 +586,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes: unveil activated and jpg blur" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes on index link" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -550,112 +607,107 @@
     <MESSAGE value="links to arcadia and ixdt in new tab" />
     <MESSAGE value="unveil activated and jpg blur" />
     <MESSAGE value="changes: unveil activated and jpg blur" />
+    <MESSAGE value="New script to blur" />
+    <MESSAGE value="changes on index link" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/project_page_cineama.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="141" column="114" selection-start="6454" selection-end="6454" vertical-scroll-proportion="-4.6923075">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/project_page_fabrica.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="237" column="112" selection-start="9397" selection-end="9397" vertical-scroll-proportion="-4.6923075">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/project_page_gnammo.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="198" column="111" selection-start="7779" selection-end="7779" vertical-scroll-proportion="-4.0384617">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/project_page_pupulito.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="174" column="118" selection-start="6308" selection-end="6308" vertical-scroll-proportion="-4.0384617">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/project_page_regalister.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="136" column="123" selection-start="4762" selection-end="4762" vertical-scroll-proportion="-4.3846154">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/project_page_oilproject.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="138" column="123" selection-start="4325" selection-end="4325" vertical-scroll-proportion="0.7297297">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_localactors.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="135" column="132" selection-start="4437" selection-end="4437" vertical-scroll-proportion="0.3106509">
-          <folding />
-        </state>
+        <state line="135" column="132" selection-start="4437" selection-end="4437" vertical-scroll-proportion="0.3106509" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_soccersquare.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="188" column="129" selection-start="7731" selection-end="7731" vertical-scroll-proportion="0.3106509">
-          <folding />
-        </state>
+        <state line="188" column="129" selection-start="7731" selection-end="7731" vertical-scroll-proportion="0.3106509" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_tacati.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="172" column="111" selection-start="7680" selection-end="7680" vertical-scroll-proportion="0.2924791">
-          <folding />
-        </state>
+        <state line="172" column="111" selection-start="7680" selection-end="7680" vertical-scroll-proportion="0.2924791" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_weightanalytics.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="146" column="130" selection-start="5741" selection-end="5741" vertical-scroll-proportion="0.45961002">
-          <folding />
-        </state>
+        <state line="146" column="130" selection-start="5741" selection-end="5741" vertical-scroll-proportion="0.45961002" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_winepass.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="114" selection-start="2324" selection-end="2324" vertical-scroll-proportion="0.41225627">
-          <folding />
-        </state>
+        <state line="85" column="114" selection-start="2324" selection-end="2324" vertical-scroll-proportion="0.41225627" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/projects_wall.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="101" column="108" selection-start="7805" selection-end="7805" vertical-scroll-proportion="0.2924791">
-          <folding />
-        </state>
+        <state line="101" column="108" selection-start="7805" selection-end="7805" vertical-scroll-proportion="0.2924791" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/partials/_projects.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="108" selection-start="7756" selection-end="7756" vertical-scroll-proportion="-8.0">
+        <state line="98" column="108" selection-start="7756" selection-end="7756" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/js/vendor/imagesblurscript.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_alphabots.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="127" selection-start="2954" selection-end="2954" vertical-scroll-proportion="-1.7662338">
+        <state line="106" column="32" selection-start="3007" selection-end="3007" vertical-scroll-proportion="-12.692307">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/vendor/imagesblurscript.jsx">
+    <entry file="file://$PROJECT_DIR$/source/blog.html.haml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/what_we_do.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/partials/_header.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/partials/_menucontainer.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="31" selection-start="429" selection-end="447" vertical-scroll-proportion="-9.153846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/index.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="23" selection-start="2028" selection-end="2028" vertical-scroll-proportion="0.37777779">
           <folding />
         </state>
       </provider>
