@@ -4,7 +4,7 @@ activate :deploy do |deploy|
     deploy.user = "piermaria"
     deploy.password = "Nonmelaricordo2"
     deploy.path = "/home/piermaria/webapps/thedoers"
-
+    deploy.build_before = true
 end
 
 
@@ -36,9 +36,9 @@ page "/project_page_alphabots.html", :layout => :html5
 page "/project_page_pupulito.html", :layout => :html5
 page "/projects_wall.html", :layout => :html5
 page "/team.html", :layout => :html5
-page "/we_have_worked_for.html", :layout => :html5
+#page "/we_have_worked_for.html", :layout => :html5
 page "/error404.html", :layout => :html5
-# page "/blog.html", :layout => :html5
+#page "/blog.html", :layout => :html5
 # page "/blog_ixdt_user_interface.html", :layout => :html5
 # page "/blog_deep_into_the_ocean.html", :layout => :html5
 # page "/blog_ixdt_ruby.html", :layout => :html5
@@ -68,7 +68,7 @@ configure :build do
   activate :minify_javascript
   
   # # Create favicon/touch icon set from source/favicon_base.png
-  activate :favicon_maker
+  #activate :favicon_maker
   
   # # Enable cache buster
   activate :cache_buster

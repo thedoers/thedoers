@@ -39,7 +39,7 @@
 
     = stylesheet_link_tag "application"
     = javascript_include_tag "vendor/modernizr.js"
-    //= javascript_include_tag "site"
+
 
 
   %body
@@ -58,7 +58,10 @@
       analytics.load("raf4lyo0hh");
 
 
+
     = yield
+
+    = javascript_include_tag "site"
 
     = javascript_include_tag "init"
 

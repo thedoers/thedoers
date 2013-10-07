@@ -1,111 +1,6 @@
 -# coding: utf-8
 %a.logo-doers{href: 'http://www.thedoers.co/'}
-%ul.menu-container
-  %li.container-hover
-    %a{href: '/projects_wall.html'}
-    .white-line
-      .hover-corner-left
-      .hover-center
-      .hover-corner-right-first
-      .bottone_container
-        .bottone
-          %p
-            <span class="first-letter">P</span>rojects
-            %span.slash /
-          .corner_right
-          .block_center
-          .corner_left
-    .fulminetti
-  %li.container-hover
-    %a{href: '/qa.html'}
-    .white-line
-      .hover-corner-left
-      .hover-center
-      .hover-corner-right
-      .bottone_container
-        .bottone
-          %p
-            <span class="first-letter">Q</span>&A
-            %span.slash /
-          .corner_right
-          .block_center
-          .corner_left
-    .fulminetti
-  %li.container-hover
-    %a{href: '/team.html'}
-    .white-line
-      .hover-corner-left
-      .hover-center
-      .hover-corner-right
-      .bottone_container
-        .bottone
-          %p
-            <span class="first-letter">T</span>eam
-            %span.slash /
-          .corner_right
-          .block_center
-          .corner_left
-    .fulminetti
-  %li.container-hover
-    %a{href: '/what_we_do.html'}
-    .white-line
-      .hover-corner-left
-      .hover-center
-      .hover-corner-right
-      .bottone_container
-        .bottone
-          %p
-            <span class="first-letter">W</span>hat <span class="first-letter">W</span>e <span class="first-letter">D</span>o
-            %span.slash /
-          .corner_right
-          .block_center
-          .corner_left
-    .fulminetti
-  %li.container-hover
-    %a{href: '/we_have_worked_for.html'}
-    .white-line
-      .hover-corner-left
-      .hover-center
-      .hover-corner-right
-      .bottone_container
-        .bottone
-          %p
-            <span class="first-letter">W</span>e've <span class="first-letter">W</span>orked <span class="first-letter">F</span>or
-            %span.slash /
-          .corner_right
-          .block_center
-          .corner_left
-    .fulminetti
-  %li.container-hover
-    %a{href: '/submission_page.html'}
-    .white-line
-      .hover-corner-left
-      .hover-center
-      .hover-corner-right
-      .bottone_container
-        .bottone
-          %p
-            <span class="first-letter">S</span>ubmit<span.first-letter> <span class="first-letter">S</span>tartup
-            %span.slash /
-          .corner_right
-          .block_center
-          .corner_left
-    .fulminetti
-  %li.container-hover
-    %a{href: '/hiring.html'}
-    .white-line
-      .hover-corner-left
-      .hover-center
-      .hover-corner-right
-      .bottone_container
-        .bottone
-          %p
-            <span class="first-letter">H</span>iring
-            %span.slash /
-          .corner_right
-          .block_center
-          .corner_left
-    .fulminetti
+= partial'partials/menucontainer'
 
 %section.page.submit
   %h1.main-black-pink-title
@@ -187,15 +82,13 @@
       %hr
       %ul.funding
         %li
-          %p.funding
-            ND
           %span.funder
             Zora and Michael Gonczarow
 
   %hr.spacer-project
   .project-container-photo
     .img-large
-      %img{:alt=>"", :src=>"images/portfolio/localactors/localactors_pf_1_large.jpg", :"data-src"=>"images/portfolio/localactors/localactors_pf_1_largeblur.jpg"}
+      %img{:alt=>"", :"data-src"=>"images/portfolio/localactors/localactors_pf_1_large.jpg", :src=>"images/portfolio/localactors/low/localactors_pf_1_large_low.jpg"}
     .description-image
       .corner
       .black-pink-title-small
@@ -221,7 +114,7 @@
         People and not for profit organisations post projects on our website from all corners of the world. You can search, choose and support by giving any amount you wish to those who inspire you. Global problems can be solved by local actors.
   .project-container-photo
     .img-large
-      %img{:alt=>"", :src=>"images/portfolio/localactors/localactors_pf_3_large.jpg", :"data-src"=>"images/portfolio/localactors/localactors_pf_3_largeblur.jpg"}
+      %img{:alt=>"", :"data-src"=>"images/portfolio/localactors/localactors_pf_3_large.jpg", :src=>"images/portfolio/localactors/low/localactors_pf_3_large_low.jpg"}
   %hr.spacer-project
   .project-container-photo
     .img-medium
@@ -229,10 +122,10 @@
   %hr.spacer-project
   .project-container-photo
     .img-large
-      %img{:alt=>"", :src=>"images/portfolio/localactors/localactors_pf_2_large.jpg", :"data-src"=>"images/portfolio/localactors/localactors_pf_2_largeblur.jpg"}
+      %img{:alt=>"", :"data-src"=>"images/portfolio/localactors/localactors_pf_2_large.jpg", :src=>"images/portfolio/localactors/low/localactors_pf_2_large_low.jpg"}
   .project-container-photo
     .img-large
-      %img{:alt=>"", :src=>"images/portfolio/localactors/localactors_pf_4_large.jpg", :"data-src"=>"images/portfolio/localactors/localactors_pf_4_largeblur.jpg"}
+      %img{:alt=>"", :"data-src"=>"images/portfolio/localactors/localactors_pf_4_large.jpg", :src=>"images/portfolio/localactors/low/localactors_pf_4_large_low.jpg"}
   %hr.spacer-project
   .project-container-photo
     .img-medium
@@ -240,7 +133,7 @@
   %hr.spacer-project
   .project-container-photo
     .img-large
-      %img{:alt=>"", :src=>"images/portfolio/localactors/localactors_pf_5_large.jpg", :"data-src"=>"images/portfolio/localactors/localactors_pf_5_largeblur.jpg"}
+      %img{:alt=>"", :"data-src"=>"images/portfolio/localactors/localactors_pf_5_large.jpg", :src=>"images/portfolio/localactors/low/localactors_pf_5_large_low.jpg"}
   %hr.spacer-project
   .project-container-photo
     .img-medium.spacer

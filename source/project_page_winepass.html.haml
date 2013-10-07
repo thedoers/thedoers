@@ -1,112 +1,6 @@
 -# coding: utf-8
 %a.logo-doers{href: 'http://www.thedoers.co/'}
-%ul.menu-container
-  %li.container-hover
-    %a{href: '/projects_wall.html'}
-    .white-line
-      .hover-corner-left
-      .hover-center
-      .hover-corner-right-first
-      .bottone_container
-        .bottone
-          %p
-            <span class="first-letter">P</span>rojects
-            %span.slash /
-          .corner_right
-          .block_center
-          .corner_left
-    .fulminetti
-  %li.container-hover
-    %a{href: '/qa.html'}
-    .white-line
-      .hover-corner-left
-      .hover-center
-      .hover-corner-right
-      .bottone_container
-        .bottone
-          %p
-            <span class="first-letter">Q</span>&A
-            %span.slash /
-          .corner_right
-          .block_center
-          .corner_left
-    .fulminetti
-  %li.container-hover
-    %a{href: '/team.html'}
-    .white-line
-      .hover-corner-left
-      .hover-center
-      .hover-corner-right
-      .bottone_container
-        .bottone
-          %p
-            <span class="first-letter">T</span>eam
-            %span.slash /
-          .corner_right
-          .block_center
-          .corner_left
-    .fulminetti
-  %li.container-hover
-    %a{href: '/what_we_do.html'}
-    .white-line
-      .hover-corner-left
-      .hover-center
-      .hover-corner-right
-      .bottone_container
-        .bottone
-          %p
-            <span class="first-letter">W</span>hat <span class="first-letter">W</span>e <span class="first-letter">D</span>o
-            %span.slash /
-          .corner_right
-          .block_center
-          .corner_left
-    .fulminetti
-  %li.container-hover
-    %a{href: '/we_have_worked_for.html'}
-    .white-line
-      .hover-corner-left
-      .hover-center
-      .hover-corner-right
-      .bottone_container
-        .bottone
-          %p
-            <span class="first-letter">W</span>e've <span class="first-letter">W</span>orked <span class="first-letter">F</span>or
-            %span.slash /
-          .corner_right
-          .block_center
-          .corner_left
-    .fulminetti
-  %li.container-hover
-    %a{href: '/submission_page.html'}
-    .white-line
-      .hover-corner-left
-      .hover-center
-      .hover-corner-right
-      .bottone_container
-        .bottone
-          %p
-            <span class="first-letter">S</span>ubmit<span.first-letter> <span class="first-letter">S</span>tartup
-            %span.slash /
-          .corner_right
-          .block_center
-          .corner_left
-    .fulminetti
-  %li.container-hover
-    %a{href: '/hiring.html'}
-    .white-line
-      .hover-corner-left
-      .hover-center
-      .hover-corner-right
-      .bottone_container
-        .bottone
-          %p
-            <span class="first-letter">H</span>iring
-            %span.slash /
-          .corner_right
-          .block_center
-          .corner_left
-    .fulminetti
-
+= partial'partials/menucontainer'
 
 %section.page.submit
   %h1.main-black-pink-title
@@ -142,10 +36,8 @@
   .project-description
     .container-p
       %p.project-description
-        Look, just because I don't be givin' no man a foot massage don't make it right for Marsellus to throw Antwone into a glass motherfuckin' house, fuckin' up the way the nigger talks. Motherfucker do that shit to me, he better paralyze my ass, 'cause I'll kill the motherfucker, know what I'm sayin'?
-      %p.project-description
-        Motherfucker do that shit to me, he better paralyze my ass, 'cause I'll kill the motherfucker, know what I'm sayin'?
-        %a.gotoproject{href: '/submission_page.html'} Go to project
+        WinePass is the digital place which provides them with a full stack of symphatizing stories to locate their passion
+        %a.gotoproject{href: '/#'} WinePass is in its concept stage!
     %hr.horizontal-dotted
     %hr.vertical-dotted
     %ul.areas
@@ -179,66 +71,19 @@
             .shadow-bottom
             %span.update
               last update: 15<span class="slash">/</span> 09<span class="slash">/</span> 2013
-    .container-single-info
-      %h4
-        released on:
-      %hr
-      %p.date
-        <span class="day">14 <span class="slash-date">/</span></span> <span class="month">december <span class="slash-date">/</span> </span>  <span class="year">2013</span>
-    .container-single-info
-      %h4
-        n° of users:
-      %hr
-      %p.users
-        350k
-    .container-single-info
-      %h4
-        press:
-      %hr
-      %ul.press
-        %li
-          %a.press{href: '#'}
-            wired
-          %p.date-press
-            15 <span class="slash-press">/</span> 07 <span class="slash-press">/</span> 2013
-        %li
-          %a.press{href: '#'}
-            techcrunch
-          %p.date-press
-            02 <span class="slash-press">/</span> 12 <span class="slash-press">/</span> 2013
-        %li
-          %a.press{href: '#'}
-            italia start up
-          %p.date-press
-            22 <span class="slash-press">/</span> 09 <span class="slash-press">/</span> 2013
-    .container-single-info.last
-      %h4
-        funding:
-      %hr
-      %ul.funding
-        %li
-          %p.funding
-            <span class="money">€</span>14k
-          %span.funder
-            innogest
-        %li
-          %p.funding
-            <span class="money">€</span>25k
-          %span.funder
-            placeholder name funder
 
   %hr.spacer-project
   .project-container-photo
     .img-large.spacer
-      %img{:alt=>"", :src=>"images/portfolio/winepass/winepass_1.jpg", :"data-src"=>"images/portfolio/winepass/winepass_1blur.jpg"}
+      %img{:alt=>"", :"data-src"=>"images/portfolio/winepass/winepass_1.jpg", :src=>"images/portfolio/winepass/low/winepass_1_low.jpg"}
   %hr.spacer-project
   .project-container-photo
     .img-large.spacer
-      %img{:alt=>"", :src=>"images/portfolio/winepass/winepass_2.jpg", :"data-src"=>"images/portfolio/winepass/winepass_2blur.jpg"}
+      %img{:alt=>"", :"data-src"=>"images/portfolio/winepass/winepass_2.jpg", :src=>"images/portfolio/winepass/low/winepass_2_low.jpg"}
   %hr.spacer-project
   .project-container-photo
     .img-large.spacer
-      %img{:alt=>"", :src=>"images/portfolio/winepass/winepass_3.jpg", :"data-src"=>"images/portfolio/winepass/winepass_3blur.jpg"}
+      %img{:alt=>"", :"data-src"=>"images/portfolio/winepass/winepass_3.jpg", :src=>"images/portfolio/winepass/low/winepass_3_low.jpg"}
   %p.asterisk
     <span class="asterisk">*</span> Placeholder images from <a href="http://www.behance.net/">Behance Network</a>
 
