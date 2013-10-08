@@ -7,5 +7,5 @@ Modernizr.load([
 	},
 
 	//and then load enquire
-	//"/js/site.js"
+	"/js/site.js"
 ]);
