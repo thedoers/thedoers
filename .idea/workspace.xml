@@ -2,17 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f229e5fe-5e38-4f46-8243-4fec9bebfe28" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/veramono/VeraMono-Bold-Italic.ttf" afterPath="$PROJECT_DIR$/build/fonts/veramono/VeraMono-Bold-Italic.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/veramono/VeraMono-Bold.ttf" afterPath="$PROJECT_DIR$/build/fonts/veramono/VeraMono-Bold.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/veramono/VeraMono-Italic.ttf" afterPath="$PROJECT_DIR$/build/fonts/veramono/VeraMono-Italic.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/veramono/VeraMono.ttf" afterPath="$PROJECT_DIR$/build/fonts/veramono/VeraMono.ttf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/application.css" afterPath="$PROJECT_DIR$/build/css/application.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/veramono/specimen_files/easytabs.js" afterPath="$PROJECT_DIR$/build/fonts/veramono/specimen_files/easytabs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/veramono/generator_config.txt" afterPath="$PROJECT_DIR$/build/fonts/veramono/generator_config.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/veramono/specimen_files/grid_12-825-55-15.css" afterPath="$PROJECT_DIR$/build/fonts/veramono/specimen_files/grid_12-825-55-15.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/hiring.html" afterPath="$PROJECT_DIR$/build/hiring.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/layouts/html5.haml" afterPath="$PROJECT_DIR$/source/layouts/html5.haml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/index.html" afterPath="$PROJECT_DIR$/build/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/mazinga_page.html" afterPath="$PROJECT_DIR$/build/mazinga_page.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/features/page_existance.feature" afterPath="$PROJECT_DIR$/build/features/page_existance.feature" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/qa.html" afterPath="$PROJECT_DIR$/build/qa.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/signatures.css" afterPath="$PROJECT_DIR$/build/css/signatures.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helpers/site_helpers.rb" afterPath="$PROJECT_DIR$/helpers/site_helpers.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/veramono/specimen_files/specimen_stylesheet.css" afterPath="$PROJECT_DIR$/build/fonts/veramono/specimen_files/specimen_stylesheet.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/features/step_definitions/steps.rb" afterPath="$PROJECT_DIR$/build/features/step_definitions/steps.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/veramono/stylesheet.css" afterPath="$PROJECT_DIR$/build/fonts/veramono/stylesheet.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/submission_page.html" afterPath="$PROJECT_DIR$/build/submission_page.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/veramono/veramono-bold-demo.html" afterPath="$PROJECT_DIR$/build/fonts/veramono/veramono-bold-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/veramono/veramono-bold-italic-demo.html" afterPath="$PROJECT_DIR$/build/fonts/veramono/veramono-bold-italic-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/veramono/veramono-bold-italic-webfont.svg" afterPath="$PROJECT_DIR$/build/fonts/veramono/veramono-bold-italic-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/veramono/veramono-bold-webfont.svg" afterPath="$PROJECT_DIR$/build/fonts/veramono/veramono-bold-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/veramono/veramono-demo.html" afterPath="$PROJECT_DIR$/build/fonts/veramono/veramono-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/veramono/veramono-italic-demo.html" afterPath="$PROJECT_DIR$/build/fonts/veramono/veramono-italic-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/veramono/veramono-italic-webfont.svg" afterPath="$PROJECT_DIR$/build/fonts/veramono/veramono-italic-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/veramono/veramono-webfont.svg" afterPath="$PROJECT_DIR$/build/fonts/veramono/veramono-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/what_we_do.html.haml" afterPath="$PROJECT_DIR$/source/what_we_do.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="thedoers.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1381223914516" ignored="false" />
+    <file path="/Dummy.txt" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1381325416224" ignored="false" />
     <file path="$USER_HOME$/railsftp/Gemfile" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380549082468" ignored="false" />
     <file path="/hiring.html.haml" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380549633390" ignored="false" />
     <file path="/Gemfile" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380555517015" ignored="false" />
@@ -20,7 +43,7 @@
     <file path="/config.rb" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380559751750" ignored="false" />
     <file path="/index.html.haml" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1381159534282" ignored="false" />
     <file path="/application.css.sass" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380552195562" ignored="false" />
-    <file path="/html5.haml" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380555767171" ignored="false" />
+    <file path="/html5.haml" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1381325693388" ignored="false" />
     <file path="/_menucontainer.haml" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380564582203" ignored="false" />
     <file path="/_960grid.sass" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380618811750" ignored="false" />
     <file path="/_wehaveworkedfor.haml" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380622623578" ignored="false" />
@@ -30,6 +53,8 @@
     <file path="/project_page_cineama.html.haml" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380889574355" ignored="false" />
     <file path="/project_page_alphabots.html.haml" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380911602911" ignored="false" />
     <file path="/site.js" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1381224785712" ignored="false" />
+    <file path="/what_we_do.html.haml" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1381325547453" ignored="false" />
+    <file path="/site_helpers.rb" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1381324977946" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +77,7 @@
       <file leaf-file-name="index.html.haml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/index.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="13" selection-start="329" selection-end="329" vertical-scroll-proportion="31.125">
+            <state line="8" column="13" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -67,13 +92,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="site.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="site.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/js/site.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="34" selection-start="207" selection-end="207" vertical-scroll-proportion="0.36343613">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state line="11" column="34" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -87,10 +110,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="html5.haml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="html5.haml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/layouts/html5.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="35" selection-start="3145" selection-end="3145" vertical-scroll-proportion="-6.875">
+            <state line="16" column="98" selection-start="1057" selection-end="1057" vertical-scroll-proportion="0.31982943">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="site_helpers.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/helpers/site_helpers.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="130" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -114,19 +155,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blog.html.haml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/blog.html.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="what_we_do.html.haml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/what_we_do.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="7" column="25" selection-start="147" selection-end="147" vertical-scroll-proportion="-4.375">
               <folding />
             </state>
           </provider>
@@ -151,8 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/source/project_page_localactors.html.haml" />
-        <option value="$PROJECT_DIR$/source/project_page_oilproject.html.haml" />
         <option value="$PROJECT_DIR$/source/project_page_pupulito.html.haml" />
         <option value="$PROJECT_DIR$/source/project_page_regalister.html.haml" />
         <option value="$PROJECT_DIR$/source/project_page_soccersquare.html.haml" />
@@ -165,8 +195,10 @@
         <option value="$PROJECT_DIR$/source/index.html.haml" />
         <option value="$PROJECT_DIR$/source/js/lazyimg.js" />
         <option value="$PROJECT_DIR$/source/js/init.js" />
-        <option value="$PROJECT_DIR$/source/layouts/html5.haml" />
         <option value="$PROJECT_DIR$/source/js/site.js" />
+        <option value="$PROJECT_DIR$/helpers/site_helpers.rb" />
+        <option value="$PROJECT_DIR$/source/what_we_do.html.haml" />
+        <option value="$PROJECT_DIR$/source/layouts/html5.haml" />
       </list>
     </option>
   </component>
@@ -200,6 +232,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -246,7 +279,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="partials" />
+              <option name="myItemId" value="signatures" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -296,37 +329,42 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
+              <option name="myItemId" value="helpers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thedoers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thedoers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
+              <option name="myItemId" value="build" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="129" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="129" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="151" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="151" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="recentsLimit" value="5" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="133" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="173" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../BlogTheDoersRep" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="129" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="808" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="804" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="128" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="122" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="152" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="848" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="897" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="168" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="162" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
@@ -340,7 +378,7 @@
     <property name="restartRequiresConfirmation" value="true" />
     <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager" selected="Gem Command.DeployM">
+  <component name="RunManager" selected="Gem Command.Middleman">
     <configuration default="true" type="CommandRunConfigurationType" factoryName="Gem Command">
       <module name="" />
       <COMMAND_RUN_CONFIGURATION NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -547,17 +585,17 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23636363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23579203" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32608697" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22740315" sideWeight="0.6739394" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23457676" sideWeight="0.6751515" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3260606" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32484847" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32769045" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -640,11 +678,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/project_page_tacati.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="172" column="111" selection-start="7680" selection-end="7680" vertical-scroll-proportion="0.2924791" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_weightanalytics.html.haml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="146" column="130" selection-start="5741" selection-end="5741" vertical-scroll-proportion="0.45961002" />
@@ -667,33 +700,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_alphabots.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="32" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="1" column="32" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/blog.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/what_we_do.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/partials/_header.haml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -714,26 +729,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/js/site.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="34" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/index.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="13" selection-start="329" selection-end="329" vertical-scroll-proportion="31.125">
+        <state line="8" column="13" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/partials/_header.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helpers/site_helpers.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="130" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/what_we_do.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="25" selection-start="147" selection-end="147" vertical-scroll-proportion="-4.375">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/layouts/html5.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="35" selection-start="3145" selection-end="3145" vertical-scroll-proportion="-6.875">
+        <state line="16" column="98" selection-start="1057" selection-end="1057" vertical-scroll-proportion="0.31982943">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/js/site.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="34" selection-start="207" selection-end="207" vertical-scroll-proportion="0.36343613">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
