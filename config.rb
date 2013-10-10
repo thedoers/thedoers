@@ -4,7 +4,7 @@ activate :deploy do |deploy|
     deploy.user = "piermaria"
     deploy.password = "Nonmelaricordo2"
     deploy.path = "/home/piermaria/webapps/thedoers"
-
+    deploy.build_before = true
 end
 
 
@@ -68,7 +68,7 @@ configure :build do
   activate :minify_javascript
   
   # # Create favicon/touch icon set from source/favicon_base.png
-  activate :favicon_maker
+  #activate :favicon_maker
   
   # # Enable cache buster
   activate :cache_buster
