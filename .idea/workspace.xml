@@ -5,23 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f229e5fe-5e38-4f46-8243-4fec9bebfe28" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/partials/_projects.haml" afterPath="$PROJECT_DIR$/source/partials/_projects.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/css/partials/_320grid.sass" afterPath="$PROJECT_DIR$/source/css/partials/_320grid.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/css/partials/_960grid.sass" afterPath="$PROJECT_DIR$/source/css/partials/_960grid.sass" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="thedoers.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dictionaries/" />
-    <file path="/Dummy.txt" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1381329297975" ignored="false" />
+    <file path="/Dummy.txt" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1381410152498" ignored="false" />
     <file path="$USER_HOME$/railsftp/Gemfile" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380549082468" ignored="false" />
     <file path="/hiring.html.haml" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1381328234414" ignored="false" />
     <file path="/Gemfile" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380555517015" ignored="false" />
-    <file path="/a.dummy" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1381408901179" ignored="false" />
+    <file path="/a.dummy" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1381415944286" ignored="false" />
     <file path="/config.rb" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380559751750" ignored="false" />
     <file path="/index.html.haml" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1381163176004" ignored="false" />
     <file path="/application.css.sass" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380552195562" ignored="false" />
     <file path="/html5.haml" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380555767171" ignored="false" />
     <file path="/_menucontainer.haml" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380564582203" ignored="false" />
-    <file path="/_960grid.sass" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380618811750" ignored="false" />
+    <file path="/_960grid.sass" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1381414526678" ignored="false" />
     <file path="/_wehaveworkedfor.haml" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380622623578" ignored="false" />
     <file path="/_320grid.sass" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380622321437" ignored="false" />
     <file path="/_projects.haml" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380633850062" ignored="false" />
@@ -74,10 +75,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html.haml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html.haml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/index.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.7450495">
+            <state line="52" column="9" selection-start="2459" selection-end="2460" vertical-scroll-proportion="-17.333334">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hiring.html.haml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/hiring.html.haml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="3" selection-start="130" selection-end="130" vertical-scroll-proportion="-4.576923">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_projects.haml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/partials/_projects.haml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_wehaveworkedfor.haml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/partials/_wehaveworkedfor.haml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_960grid.sass" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/css/partials/_960grid.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="403" column="4" selection-start="10127" selection-end="10127" vertical-scroll-proportion="1.9976248">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_320grid.sass" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/css/partials/_320grid.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="28" selection-start="87" selection-end="110" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -107,8 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/source/project_page_regalister.html.haml" />
-        <option value="$PROJECT_DIR$/source/project_page_soccersquare.html.haml" />
         <option value="$PROJECT_DIR$/source/project_page_tacati.html.haml" />
         <option value="$PROJECT_DIR$/source/project_page_tamtown.html.haml" />
         <option value="$PROJECT_DIR$/source/project_page_volleysquare.html.haml" />
@@ -120,9 +164,11 @@
         <option value="$PROJECT_DIR$/source/team.html.haml" />
         <option value="$PROJECT_DIR$/source/we_have_worked_for.html.haml" />
         <option value="$PROJECT_DIR$/source/qa.html.haml" />
-        <option value="$PROJECT_DIR$/source/css/partials/_960grid.sass" />
         <option value="$PROJECT_DIR$/source/css/partials/_320grid.sass" />
+        <option value="$PROJECT_DIR$/source/index.html.haml" />
         <option value="$PROJECT_DIR$/source/partials/_projects.haml" />
+        <option value="$PROJECT_DIR$/source/partials/_wehaveworkedfor.haml" />
+        <option value="$PROJECT_DIR$/source/css/partials/_960grid.sass" />
       </list>
     </option>
   </component>
@@ -201,6 +247,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thedoers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thedoers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thedoers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thedoers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -408,7 +494,11 @@
       <created>1381329304884</created>
       <updated>1381329304884</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Changes on projects">
+      <created>1381410157163</created>
+      <updated>1381410157163</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -435,7 +525,7 @@
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2694704" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2647975" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32554516" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -446,7 +536,7 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32398754" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17504051" sideWeight="0.7305296" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28200972" sideWeight="0.7352025" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3224299" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -500,7 +590,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Page title for all pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes on projects" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -524,6 +614,7 @@
     <MESSAGE value="New script to blur" />
     <MESSAGE value="changes on index link" />
     <MESSAGE value="Page title for all pages" />
+    <MESSAGE value="Changes on projects" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -541,20 +632,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/project_page_weightanalytics.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="23" selection-start="27" selection-end="27" vertical-scroll-proportion="-0.65384614">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/project_page_winepass.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="16" selection-start="20" selection-end="20" vertical-scroll-proportion="-0.65384614">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/projects_wall.html.haml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="20" selection-start="24" selection-end="24" vertical-scroll-proportion="-0.65384614">
@@ -627,28 +704,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/css/partials/_320grid.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="2" selection-start="113" selection-end="113" vertical-scroll-proportion="-0.20334928">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/css/partials/_960grid.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="4" selection-start="1201" selection-end="1201" vertical-scroll-proportion="1.1106095">
+        <state line="4" column="28" selection-start="87" selection-end="110" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/index.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.7450495">
+        <state line="52" column="9" selection-start="2459" selection-end="2460" vertical-scroll-proportion="-17.333334">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/hiring.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="3" selection-start="130" selection-end="130" vertical-scroll-proportion="-4.576923">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/partials/_projects.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="6" selection-start="3707" selection-end="3707" vertical-scroll-proportion="0.40700218">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/partials/_wehaveworkedfor.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/css/partials/_960grid.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="403" column="4" selection-start="10127" selection-end="10127" vertical-scroll-proportion="1.9976248">
           <folding />
         </state>
       </provider>
