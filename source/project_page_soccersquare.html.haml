@@ -1,111 +1,9 @@
+---
+title: "SoccerSquare"
+---
 -# coding: utf-8
 %a.logo-doers{href: 'http://www.thedoers.co/'}
-%ul.menu-container
-  %li.container-hover
-    %a{href: '/projects_wall.html'}
-    .white-line
-      .hover-corner-left
-      .hover-center
-      .hover-corner-right-first
-      .bottone_container
-        .bottone
-          %p
-            <span class="first-letter">P</span>rojects
-            %span.slash /
-          .corner_right
-          .block_center
-          .corner_left
-    .fulminetti
-  %li.container-hover
-    %a{href: '/qa.html'}
-    .white-line
-      .hover-corner-left
-      .hover-center
-      .hover-corner-right
-      .bottone_container
-        .bottone
-          %p
-            <span class="first-letter">Q</span>&A
-            %span.slash /
-          .corner_right
-          .block_center
-          .corner_left
-    .fulminetti
-  %li.container-hover
-    %a{href: '/team.html'}
-    .white-line
-      .hover-corner-left
-      .hover-center
-      .hover-corner-right
-      .bottone_container
-        .bottone
-          %p
-            <span class="first-letter">T</span>eam
-            %span.slash /
-          .corner_right
-          .block_center
-          .corner_left
-    .fulminetti
-  %li.container-hover
-    %a{href: '/what_we_do.html'}
-    .white-line
-      .hover-corner-left
-      .hover-center
-      .hover-corner-right
-      .bottone_container
-        .bottone
-          %p
-            <span class="first-letter">W</span>hat <span class="first-letter">W</span>e <span class="first-letter">D</span>o
-            %span.slash /
-          .corner_right
-          .block_center
-          .corner_left
-    .fulminetti
-  %li.container-hover
-    %a{href: '/we_have_worked_for.html'}
-    .white-line
-      .hover-corner-left
-      .hover-center
-      .hover-corner-right
-      .bottone_container
-        .bottone
-          %p
-            <span class="first-letter">W</span>e've <span class="first-letter">W</span>orked <span class="first-letter">F</span>or
-            %span.slash /
-          .corner_right
-          .block_center
-          .corner_left
-    .fulminetti
-  %li.container-hover
-    %a{href: '/submission_page.html'}
-    .white-line
-      .hover-corner-left
-      .hover-center
-      .hover-corner-right
-      .bottone_container
-        .bottone
-          %p
-            <span class="first-letter">S</span>ubmit<span.first-letter> <span class="first-letter">S</span>tartup
-            %span.slash /
-          .corner_right
-          .block_center
-          .corner_left
-    .fulminetti
-  %li.container-hover
-    %a{href: '/hiring.html'}
-    .white-line
-      .hover-corner-left
-      .hover-center
-      .hover-corner-right
-      .bottone_container
-        .bottone
-          %p
-            <span class="first-letter">H</span>iring
-            %span.slash /
-          .corner_right
-          .block_center
-          .corner_left
-    .fulminetti
+= partial'partials/menucontainer'
 
 %section.page.submit
   %h1.main-black-pink-title
@@ -144,10 +42,6 @@
 
   .project-description
     .container-p
-      %p.project-description
-        Soccer Square is a managerial game about soccer, which takes place on Facebook, among Facebook users. The player embodies a coach of a football team: she will choose the best training strategy for her players, the best game strategy with respect to her opponent, make the wisest buyout decisions in the football market and the smartest investments, to win the championships.
-      %p.project-description
-        Your Facebook friends could be your best allies and the most formidable opponents at the same time! You can find them on the other side of the soccer pitch, and challenge them after having meticulously studied their game strategy – you can exult on their Facebook wall after a winning match, or you can enroll them as personal coach assistants, accountants – to better supervise investment decisions – or hospital nurse to accelerate healing times of your players injured during previous matches.
       %p.project-description
         Easy, immersive and extremely challenging at the same time!
         On Soccer Square – with a hyper-immersive interface – you will be guided through the first steps of the experience of being a coach: as soon as you get accustomed with rules, rhythms, action and events, you will be able to successfully drive your own team both through championships and friendly games. With Soccer Square you have plenty of opportunities to win, gain and to scale up your proficiency level toward an always more challenging experience!
@@ -225,25 +119,17 @@
       %hr
       %ul.funding
         %li
-          %p.funding
-            <span class="money">€</span>320k
           %span.funder
-            business angels
+            320k euros - business angels
         %li
-          %p.funding
-            <span class="money">€</span>100k
           %span.funder
-            italiaonline
+            100K euros - italiaonline
         %li
-          %p.funding
-            <span class="money">€</span>15k
           %span.funder
-            + 3 months acceleration, GameFounders
+            15K euros + 3 months acceleration, GameFounders
         %li
-          %p.funding
-            <span class="money">mau</span>100M
           %span.funder
-            Spilgames
+            100M MAU - Spilgames
 
   %hr.spacer-project
   .project-container-photo
@@ -270,10 +156,10 @@
   %hr.spacer-project
   .project-container-photo
     .img-large
-      %img{:alt=>"", :src=>"images/portfolio/soccersquare/soccersquare_pf_10.jpg", :"data-src"=>"images/portfolio/soccersquare/soccersquare_pf_10blur.jpg"}
+      %img{:alt=>"", :"data-src"=>"images/portfolio/soccersquare/soccersquare_pf_10.jpg", :src=>"images/portfolio/soccersquare/low/soccersquare_pf_10_low.jpg"}
   .project-container-photo
     .img-large
-      %img{:alt=>"", :src=>"images/portfolio/soccersquare/soccersquare_pf_9.jpg", :"data-src"=>"images/portfolio/soccersquare/soccersquare_pf_9blur.jpg"}
+      %img{:alt=>"", :"data-src"=>"images/portfolio/soccersquare/soccersquare_pf_9.jpg", :src=>"images/portfolio/soccersquare/low/soccersquare_pf_9_low.jpg"}
     .description-image
       .corner
       .black-pink-title-small
@@ -299,7 +185,7 @@
         On Soccer Square – with a hyper-immersive interface – you will be guided through the first steps of the experience of being a coach: as soon as you get accustomed with rules, rhythms, action and events, you will be able to successfully drive your own team both through championships and friendly games.
   .project-container-photo
     .img-large
-      %img{:alt=>"", :src=>"images/portfolio/soccersquare/soccersquare_pf_8.jpg", :"data-src"=>"images/portfolio/soccersquare/soccersquare_pf_8blur.jpg"}
+      %img{:alt=>"", :"data-src"=>"images/portfolio/soccersquare/soccersquare_pf_8.jpg", :src=>"images/portfolio/soccersquare/low/soccersquare_pf_8_low.jpg"}
 
 
   .bottom-spacer-projects

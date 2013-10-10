@@ -1,112 +1,9 @@
+---
+title: "Fabrica"
+---
 -# coding: utf-8
 %a.logo-doers{href: 'http://www.thedoers.co/'}
-%ul.menu-container
-  %li.container-hover
-    %a{href: '/projects_wall.html'}
-    .white-line
-      .hover-corner-left
-      .hover-center
-      .hover-corner-right-first
-      .bottone_container
-        .bottone
-          %p
-            <span class="first-letter">P</span>rojects
-            %span.slash /
-          .corner_right
-          .block_center
-          .corner_left
-    .fulminetti
-  %li.container-hover
-    %a{href: '/qa.html'}
-    .white-line
-      .hover-corner-left
-      .hover-center
-      .hover-corner-right
-      .bottone_container
-        .bottone
-          %p
-            <span class="first-letter">Q</span>&A
-            %span.slash /
-          .corner_right
-          .block_center
-          .corner_left
-    .fulminetti
-  %li.container-hover
-    %a{href: '/team.html'}
-    .white-line
-      .hover-corner-left
-      .hover-center
-      .hover-corner-right
-      .bottone_container
-        .bottone
-          %p
-            <span class="first-letter">T</span>eam
-            %span.slash /
-          .corner_right
-          .block_center
-          .corner_left
-    .fulminetti
-  %li.container-hover
-    %a{href: '/what_we_do.html'}
-    .white-line
-      .hover-corner-left
-      .hover-center
-      .hover-corner-right
-      .bottone_container
-        .bottone
-          %p
-            <span class="first-letter">W</span>hat <span class="first-letter">W</span>e <span class="first-letter">D</span>o
-            %span.slash /
-          .corner_right
-          .block_center
-          .corner_left
-    .fulminetti
-  %li.container-hover
-    %a{href: '/we_have_worked_for.html'}
-    .white-line
-      .hover-corner-left
-      .hover-center
-      .hover-corner-right
-      .bottone_container
-        .bottone
-          %p
-            <span class="first-letter">W</span>e've <span class="first-letter">W</span>orked <span class="first-letter">F</span>or
-            %span.slash /
-          .corner_right
-          .block_center
-          .corner_left
-    .fulminetti
-  %li.container-hover
-    %a{href: '/submission_page.html'}
-    .white-line
-      .hover-corner-left
-      .hover-center
-      .hover-corner-right
-      .bottone_container
-        .bottone
-          %p
-            <span class="first-letter">S</span>ubmit<span.first-letter> <span class="first-letter">S</span>tartup
-            %span.slash /
-          .corner_right
-          .block_center
-          .corner_left
-    .fulminetti
-  %li.container-hover
-    %a{href: '/hiring.html'}
-    .white-line
-      .hover-corner-left
-      .hover-center
-      .hover-corner-right
-      .bottone_container
-        .bottone
-          %p
-            <span class="first-letter">H</span>iring
-            %span.slash /
-          .corner_right
-          .block_center
-          .corner_left
-    .fulminetti
-
+= partial'partials/menucontainer'
 
 %section.page.submit
   %h1.main-black-pink-title
@@ -240,33 +137,83 @@
       %ul.funding
         %li
           %p.funding
-            <span class="money">€</span>14k
           %span.funder
-            innogest
-        %li
-          %p.funding
-            <span class="money">€</span>25k
-          %span.funder
-            placeholder name funder
+            Benetton - self funded
 
   %hr.spacer-project
   .project-container-photo
     .img-large.spacer
-      %img{:alt=>"", :src=>"images/portfolio/fabrica/fabrica_1.jpg", :"data-src"=>"images/portfolio/fabrica/fabrica_1blur.jpg"}
+      %img{:alt=>"", :"data-src"=>"images/portfolio/fabrica/fabrica_1.jpg", :src=>"images/portfolio/fabrica/low/fabrica_1_low.jpg"}
   .project-container-photo
     .img-medium
-      %img{:alt=>"", :src=>"images/portfolio/fabrica/fabrica_2.jpg", :"data-src"=>"images/portfolio/fabrica/fabrica_2blur.jpg"}
+      %img{:alt=>"", :"data-src"=>"images/portfolio/fabrica/fabrica_2.jpg", :src=>"images/portfolio/fabrica/low/fabrica_2_low.jpg"}
     .description-image
       .corner
       .black-pink-title-small
         %h2
           .container
             %span
-              the
+              Graphic
               .shadow-right
               .shadow-bottom
             %span
-              value
+              language
+              .shadow-right
+              .shadow-bottom
+      %p
+        Minimalist and finest, the graphic language is defined by Fabrica’s fellows, and executed by them under the direction of The Doers.
+  .project-container-photo
+    .img-medium
+      %img{:alt=>"", :"data-src"=>"images/portfolio/fabrica/fabrica_3.jpg", :src=>"images/portfolio/fabrica/low/fabrica_3_low.jpg"}
+  %hr.spacer-project
+  .project-container-photo
+    .img-large.spacer
+      %img{:alt=>"", :"data-src"=>"images/portfolio/fabrica/fabrica_4.jpg", :src=>"images/portfolio/fabrica/low/fabrica_4_low.jpg"}
+  %hr.spacer-project
+  .project-container-photo
+    .img-large
+      %img{:alt=>"", :"data-src"=>"images/portfolio/fabrica/fabrica_6.jpg", :src=>"images/portfolio/fabrica/low/fabrica_6_low.jpg"}
+  .project-container-photo
+    .img-medium
+      %img{:alt=>"", :"data-src"=>"images/portfolio/fabrica/fabrica_8.jpg", :src=>"images/portfolio/fabrica/low/fabrica_8_low.jpg"}
+    .description-image
+      .corner
+      .black-pink-title-small
+        %h2
+          .container
+            %span
+              Interaction
+              .shadow-right
+              .shadow-bottom
+            %span
+              design
+              .shadow-right
+              .shadow-bottom
+            %span
+              strategy
+              .shadow-right
+              .shadow-bottom
+      %p
+        Interaction design strategy is intended to promote users’ interaction with the digital hub, in a way that the emerging digital lifestyle is consistent with Fabrica’s culture.
+  %hr.spacer-project
+  .project-container-photo
+    .img-medium.spacer
+      %img{:alt=>"", :"data-src"=>"images/portfolio/fabrica/fabrica_9.jpg", :src=>"images/portfolio/fabrica/low/fabrica_9_low.jpg"}
+  %hr.spacer-project
+  .project-container-photo
+    .img-large
+      %img{:alt=>"", :"data-src"=>"images/portfolio/fabrica/fabrica_10.jpg", :src=>"images/portfolio/fabrica/low/fabrica_10_low.jpg"}
+    .description-image
+      .corner
+      .black-pink-title-small
+        %h2
+          .container
+            %span
+              Collaborative
+              .shadow-right
+              .shadow-bottom
+            %span
+              mapping
               .shadow-right
               .shadow-bottom
             %span
@@ -274,96 +221,24 @@
               .shadow-right
               .shadow-bottom
             %span
-              ‘writings’
+              user experience
               .shadow-right
               .shadow-bottom
       %p
-        Bookolico will help sharing and trading the value of ‘writings’(shall we call them eBooks?), in a way to respect both the time spent writing and the time spent reading. (Indeed: the cost of the book is equal to the price of the book + value of the time spent reading.
+        Process has started from the collaborative mapping of the Fabricanti’s (staff + alumni) user experience.
   .project-container-photo
     .img-medium
-      %img{:alt=>"", :src=>"images/portfolio/fabrica/fabrica_3.jpg", :"data-src"=>"images/portfolio/fabrica/fabrica_3blur.jpg"}
-  %hr.spacer-project
-  .project-container-photo
-    .img-large.spacer
-      %img{:alt=>"", :src=>"images/portfolio/fabrica/fabrica_4.jpg", :"data-src"=>"images/portfolio/fabrica/fabrica_4blur.jpg"}
-  %hr.spacer-project
-  .project-container-photo
-    .img-large
-      %img{:alt=>"", :src=>"images/portfolio/fabrica/fabrica_6.jpg", :"data-src"=>"images/portfolio/fabrica/fabrica_6blur.jpg"}
+      %img{:alt=>"", :"data-src"=>"images/portfolio/fabrica/fabrica_11.jpg", :src=>"images/portfolio/fabrica/low/fabrica_11_low.jpg"}
   .project-container-photo
     .img-medium
-      %img{:alt=>"", :src=>"images/portfolio/fabrica/fabrica_8.jpg", :"data-src"=>"images/portfolio/fabrica/fabrica_8blur.jpg"}
-    .description-image
-      .corner
-      .black-pink-title-small
-        %h2
-          .container
-            %span
-              bookolico
-              .shadow-right
-              .shadow-bottom
-            %span
-              offers
-              .shadow-right
-              .shadow-bottom
-            %span
-              you
-              .shadow-right
-              .shadow-bottom
-            %span
-              a
-              .shadow-right
-              .shadow-bottom
-            %span
-              candy:
-              .shadow-right
-              .shadow-bottom
-      %p
-        in Bookolico’s landing page you can enjoy each week a different excerpt from novels of independent writers and vote it, while staying in touch with Bookolico updates.
-  %hr.spacer-project
+      %img{:alt=>"", :"data-src"=>"images/portfolio/fabrica/fabrica_5.jpg", :src=>"images/portfolio/fabrica/low/fabrica_5_low.jpg"}
   .project-container-photo
     .img-medium.spacer
-      %img{:alt=>"", :src=>"images/portfolio/fabrica/fabrica_9.jpg", :"data-src"=>"images/portfolio/fabrica/fabrica_9blur.jpg"}
-  %hr.spacer-project
-  .project-container-photo
-    .img-large
-      %img{:alt=>"", :src=>"images/portfolio/fabrica/fabrica_10.jpg", :"data-src"=>"images/portfolio/fabrica/fabrica_10blur.jpg"}
-    .description-image
-      .corner
-      .black-pink-title-small
-        %h2
-          .container
-            %span
-              the
-              .shadow-right
-              .shadow-bottom
-            %span
-              value
-              .shadow-right
-              .shadow-bottom
-            %span
-              of
-              .shadow-right
-              .shadow-bottom
-            %span
-              ‘writings’
-              .shadow-right
-              .shadow-bottom
-      %p
-        Bookolico will help sharing and trading the value of ‘writings’(shall we call them eBooks?), in a way to respect both the time spent writing and the time spent reading. (Indeed: the cost of the book is equal to the price of the book + value of the time spent reading.
-  .project-container-photo
-    .img-medium
-      %img{:alt=>"", :src=>"images/portfolio/fabrica/fabrica_11.jpg", :"data-src"=>"images/portfolio/fabrica/fabrica_11blur.jpg"}
-  .project-container-photo
-    .img-medium
-      %img{:alt=>"", :src=>"images/portfolio/fabrica/fabrica_5.jpg", :"data-src"=>"images/portfolio/fabrica/fabrica_5blur.jpg"}
-  .project-container-photo
-    .img-medium.spacer
-      %img{:alt=>"", :src=>"images/portfolio/fabrica/fabrica_12.jpg", :"data-src"=>"images/portfolio/fabrica/fabrica_12blur.jpg"}
+      %img{:alt=>"", :"data-src"=>"images/portfolio/fabrica/fabrica_12.jpg", :src=>"images/portfolio/fabrica/low/fabrica_12_low.jpg"}
 
   .project-container-photo
     .img-medium
-      %img{:alt=>"", :src=>"images/portfolio/fabrica/fabrica_13.jpg", :"data-src"=>"images/portfolio/fabrica/fabrica_13blur.jpg"}
+      %img{:alt=>"", :"data-src"=>"images/portfolio/fabrica/fabrica_13.jpg", :src=>"images/portfolio/fabrica/low/fabrica_13_low.jpg"}
 
 
   .bottom-spacer-projects
