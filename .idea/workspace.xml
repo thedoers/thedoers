@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b04a6eb-a2d9-4110-a25f-710eee05cd24" name="Default" comment="Page team updated with Danny &amp; Carmen">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_pubcoder.html.haml" afterPath="$PROJECT_DIR$/source/project_page_pubcoder.html.haml" />
+    <list default="true" id="0b04a6eb-a2d9-4110-a25f-710eee05cd24" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/project_page_soccersquare.html.haml" afterPath="$PROJECT_DIR$/source/project_page_soccersquare.html.haml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="thedoers.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0b04a6eb-a2d9-4110-a25f-710eee05cd24" time="1381398276823" ignored="false" />
+    <file path="/Dummy.txt" changelist="0b04a6eb-a2d9-4110-a25f-710eee05cd24" time="1381399608100" ignored="false" />
     <file path="/team.html.haml" changelist="0b04a6eb-a2d9-4110-a25f-710eee05cd24" time="1381397992773" ignored="false" />
     <file path="/project_page_pubcoder.html.haml" changelist="0b04a6eb-a2d9-4110-a25f-710eee05cd24" time="1381399339170" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,10 +49,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="project_page_pubcoder.html.haml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="project_page_pubcoder.html.haml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/project_page_pubcoder.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="66" selection-start="1551" selection-end="1551" vertical-scroll-proportion="-5.2549405">
+            <state line="44" column="66" selection-start="1551" selection-end="1551" vertical-scroll-proportion="110.791664">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project_page_soccersquare.html.haml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/project_page_soccersquare.html.haml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="49" column="32" selection-start="2003" selection-end="2094" vertical-scroll-proportion="0.6225296">
               <folding />
             </state>
           </provider>
@@ -79,6 +88,7 @@
       <list>
         <option value="$PROJECT_DIR$/source/team.html.haml" />
         <option value="$PROJECT_DIR$/source/project_page_pubcoder.html.haml" />
+        <option value="$PROJECT_DIR$/source/project_page_soccersquare.html.haml" />
       </list>
     </option>
   </component>
@@ -393,7 +403,11 @@
       <created>1381398161754</created>
       <updated>1381398161754</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Text changes to pubcoder">
+      <created>1381399610770</created>
+      <updated>1381399610770</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -482,7 +496,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Page team updated with Danny &amp; Carmen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Text changes to pubcoder" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -497,6 +511,7 @@
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="Page team updated with Danny &amp; Carmen" />
+    <MESSAGE value="Text changes to pubcoder" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -520,7 +535,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/project_page_pubcoder.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="66" selection-start="1551" selection-end="1551" vertical-scroll-proportion="-5.2549405">
+        <state line="44" column="66" selection-start="1551" selection-end="1551" vertical-scroll-proportion="110.791664">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/project_page_soccersquare.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="32" selection-start="2003" selection-end="2094" vertical-scroll-proportion="0.6225296">
           <folding />
         </state>
       </provider>
