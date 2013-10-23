@@ -7,6 +7,7 @@ activate :deploy do |deploy|
     deploy.build_before = true
 end
 
+require 'builder'
 
 page "/", :layout => :html5
 page "/hiring.html", :layout => :html5
@@ -36,12 +37,14 @@ page "/project_page_alphabots.html", :layout => :html5
 page "/project_page_pupulito.html", :layout => :html5
 page "/projects_wall.html", :layout => :html5
 page "/team.html", :layout => :html5
-page "/we_have_worked_for.html", :layout => :html5
-page "/error404.html", :layout => :html5
-page "/blog.html", :layout => :html5
-page "/blog_ixdt_user_interface.html", :layout => :html5
-page "/blog_deep_into_the_ocean.html", :layout => :html5
-page "/blog_ixdt_ruby.html", :layout => :html5
+#page "/we_have_worked_for.html", :layout => :html5
+page "/404.html", :layout => :html5
+#page "/blog.html", :layout => :html5
+# page "/blog_ixdt_user_interface.html", :layout => :html5
+# page "/blog_deep_into_the_ocean.html", :layout => :html5
+# page "/blog_ixdt_ruby.html", :layout => :html5
+
+page "/sitemap.xml", :layout => false
 
 
 

@@ -10,6 +10,7 @@ gem "wdm", :platforms => [:mswin, :mingw]
 
 gem "susy"
 gem 'compass-h5bp'
+gem "builder"
 
 #gem 'oily_png'
 #gem 'coffee-filter' # Coffeescript filter for HAML
