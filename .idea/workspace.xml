@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f229e5fe-5e38-4f46-8243-4fec9bebfe28" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/partials/_menucontainer.haml" afterPath="$PROJECT_DIR$/source/partials/_menucontainer.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/blog.html.haml" afterPath="$PROJECT_DIR$/source/blog.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/blog_ixdt_ruby.html.haml" afterPath="$PROJECT_DIR$/source/blog_ixdt_ruby.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/blog_ixdt_user_interface.html.haml" afterPath="$PROJECT_DIR$/source/blog_ixdt_user_interface.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/hiring.html" afterPath="$PROJECT_DIR$/build/hiring.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/index.html" afterPath="$PROJECT_DIR$/build/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/mazinga_page.html" afterPath="$PROJECT_DIR$/build/mazinga_page.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/qa.html" afterPath="$PROJECT_DIR$/build/qa.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/submission_page.html" afterPath="$PROJECT_DIR$/build/submission_page.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="thedoers.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1382538573431" ignored="false" />
+    <file path="/Dummy.txt" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1382538666059" ignored="false" />
     <file path="$USER_HOME$/railsftp/Gemfile" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380549082468" ignored="false" />
     <file path="/hiring.html.haml" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380549633390" ignored="false" />
     <file path="/Gemfile" changelist="f229e5fe-5e38-4f46-8243-4fec9bebfe28" time="1380555517015" ignored="false" />
@@ -136,7 +137,7 @@
       <file leaf-file-name="blog_ixdt_user_interface.html.haml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/blog_ixdt_user_interface.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="87" column="78" selection-start="2328" selection-end="2328" vertical-scroll-proportion="0.35042736">
+            <state line="93" column="43" selection-start="2506" selection-end="2506" vertical-scroll-proportion="0.54042554">
               <folding />
             </state>
           </provider>
@@ -356,7 +357,7 @@
     <property name="restartRequiresConfirmation" value="true" />
     <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager" selected="Gem Command.Build">
+  <component name="RunManager" selected="Gem Command.DeployM">
     <configuration default="true" type="CommandRunConfigurationType" factoryName="Gem Command">
       <module name="" />
       <COMMAND_RUN_CONFIGURATION NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -577,7 +578,11 @@
       <created>1382538576722</created>
       <updated>1382538576722</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="fixes w3c">
+      <created>1382538669823</created>
+      <updated>1382538669823</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -606,7 +611,7 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23579203" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3260606" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3260606" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -615,8 +620,8 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32608697" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24533716" sideWeight="0.6739394" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32363635" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24533716" sideWeight="0.67636365" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32363635" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -809,7 +814,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/blog_ixdt_user_interface.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="78" selection-start="2328" selection-end="2328" vertical-scroll-proportion="0.35042736">
+        <state line="93" column="43" selection-start="2506" selection-end="2506" vertical-scroll-proportion="0.54042554">
           <folding />
         </state>
       </provider>
