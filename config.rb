@@ -80,7 +80,9 @@ configure :build do
   
   # # Use relative URLs
   #activate :relative_assets
-
+  # # To put width and height inside tag and to compression
+  activate :automatic_image_sizes
+  activate :gzip
   #activate :smusher
   
   # Or use a different image path
