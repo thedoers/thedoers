@@ -1,7 +1,7 @@
 module SiteHelpers
 
   def page_title
-    title = "The Doers"
+    title = "The Doers main page"
     if data.page.title
       title << " | " + data.page.title
     end
