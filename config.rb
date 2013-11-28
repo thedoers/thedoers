@@ -52,14 +52,14 @@ page "/sitemap.xml", :layout => false
 require 'susy'
 
 
-set :css_dir, 'css'
+set :css_dir, 'css/old'
 
-set :js_dir, 'js'
+set :js_dir, 'js/old'
 
-set :images_dir, 'images'
+set :images_dir, 'images/old'
 
 
-set :fonts_dir, 'fonts'
+set :fonts_dir, 'fonts/old'
 
 
 # Build-specific configuration
